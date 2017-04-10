@@ -10,16 +10,16 @@ tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
 description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
 # List of related keywords for search engines
-keywords: highered, college, university, philadelphia, Temple
+keywords: higher ed, college, university, philadelphia, Temple
 
 # Address
 address:
   building: Gladfelter Hall
-  room: 10th Floor
-  street: 1114 West Berks St
+  room: 025-45; 10th Floor
+  street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email:
-  phone:
+  email: chat@temple.edu
+  phone: 215 204-6386
 
 # Social Media
 # Put in only the username unless otherwise noted
