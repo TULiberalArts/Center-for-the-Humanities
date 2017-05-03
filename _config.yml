@@ -8,7 +8,7 @@ baseurl: /center-for-the-humanities
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Center for the Humanities at Temple (CHAT) is an interdisciplinary forum for scholarship and intellectual inquiry in the humanities at Temple University.'
 # List of related keywords for search engines
 keywords: higher ed, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 025-45; 10th Floor
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: chat@temple.edu
-  phone: 215 204-6386
+  email: <a href="mailto:chat@temple.edu">chat@temple.edu</a>
+  phone: 215-204-6386
 
 # Social Media
 # Put in only the username unless otherwise noted
