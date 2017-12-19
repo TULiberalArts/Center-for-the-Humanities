@@ -31,7 +31,7 @@ The Center offers a rich and diverse range of activities, including:
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="Important Deadlines" 
     content=" " 
     image="" 
     button-link=" " 
@@ -47,8 +47,8 @@ The Center offers a rich and diverse range of activities, including:
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Graduate Courses" 
+        content="courses" 
         image="" 
         button-link=" " 
         button-text="Learn More" %}
