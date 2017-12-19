@@ -1,7 +1,7 @@
 ---
-title: Faculty
-permalink: /faculty/
-layout: faculty2
+title: Fellows
+permalink: /fellows/
+layout: page
 keywords: ''
 description: >-
 published: true
