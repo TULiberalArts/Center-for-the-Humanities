@@ -1,6 +1,6 @@
 ---
-title: Resources
-permalink: /resources/
+title: Activities
+permalink: /activities/
 layout: page
 keywords: ''
 description: >-
