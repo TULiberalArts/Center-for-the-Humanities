@@ -28,10 +28,10 @@ address:
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://facebook.com/USERNAME
+  # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TULiberalArts
-  # Twitter - https://twitter.com/USERNAME
+  # Twitter - twitter.com/USERNAME
   twitter: TULiberalArts
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
