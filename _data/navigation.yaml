@@ -4,6 +4,8 @@
   url : /groups/
 - text: Activities
   url: /activities/
+- text: People
+  url: /people/
 - text: Courses
   url: /courses/
 
