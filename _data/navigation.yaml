@@ -1,6 +1,9 @@
-- text: Research
-  url: /research/
-- text: Resources
-  url : /resources/
-- text: Faculty
-  url: /faculty/
+- text: Fellows
+  url: /fellows/
+- text: Groups
+  url : /groups/
+- text: Activities
+  url: /activities/
+- text: Courses
+  url: /courses/
+
