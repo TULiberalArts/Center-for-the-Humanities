@@ -1,6 +1,6 @@
 ---
-title: Research
-permalink: /research/
+title: Groups
+permalink: /groups/
 layout: page
 keywords: ''
 description: >- 
