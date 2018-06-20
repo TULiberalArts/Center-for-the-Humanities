@@ -5,6 +5,8 @@ title: Center for the Humanities
 baseurl: /center-for-the-humanities
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/center-for-the-humanities
 
 
 # Program Information
