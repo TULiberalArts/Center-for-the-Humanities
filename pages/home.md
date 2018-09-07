@@ -11,8 +11,6 @@ keywords: ''
 promotion-table: true
 sidebar: false
 feature: false
-feature-title: 
-feature-image: 
 feature-body: >-
   Located on the tenth floor of Gladfelter Hall, the comfortable quarters serve as 
   a gathering place for scholars from across the disciplines to meet, enjoy social 
