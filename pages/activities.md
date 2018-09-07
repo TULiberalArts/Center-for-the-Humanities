@@ -1,10 +1,14 @@
 ---
-title: Activities
+# global predefined variables
+layout: tla_page
 permalink: /activities/
-layout: page
-keywords: ''
-description: >-
 published: true
+# meta-data variables
+title: Activities
+description: >-
+keywords: ''
+# custom variables
+sidebar: false
 ---
 
 **Director**
