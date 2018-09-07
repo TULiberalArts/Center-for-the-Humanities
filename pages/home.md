@@ -19,7 +19,7 @@ feature-body: >-
 ## A Forum for Scholarship and Intellectual Inquiry in the Humanities
 The Center for the Humanities at Temple (CHAT) was established in 2003 to create an interdisciplinary forum for scholarship and intellectual inquiry in the humanities at Temple University. We work to bridge the disciplinary divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple scholarly fields.
 
-The Center's Director works in concert with an Advisory Board of faculty from different departments in the humanities and social sciences. Participation is open to faculty and students in all schools and colleges at Temple University. Major funding is provided by the College of Liberal Arts, the Klein College of Media and Communication, Tyler School of Art, Boyer College of Music and Dance, and the Graduate School. CHAT is a member of the [Consortium of Humanities Centers and Institutes](http://chcinetwork.org/).
+The Center's Director works in concert with an Advisory Board of faculty from different departments in the humanities and social sciences. Participation is open to faculty and students in all schools and colleges at Temple University. Major funding is provided by the College of Liberal Arts, the [Klein College of Media and Communication](https://klein.temple.edu/), [Tyler School of Art](http://www.temple.edu/tyler/), [Boyer College of Music and Dance](http://www.temple.edu/boyer/), and the [Graduate School](http://www.temple.edu/grad/index.htm). CHAT is a member of the [Consortium of Humanities Centers and Institutes](http://chcinetwork.org/).
 
 The Center offers a rich and diverse range of activities, including:
 
