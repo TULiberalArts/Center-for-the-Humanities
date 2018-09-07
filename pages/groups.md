@@ -1,10 +1,14 @@
 ---
-title: Groups
+# global predefined variables
+layout: tla_page
 permalink: /groups/
-layout: page
-keywords: ''
-description: >- 
 published: true
+# meta-data variables
+title: Groups
+description: >-
+keywords: ''
+# custom variables
+sidebar: false
 ---
 ## Check out this research program!
 
