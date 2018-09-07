@@ -17,9 +17,9 @@ feature: false
 feature-title: 
 feature-image: 
 feature-body: >-
-  Located on the tenth floor of Gladfelter Hall, the comfortable quarters serve as a gathering place for
-  scholars from across the disciplines to meet, enjoy social hours, and read the latest humanities-oriented
-  journals and periodicals.
+  Located on the tenth floor of Gladfelter Hall, the comfortable quarters serve as 
+  a gathering place for scholars from across the disciplines to meet, enjoy social hours
+  and read the latest humanities-oriented journals and periodicals.
 ---
 The Center for the Humanities at Temple (CHAT) was established in 2003 to create an interdisciplinary forum for scholarship and intellectual inquiry in the humanities at Temple University. We work to bridge the disciplinary divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple scholarly fields.
 
