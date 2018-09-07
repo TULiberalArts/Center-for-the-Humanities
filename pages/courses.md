@@ -1,8 +1,12 @@
 ---
-title: Courses
+# global predefined variables
+layout: tla_page
 permalink: /courses/
-layout: page
-keywords: ''
-description: >-
 published: true
+# meta-data variables
+title: Courses
+description: >-
+keywords: ''
+# custom variables
+sidebar: false
 ---
