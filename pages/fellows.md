@@ -8,12 +8,11 @@ title: Fellows
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
 
 ## 2017-2018 CHAT Fellows
 
-## Fellowships 
+## Fellowships
 
 ## Faculty Fellowship
 

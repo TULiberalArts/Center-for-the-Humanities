@@ -8,7 +8,6 @@ title: Groups
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
 ## Check out this research program!
 

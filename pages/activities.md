@@ -8,7 +8,6 @@ title: Activities
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
 
 **Director**

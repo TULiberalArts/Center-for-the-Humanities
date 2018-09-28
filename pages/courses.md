@@ -8,5 +8,4 @@ title: Courses
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
