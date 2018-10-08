@@ -36,18 +36,18 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="Important Deadlines"
-    content=" "
+    title="Recorded Programs"
+    content="These are fascinating lectures on a wide range of topics in the humanities with high-quality sound and video. See our growing collection of recorded programs."
     image=""
     button-link=" "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title=" "
-      content=" "
+      title="Subscribe to _The Weekly Chatter_"
+      content="A guide to upcoming events in the humanities and social sciences at Temple University, updated weekly during the academic year."
       image=""
-      button-link=" "
+      button-link="https://temple.us1.list-manage.com/subscribe?u=daac6912a370e1cb9d2c3756a&id=49a7937a70"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
