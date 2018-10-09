@@ -8,6 +8,7 @@ title: Fellows
 description: >-
 keywords: ''
 # custom variables
+sidebar: sidebars/people.html
 ---
 
 ## 2017-2018 CHAT Fellows
