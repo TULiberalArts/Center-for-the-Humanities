@@ -8,4 +8,5 @@ title: Courses
 description: >-
 keywords: ''
 # custom variables
+sidebar: sidebars/people.html
 ---
