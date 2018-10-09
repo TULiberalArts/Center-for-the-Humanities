@@ -8,4 +8,5 @@ title: Activities
 description: >-
 keywords: ''
 # custom variables
+sidebar: sidebars/people.html
 ---
