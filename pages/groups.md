@@ -8,6 +8,7 @@ title: Groups
 description: >-
 keywords: ''
 # custom variables
+sidebar: sidebars/people.html
 ---
 ## Check out this research program!
 
