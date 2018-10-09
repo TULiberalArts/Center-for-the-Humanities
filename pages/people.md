@@ -9,20 +9,6 @@ description: >-
 keywords: ''
 # custom variables
 ---
-**_Director_**<br>
-- [Petra Goedde, Ph.D., Associate Professor of History](https://liberalarts.temple.edu/academics/faculty/goedde-petra)
-
-**_Manager, Administration_**<br>
-- [Yvonne Muchemi](mailto:ymuchemi@temple.edu)
-
-**_Graphics Assistant_**<br>
-- Thanh Evan X. Nguyen
-
-**_Web Assistant_**<br>
-- [Christopher Phillips](mailto:phillips@temple.edu)
-
-___
-
 ## Advisory Board
 - [Dr. Lila Berman](https://liberalarts.temple.edu/academics/faculty/corwin-berman-lila) - Professor of History
 - [Dr. Marcus Bingenheimer](https://liberalarts.temple.edu/academics/faculty/bingenheimer-marcus) - Associate Professor of Religion
