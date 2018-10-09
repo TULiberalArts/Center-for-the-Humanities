@@ -5,7 +5,7 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description:>-
+description: >-
 keywords: ''
 # custom variables
 promotion-table: true
