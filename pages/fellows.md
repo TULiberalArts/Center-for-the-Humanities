@@ -15,7 +15,7 @@ CHAT is proud to announce the following recipients of fellowships at the Humanit
 
 ### Faculty Fellows
 ![Eugene Chislenko]({{site.baseurl}}/media/){:.responsive-img .img-right}
-**[_Eugene Chislenko, Assistant Professor, Philosophy_**](https://liberalarts.temple.edu/academics/faculty/chislenko-eugene)<br>
+**[_Eugene Chislenko, Assistant Professor, Philosophy_](https://liberalarts.temple.edu/academics/faculty/chislenko-eugene)**<br>
 
 Eugene Chislenko specializes in ethics and moral psychology, and in related topics in the philosophy of mind, philosophy of action, aesthetics, and the history of philosophy, especially Kant and existentialism. After receiving his B.A. at Harvard University and his Ph.D. at the University of California, Berkeley, he came to Temple in 2016. His recent work includes "A Solution for Buridan's Ass" (Ethics, January 2016) and "Moore’s Paradox and Akratic Belief" (Philosophy and _Phenomenological Research_, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
 
