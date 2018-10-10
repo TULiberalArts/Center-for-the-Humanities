@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-feature: true
+feature: false
 feature image: 
 feature-body: >-
   Located on the tenth floor of Gladfelter Hall, the comfortable quarters serve as
