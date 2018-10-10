@@ -4,10 +4,11 @@
   url : /groups/
 - text: Activities
   url: /activities/
+- text: Courses
+  url: /courses/  
 - text: People
   url: /people/
 - text: Fellowships
   url: /fellowships/
-- text: Courses
-  url: /courses/
-
+- text: Graduate Students
+  url: /graduate-students/
