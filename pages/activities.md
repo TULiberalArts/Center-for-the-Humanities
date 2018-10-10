@@ -10,5 +10,5 @@ keywords: ''
 # custom variables
 sidebar: sidebars/people.html
 ---
-## Recodred Programs
+## Recorded Programs
 https://develop.cla.temple.edu/center-for-the-humanities/recorded-programs/
