@@ -28,29 +28,37 @@ keywords: ''
 **Carolyn Kitch, Journalism**, Thursday January 29<br>
 [When Does Memory End and History Begin? Testimony, Tribute, and Imaginative Re-Engagement with Troubled Pasts](https://ensemble.temple.edu/Watch/Az79CoGs)<br>
 
+___
+
 ### Fall 2014
 
 **Wazhmah Osman, Media Studies and Production**, Thursday September 18<br>
 [Brought to You by Foreigners, Warlords, and Local Activists: TV and the Afghan Culture Wars](http://templetv.net/shows/university-lecture-series/humanities-lecture-afghanistan-and-tv/)<br>
 
-**Rebecca Frost Davis, Director of Instructional and Emerging Technology St. Edwards University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+**Rebecca Frost Davis, Director of Instructional and Emerging Technology St. Edwards University**, Wednesday October 22<br>
+[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-digital-humanities-research-panel/)<br>
 
-**Ethan Watrall, Anthropology Michigan State University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+**Dan Edelstein, French Stanford University**, Wednesday November 19<br>
+[Social Network Analysis for Humanistic Research: Beyond Gephi](http://templetv.net/shows/university-lecture-series/humanities-lecture-dan-edelstein/)<br>
 
-**Ethan Watrall, Anthropology Michigan State University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+___
 
-**Ethan Watrall, Anthropology Michigan State University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+### Spring 2014 
 
-**Ethan Watrall, Anthropology Michigan State University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+**Lara Ostaric, Philosophy**, Thursday April 10<br>
+[The Nonsensical and the Ugly](https://ensemble.temple.edu/app/sites/index.aspx?destinationID=JJbfMFw8TUSFzpkSneCleQ&contentID=DoIjAPp02ECvSD6YGGkOOw&pageIndex=1&pageSize=10)<br>
 
-**Ethan Watrall, Anthropology Michigan State University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+**Mark Pedelty, Communication Studies and Anthropology**, Wednesday April 2<br>
+[Sound Ecology: Music, Noise, and Sonic Conflict in the Salish Sea](https://ensemble.temple.edu/ensemble/app/sites/index.aspx?destinationID=JJbfMFw8TUSFzpkSneCleQ&contentID=Djz0EY11cE2pmjI7oNw-mA&pageIndex=1&pageSize=10)<br>
 
-**Ethan Watrall, Anthropology Michigan State University**, Wednesday February 4<br>
-[Digging, Digitally: Advances in Digital Archaeological Method and Practice](http://templetv.net/shows/university-lecture-series/humanities-lecture-ethan-watrall/)<br>
+**Orfeo Fioretos, Political Science**, Thursday March 13<br>
+[History and Politics in the Remaking of Global Capitalism](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-orfeo-fioretos/)<br>
+
+**Mark Leuchter, Religion**, Thursday February 20<br>
+[The Devil Made Me Do It: The Ancient Mythology Behind Personal Moral Struggle in Early Judaism](https://ensemble.temple.edu/ensemble/app/sites/index.aspx?destinationID=JJbfMFw8TUSFzpkSneCleQ&contentID=-PZh6zzGE0asVsps_HLUgw&pageIndex=1&pageSize=10)<br>
+
+**Cristina Gragnani, Italian**, Thursday February 6<br>
+[The 'Other' Side of Conflict: Italian Women Writers and World War I](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-cristina-gragnani/)<br>
+
+___
 
