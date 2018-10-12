@@ -135,3 +135,14 @@ Temple University-Ben Gurion University of the Negev, Israel<br>
 - [**Recorded Programs**](https://develop.cla.temple.edu/center-for-the-humanities/recorded-programs/)
 - **Previous Exhibits - Need to Migrate**
 - **Co-Sponsored Events - Need to Migrate**
+
+## Previous Lectures
+**IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.**
+- 2016-17  
+- 2015-16 
+- 2014-15 
+- 2013-14 
+- 2012-13 
+- 2011-12 
+- 2010-11 
+- 2009-10
