@@ -89,6 +89,8 @@ Urszula Pruchniewska's project examines the #metoo movement on Twitter, identify
 
 Vivien Wise combines mapping, data, and traditional craft, to create topographies that are based on a connection between land and body, relation to care, and connection to personal history.
 
+___
+
 ## Fellows Seminar
 All faculty and graduate students holding fellowships or associateships participate in a bi-weekly set of meetings to discuss the work-in-progress of the participants. Lunch is provided, and material is pre-circulated so that discussion focuses on responses to the work.
 
