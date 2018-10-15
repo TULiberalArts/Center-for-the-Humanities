@@ -88,3 +88,15 @@ Urszula Pruchniewska's project examines the #metoo movement on Twitter, identify
 **_Vivien Wise, MFA, Fibers and Material Studies_**<br>
 
 Vivien Wise combines mapping, data, and traditional craft, to create topographies that are based on a connection between land and body, relation to care, and connection to personal history.
+
+## Fellows Seminar
+All faculty and graduate students holding fellowships or associateships participate in a bi-weekly set of meetings to discuss the work-in-progress of the participants. Lunch is provided, and material is pre-circulated so that discussion focuses on responses to the work.
+
+Because participants come from a wide variety of disciplines and specialties, discussion focuses on the common-ground of methodological issues. The group brings a depth of experience and breadth of knowledge about theoretical sources that consistently offers each presenter a fresh set of ideas and references to improve their own work.
+
+Within each discipline, we often raise new questions, unaware that research in another discipline may have already addressed the same basic issues. The interdisciplinary critique of the Fellows Seminar improves participant's research by moving projects more quickly through the conceptual terrain that may have played a significant role in the history of other intellectual traditions. What is "new" in one discipline may be "old hat" in another.
+
+The different perspectives of the participants and their ability to pose new questions often gives the presenter, whether faculty or graduate student, a fresh perspective on their own materials. Even when writers chose not to address the concerns of other disciplines, they develop a greater awareness of their own discplinary assumptions and the role they play in shaping their individual project.
+
+- **[Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/Past%20CHAT%20Fellows.pdf)**
+- **[News from Past Fellows](https://liberalarts.temple.edu/sites/liberalarts/files/Fellow%20News%20and%20Updates.pdf)**
