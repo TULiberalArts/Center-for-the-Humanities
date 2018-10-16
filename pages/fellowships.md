@@ -21,6 +21,8 @@ All tenured and tenure-track faculty working on research projects in the humanit
 
 - **[Application Information](https://liberalarts.temple.edu/sites/liberalarts/files/FacultyFellowship18.pdf)**
 
+___
+
 ## Advanced Graduate Scholar Award
 Advanced graduate students receive financial support for one semester to work on the dissertation in addition to a $500 research budget.
 
@@ -31,6 +33,8 @@ Advanced Graduate Scholar Awards provide financial support to resident doctoral 
 Applicants must be CLA, Klein, or Tyler Ph.D. students in good standing who have completed all course and exam requirements for the degree and will be elevated to candidacy by the start of the fellowship term (see Graduate School Policies and Procedures 02.27.13). Recipients must complete the degree no later than one year following the academic year of the award. Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may result in a loss of the award at the discretion of the CHAT Director. Awards made for Fall continue through the Spring term. Awards for Spring are for that semester only. Previous recipients of the Graduate School Senior Doctoral Fellowship, the Graduate School Doctoral Dissertation Grant, or the CLA Advanced Graduate Scholar Award are ineligible.
 
 - **[Advanced Graduate Scholar Award Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/AdvGradAward19.pdf)**
+
+___
 
 ## Associate Graduate Scholar Award
 The Associate Graduate Scholar Award provides research money to graduate students who have finished coursework or are in their third year. Students also participate in the Fellows Seminar and annual graduate student conference and receive a research budget. Four to six per year.
@@ -52,6 +56,8 @@ Applications will be reviewed by faculty from outside your home discipline. When
 Send all materials as email attachments to chat@temple.edu. Direct questions about the Award to Professor Petra Goedde, Interim CHAT Director, [pgoedde@temple.edu](mailto:pgoedde@temple.edu), [215-204-9206](tel:2152049206).
 
 - **[Graduate Associate Fellowship Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/AssocFellowAward19.pdf)**
+
+___
 
 ### Fellowship Coordination
 Applicants for the Graduate School Senior Doctoral Fellowship or CLA Advanced Graduate Scholar Award who do not receive an award can be considered for the Graduate Associate Fellowship on request, using the same application. _You do not need to submit a second application._
