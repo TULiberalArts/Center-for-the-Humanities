@@ -13,7 +13,11 @@ sidebar: sidebars/people.html
 ## Fall 2018 Graduate Seminars
 These courses welcome qualified graduate students from other departments. All are taught by members of Temple's graduate faculty.
 
-To list your course, email the following to chat@temple.edu: Title, Course number, Instructor name and email, Meeting time. Include a short description (50-100 words).
+To list your course, email the following to [chat@temple.edu](mailto:chat@temple.edu):
+- Title
+- Course number
+- Instructor name and email
+- Meeting time. Include a short description (50-100 words)
 
 ### Art History
 
