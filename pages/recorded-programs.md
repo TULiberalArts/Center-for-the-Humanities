@@ -62,3 +62,116 @@ ___
 
 ___
 
+### Fall 2013
+
+**Yun Zhu, Critical Languages**, Thursday Novemver 21<br>
+[Negotiating A Female Public Sphere: The Rhetoric of Sisterhood in the Women's Magazine Ling Long (Shanghai, 1931-37)](http://www.templetv.net/shows/university-lecture-series/yun-zhu/)<br>
+
+**Eileen Ryan, History**, Thursday November 7<br>
+[Imperial Anxieties: Italian Colonialism and the Formation of an Official Mind](http://www.templetv.net/shows/university-lecture-series/library-lecture-eileen-ryan/)<br>
+
+**Hamil Pearsall, Geography and Urban Studies**, Thursday October 10<br>
+[Diversification or Transformation? Coping with Vulnerabilities to Multiple Stressors in Chiapas, Mexico](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-hamil-pearsall/)<br>
+
+**Niambi Carter, African American Studies**, Thursday September 26<br>
+[The Curious Case of Judge Aaron: Race, the Law, and the Protection of White Supremacy](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-niambi-carter/)<br>
+
+**Adrienne Shaw, Media Studies**, Thursday September 12<br>
+[Playing at the Edge: Gender, Race, and Sexuality in Video Games](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-adrienne-shaw/)<br>
+
+___
+
+### Spring 2013
+
+**William Noel, University of Pennsylvania**, Thursday April 25<br>
+[Free and Easy: The Appearance of Truly Useful Cultural Heritage Data](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-william-noel/)<br>
+
+**Kathleen Fitzpatrick, Pomona College**, Thursday March 7<br>
+[The Humanities in and for the Digital Age](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-kathleen-fitzpatrick/)<br>
+
+**Owen Ware, Philosophy**, Thursday February 28<br>
+[Repentance, Moral Conversion, and Personal Identity](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-owen-ware/)<br>
+
+**Peter Marshall, Psychology**, Thursday February 14<br>
+[Explanation, Mechanism, and Development](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-peter-marshall/)<br>
+
+**John Palfrey, Phillips Academy**, Wednesday February 6<br>
+[Building a Digital Public Library of America](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-john-palfrey/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+___
+
+### Fall 2012
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+**Travis Glasson, History**, Thursday January 31<br>
+["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+
+___
+
+### Spring 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Archives
+
+- **Previous Exhibits - Need to Migrate-  IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.**
+- **Co-Sponsored Events - Need to Migrate- IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.**
+
+## Previous Lectures- IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.
+- 2016-17
+- 2015-16
+- 2014-15
+- 2013-14
+- 2012-13
+- 2011-12
+- 2010-11
+- 2009-10
