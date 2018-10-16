@@ -27,8 +27,8 @@ _Organizers:_<br>
 
 **P19: Interdisciplinary Workshop on Nineteenth-Century Culture**
 _Organizers:_<br> 
-[Talissa Ford (English)](https://liberalarts.temple.edu/academics/faculty/ford-talissa)<br>
-[Erin Pauwels (Art History)](https://tyler.temple.edu/faculty/erin-pauwels)<br>
+- [Talissa Ford (English)](https://liberalarts.temple.edu/academics/faculty/ford-talissa)<br>
+- [Erin Pauwels (Art History)](https://tyler.temple.edu/faculty/erin-pauwels)<br>
 
 **Women and Gender Studies**
 _Organizers:_<br>  
