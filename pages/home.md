@@ -41,7 +41,7 @@ ___
     title="Recorded Programs"
     content="These are fascinating lectures on a wide range of topics in the humanities with high-quality sound and video. See our growing collection of recorded programs."
     image=""
-    button-link=" "
+    button-link="/center-for-the-humanities#recorded-programs/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -55,9 +55,9 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Graduate Courses"
-        content="courses"
+        content="Center for Humanities courses welcome qualified graduate students from other departments. All are taught by members of Temple's graduate faculty."
         image=""
-        button-link=" "
+        button-link="/center-for-the-humanities#courses/"
         button-text="Learn More" %}
       </div>
 </div>
