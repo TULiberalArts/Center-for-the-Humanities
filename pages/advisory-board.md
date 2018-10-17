@@ -1,15 +1,16 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /people/
+permalink: /advisory-board/
 published: true
 # meta-data variables
-title: People
+title: Advisory Board
 description: >-
 keywords: ''
 # custom variables
 ---
-## Advisory Board
+The CHAT Advisory Board helps shape the future of the Center. Board members evaluate all of CHAT's fellowship and grant applications, and assist the director in expanding existing programs and developing new ones.
+
 - [Dr. Lila Berman](https://liberalarts.temple.edu/academics/faculty/corwin-berman-lila) - Professor of History
 - [Dr. Marcus Bingenheimer](https://liberalarts.temple.edu/academics/faculty/bingenheimer-marcus) - Associate Professor of Religion
 - [Dr. Orfeo Fioretis](https://liberalarts.temple.edu/academics/faculty/fioretos-k-orfeo) - Associate Professor of Political Science
