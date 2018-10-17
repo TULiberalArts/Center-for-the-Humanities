@@ -137,13 +137,13 @@ ___
 ["It is a basic Communist Doctrine to Fight for Peace": Cold War Battles Over the Concept of Peace](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-petra-goedde/)<br>
 
 **Nichole Miller, English**, Thursday March 15<br>
-[Paul's Call; Cymbeline's Calling](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-nicole-miller/)<br>
+_Paul's Call; Cymbeline's Calling_<br>
 
 **Alex Gottesman, Greek and Roman Classics**, Thursday February 16<br>
 [Publicity Stunts in Democratic Athens](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-alex-gottesman-greek-and-roman-classics/)<br>
 
 **Joseph Straus, Music - The Graduate Center, CUNY**, Thursday February 9<br>
-[Performing Disability, Performing Music](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-joseph-strauss/)<br>
+_Performing Disability, Performing Music_<br>
 
 **Gerald Silk, Art History**, Thursday February 2<br>
 [Out of Shape: Gender, Feminism, and the Neglected Art of Reva Urban](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-gerald-silk-art-history/)<br>
@@ -184,7 +184,7 @@ ___
 [The Other Half of the Sky: Revolutionary Violence and Feminist Politics in Germany](http://tucapture2.temple.edu:8080/ess/echo/presentation/3daaf2eb-286d-476b-a60f-2ae0ff1106f2)<br>
 
 **Britt Russert, Center for the Humanities at Temple**, Thursday February 16<br>
-Applying for Postdoctoral Fellowships<br>
+_Applying for Postdoctoral Fellowships_<br>
 
 **Yunte Huang, University of California, Santa Barbara**, Thursday February 10<br>
 [Charlie Chan](http://tucapture2.temple.edu:8080/ess/echo/presentation/44b06665-0eb1-4ac2-b079-8fc0d1245070)<br>
@@ -194,7 +194,7 @@ ___
 ### Fall 2010
 
 **Danielle McGuire**, Thursday October 25<br>
-[At the Dark End of the Street: Black Women, Rape and Resistance](http://www.templetv.net/shows/university-lecture-series/danielle-mcguire-lecture-2010/)<br>
+_At the Dark End of the Street: Black Women, Rape and Resistance_<br>
 
 **Michael Mann, Pennsylvania State University**, Thursday October 13<br>
 [Dire Predictions: Understanding Global Warming](http://tucapture2.temple.edu:8080/ess/echo/presentation/44b06665-0eb1-4ac2-b079-8fc0d1245070)<br>
