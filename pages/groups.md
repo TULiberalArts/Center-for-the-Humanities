@@ -45,6 +45,8 @@ _Organizers:_<br>
 - [Miriam Solomon (Philosophy](https://liberalarts.temple.edu/academics/faculty/solomon-miriam)
 - [Tom Waidzunas (Sociology)](https://liberalarts.temple.edu/academics/faculty/waidzunas-tom)
 
+___
+
 ## Inter-Disciplinary Research Groups
 **_Due May 6, 2019_**
 
