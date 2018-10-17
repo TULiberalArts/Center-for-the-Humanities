@@ -19,6 +19,8 @@ To list your course, email the following to [chat@temple.edu](mailto:chat@temple
 - Instructor name and email
 - Meeting time. Include a short description (50-100 words)
 
+___
+
 ### Art History
 
 **Women Artists in the Americas since 1950**<br>
