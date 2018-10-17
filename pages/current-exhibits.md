@@ -10,9 +10,8 @@ keywords: ''
 # custom variables
 sidebar: sidebars/people.html
 ---
-Our exhibits are free and open to the public, from 10 am to 4 pm weekdays at CHAT, 10th floor of Gladfelter Hall, 1115 Polett Walk., Philadelphia, PA. For inquiries, phone [215-204-6386](tel:2152046386) or email [CHAT@temple.edu](mailto:chat@temple.edu).
-
 ## Fall 2018-Spring 2019
+Our exhibits are free and open to the public, from 10 am to 4 pm weekdays at CHAT, 10th floor of Gladfelter Hall, 1115 Polett Walk., Philadelphia, PA. For inquiries, phone [215-204-6386](tel:2152046386) or email [CHAT@temple.edu](mailto:chat@temple.edu).
 
 ![Emily Erb]({{site.baseurl}}/media/resized2_ErbE.jpg){:.responsive-img .img-right}
 **Emily Erb, _Philadelphia Artist_**<br>
