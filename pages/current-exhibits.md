@@ -22,7 +22,7 @@ Emily Erb's art is an exploration of American identity. The process involves col
 
 A Richmond, Virginia native, silk painter Emily Erb (b. 1982), has lived and worked in Philadelphia since 2001. In 2005, Erb completed her BFA in painting at the Tyler School of Art and later earned her MFA from the Pennsylvania Academy of Fine Art in 2012. Although she was first introduced to silk painting while an undergraduate, Erb honed her skills while traveling to Madagascar for three months from 2005-2006; she then switched to painting exclusively on silk. Erb has won numerous awards, including the Mabel Wilson Woodrow Award from the Pennsylvania Academy of Fine Art.
 
-_For more detail on Erb's awards and past exhibits, visit Emily Erb's [website_](http://www.emilyerb.com/).
+_For more detail on Erb's awards and past exhibits, visit Emily Erb's [website](http://www.emilyerb.com/)_.
 
 ___
 
