@@ -14,7 +14,7 @@ Our exhibits are free and open to the public, from 10 am to 4 pm weekdays at CHA
 
 ## Fall 2018-Spring 2019
 
-![Emily Erb]({{site.baseurl}}/media/resized_ErbE.jpg){:.responsive-img .img-right}
+![Emily Erb]({{site.baseurl}}/media/resized2_ErbE.jpg){:.responsive-img .img-right}
 **Emily Erb, _Philadelphia Artist_**<br>
 [Us Is Everyone](https://liberalarts.temple.edu/about-us/events/us-everyone-exhibit-opening-and-reception)<br>
 
