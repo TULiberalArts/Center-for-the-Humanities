@@ -63,4 +63,4 @@ There is no deadline for Co-Sponsorship requests. New applications are evaluated
 
 Please direct any questions to Proessor Petra Goedde, CHAT Director, [pgoedde@temple.edu](mailto:pgoedde@temple.edu), [215-204-9206](tel:2152049206).
 
-- **[Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/Cosponsorship.pdf)
+- **[Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/Cosponsorship.pdf)**
