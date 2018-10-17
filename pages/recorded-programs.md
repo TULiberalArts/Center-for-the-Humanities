@@ -105,73 +105,99 @@ ___
 
 ### Fall 2012
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Alexander Galloway, New York University**, Tuesday November 13<br>
+[The Unworkable Interface](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-alexander-galloway/)<br>
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Joseph Schwartz, Political Science**, Thursday November 8<br>
+[Rampant Inequality: The Hidden Cause of the Great Recession](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-joseph-schwartz/)<br>
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Jeffrey Schnapp, Harvard**, Thursday November 6<br>
+[Teaching (design) Thinking](http://www.templetv.net/shows/university-lecture-series/humanities-lectures-jeffrey-schnapp/)<br>
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Marcus Bingenheimer, Religion**, Thursday October 25<br>
+[Mount Putuo and Its Gazetteers: Landscape and Text in the Creation of a Sacred Buddhist Site in China](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-marcus-bingenheimer/)<br>
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Paul Swann, FMA**, Thursday October 11<br>
+[Digital Arts and Humanities: Coping with Precarity in the Creative Economy](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-paul-swann/)<br>
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Sherril Dodds, Dance**, Thursday September 27<br>
+_"Naughty but Nice": Re-Articulations of Value in Neo-Burlesque Striptease_<br>
 
-**Travis Glasson, History**, Thursday January 31<br>
-["Honorable Deserters": POWs and the People in America's First Civil War, 1777-83](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-travis-glasson/)<br>
+**Therese Dolan, Art History**, Thursday September 13<br>
+[Facing the Music: Manet and Wagner](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-therese-dolan/)<br>
 
 ___
 
 ### Spring 2012
 
+**Patricia Aufderheide Film and Media Arts, American University**, Tuesday April 10<br>
+[Free Speech and Fair Use in the Academic Environment: Libraries, Scholarship, and Teaching](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-patricia-aufderheide/)<br>
 
+**Petra Goedde, History**, Thursday March 29<br>
+["It is a basic Communist Doctrine to Fight for Peace": Cold War Battles Over the Concept of Peace](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-petra-goedde/)<br>
 
+**Nichole Miller, English**, Thursday March 15<br>
+[Paul's Call; Cymbeline's Calling](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-nicole-miller/)<br>
 
+**Alex Gottesman, Greek and Roman Classics**, Thursday February 16<br>
+[Publicity Stunts in Democratic Athens](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-alex-gottesman-greek-and-roman-classics/)<br>
 
+**Joseph Straus, Music - The Graduate Center, CUNY**, Thursday February 9<br>
+[Performing Disability, Performing Music](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-joseph-strauss/)<br>
 
+**Gerald Silk, Art History**, Thursday February 2<br>
+[Out of Shape: Gender, Feminism, and the Neglected Art of Reva Urban](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-gerald-silk-art-history/)<br>
 
+___
 
+### Fall 2011
 
+**Jose Manuel Pereiro-Otero, Spanish and Portuguese**, Thursday December 1<br>
+[Don Juan Tenorio's Cemetery: Metropolis and Necropolis in 19th-Century Spain](http://tucapture2.temple.edu:8080/ess/echo/presentation/29671aaa-5cc1-4141-8e15-c91c820e9b4c)<br>
 
+**Christiane Gruber, History of Art, University of Michigan**, Thursday November 17<br>
+[Violence’s Vestiges: The Martyrs’ Museum in Tehran](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-christina-gruber/)<br>
 
+**John Campbell** Thursday September 29<br>
+[From Barbershop to Black Planet: Examining the Necessity of Online Hush Harbors](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-john-campbell/)<br>
 
+**Michael Klein, Music**, Thursday September 15<br>
+[Debussy's Reflections, Proust's Recollections, and Deleuze's Three Machines of Modernist Time and Memory](http://www.templetv.net/shows/university-lecture-series/humanities-lecture-michael-klein/)<br>
 
+___
 
+### Spring 2011
 
+**Hector Postigo, Broadcast, Telecommunication, and Mass Media**, Thursday April 21<br>
+[The Digital Rights Movement: Free Culture Activism and the YouTube Generation](http://www.templetv.net/shows/university-lecture-series/hector-postigo-2011/)<br>
 
+**Javed Akthar in conversation with Priya Joshi**, Thursday April 14<br>
+[Bollywood and the Global India](http://www.templetv.net/shows/university-lecture-series/javed-akhtar-2011/)<br>
 
+**David Greenberg Rutgers University, Marc Lamont-Hill, Columbia University, Kathryn Hirsh-Pasek, Temple University, Lewis R. Gordon, Temple University** _CHAT Graduate Fellows Conference_, Thursday April 14<br>
+[The Public Intellectual](http://tucapture2.temple.edu:8080/ess/echo/presentation/cb6698a9-19e1-4837-813f-780934784d70)<br>
 
+**Cindy Patton Simon, Fraser University**, Thursday April 13<br>
+[From Human Rights to Population Rights](http://tucapture2.temple.edu:8080/ess/echo/presentation/13d60ca6-bc58-40cc-8ef5-76150acf15e4)<br>
 
+**Patricia Melzer, French, German, Italian, and Spanish**, Thursday March 3<br>
+[The Other Half of the Sky: Revolutionary Violence and Feminist Politics in Germany](http://tucapture2.temple.edu:8080/ess/echo/presentation/3daaf2eb-286d-476b-a60f-2ae0ff1106f2)<br>
 
+**Britt Russert, Center for the Humanities at Temple**, Thursday February 16<br>
+Applying for Postdoctoral Fellowships<br>
 
+**Yunte Huang, University of California, Santa Barbara**, Thursday February 10<br>
+[Charlie Chan](http://tucapture2.temple.edu:8080/ess/echo/presentation/44b06665-0eb1-4ac2-b079-8fc0d1245070)<br>
 
+___
 
+### Fall 2010
 
+**Danielle McGuire**, Thursday October 25<br>
+[At the Dark End of the Street: Black Women, Rape and Resistance](http://www.templetv.net/shows/university-lecture-series/danielle-mcguire-lecture-2010/)<br>
 
+**Michael Mann, Pennsylvania State University**, Thursday October 13<br>
+[Dire Predictions: Understanding Global Warming](http://tucapture2.temple.edu:8080/ess/echo/presentation/44b06665-0eb1-4ac2-b079-8fc0d1245070)<br>
 
-
-
-
-
-
-
-## Archives
-
-- **Previous Exhibits - Need to Migrate-  IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.**
-- **Co-Sponsored Events - Need to Migrate- IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.**
-
-## Previous Lectures- IS THIS HOUSED IN AN ARCHIVE ALREADY SOMEWHERE? THIS IS A LOT OF OLD CONTENT TO MIGRATE.
-- 2016-17
-- 2015-16
-- 2014-15
-- 2013-14
-- 2012-13
-- 2011-12
-- 2010-11
-- 2009-10
+**Khalil Muhammad, Indiana University**, Thursday February 10<br>
+[The Condemnation of Blackness](http://www.templetv.net/shows/university-lecture-series/khalil-muhammad-2010/)<br>
