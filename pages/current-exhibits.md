@@ -16,7 +16,7 @@ Our exhibits are free and open to the public, from 10 am to 4 pm weekdays at CHA
 
 ![Emily Erb]({{site.baseurl}}/media/resized_ErbE.jpg){:.responsive-img .img-right}
 **Emily Erb, _Philadelphia Artist_**<br>
-[Us Is Everyone](https://liberalarts.temple.edu/about-us/events/us-everyone-exhibit-opening-and-reception) <br>
+[Us Is Everyone](https://liberalarts.temple.edu/about-us/events/us-everyone-exhibit-opening-and-reception)<br>
 
 Emily Erb's art is an exploration of American identity. The process involves collecting imagery that references American history and culture, collaging it into iconic symbols, tracing the collage onto silk, and painting the silk with dyes. She recently had digital prints made of five of her silk paintings. Collage is a relatively modern technique compared to silk painting which dates back thousands of years. The digital prints are the most technologically advanced version of these images, which deal with current issues in this country, including gun violence, healthcare, and women's rights.
 
@@ -27,5 +27,5 @@ _For more detail on Erb's awards and past exhibits, visit Emily Erb's [website](
 ___
 
 ![Ben Wilson]({{site.baseurl}}/media/ben_wilson.jpg){:.responsive-img .img-right}
-**Ben Wilson, American Painter**
+**Ben Wilson, American Painter**<br>
 In 2008, CHAT aquired six large oil paintings by American painter Ben Wilson thanks to the generosity of the Ben and Evelyn Wilson Foundation. These works are on permanent display in the CHAT lounge. (Image: a detail from “The Thresher,” c. 1975)
