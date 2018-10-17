@@ -9,7 +9,6 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-
 feature: true
 feature image: media/chathero2.png
 ---
