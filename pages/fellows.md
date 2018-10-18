@@ -15,6 +15,7 @@ CHAT is proud to announce the following recipients of fellowships at the Humanit
 
 ### Faculty Fellows
 
+
 ![Eugene Chislenko]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **[_Eugene Chislenko, Assistant Professor, Philosophy_](https://liberalarts.temple.edu/academics/faculty/chislenko-eugene)**<br>
 Eugene Chislenko specializes in ethics and moral psychology, and in related topics in the philosophy of mind, philosophy of action, aesthetics, and the history of philosophy, especially Kant and existentialism. After receiving his B.A. at Harvard University and his Ph.D. at the University of California, Berkeley, he came to Temple in 2016. His recent work includes "A Solution for Buridan's Ass" (Ethics, January 2016) and "Moore’s Paradox and Akratic Belief" (Philosophy and _Phenomenological Research_, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
@@ -37,7 +38,7 @@ Mónica Ricketts is an associate professor of history at Temple University. Her 
 
 ___
 
-## College of Liberal Arts Advanced Graduate Students
+### College of Liberal Arts Advanced Graduate Students
 ![Moonyoung Hwang]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **_Moonyoung Hwang, PhD Candidate, Philosophy_**<br>
 
@@ -50,7 +51,7 @@ Nicole Nathan is a doctoral candidate in the Department of Anthropology. Rooted 
 
 ___
 
-## Graduate Associate Fellows
+### Graduate Associate Fellows
 ![James Kopaczewski]({{site.baseurl}}/media/c){:.responsive-img .img-right}
 **_James Kopaczewski, PhD Candidate, History_**<br>
 
@@ -73,7 +74,7 @@ Elizabeth is an English PhD candidate specializing in American literature and di
 
 ___
 
-## Digital Humanities Scholars
+### Digital Humanities Scholars
 ![Mannah Duah]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **_Mannah Duah, PhD Candidate, History_**<br>
 
@@ -91,7 +92,7 @@ Vivien Wise combines mapping, data, and traditional craft, to create topographie
 
 ___
 
-## Fellows Seminar
+### Fellows Seminar
 All faculty and graduate students holding fellowships or associateships participate in a bi-weekly set of meetings to discuss the work-in-progress of the participants. Lunch is provided, and material is pre-circulated so that discussion focuses on responses to the work.
 
 Because participants come from a wide variety of disciplines and specialties, discussion focuses on the common-ground of methodological issues. The group brings a depth of experience and breadth of knowledge about theoretical sources that consistently offers each presenter a fresh set of ideas and references to improve their own work.
