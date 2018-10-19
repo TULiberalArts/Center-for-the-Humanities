@@ -30,6 +30,10 @@ The Center offers a rich and diverse range of activities, including:
 - Contributions to planning and development across the humanities in the College of Liberal Arts
 - Cooperation with national and international humanities institutions
 
+<div class="video-container">
+<a class="twitter-timeline" href="https://twitter.com/chatemple?ref_src=twsrc%5Etfw">Tweets by chatemple</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ___
 
 <div class="row row-wide">
