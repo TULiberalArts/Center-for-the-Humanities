@@ -42,7 +42,7 @@ _Organizers:_<br>
 
 **Science Studies Group**
 _Organizers:_<br>  
-- [Miriam Solomon (Philosophy](https://liberalarts.temple.edu/academics/faculty/solomon-miriam)
+- [Miriam Solomon (Philosophy)](https://liberalarts.temple.edu/academics/faculty/solomon-miriam)
 - [Tom Waidzunas (Sociology)](https://liberalarts.temple.edu/academics/faculty/waidzunas-tom)
 
 ___
