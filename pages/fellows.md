@@ -16,23 +16,22 @@ CHAT is proud to announce the following recipients of fellowships at the Humanit
 ### Faculty Fellows
 
 
-![Eugene Chislenko]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Eugene Chislenko]({{site.baseurl}}/media/Chislenko.jpg){:.responsive-img .img-right}
 **[_Eugene Chislenko, Assistant Professor, Philosophy_](https://liberalarts.temple.edu/academics/faculty/chislenko-eugene)**<br>
 Eugene Chislenko specializes in ethics and moral psychology, and in related topics in the philosophy of mind, philosophy of action, aesthetics, and the history of philosophy, especially Kant and existentialism. After receiving his B.A. at Harvard University and his Ph.D. at the University of California, Berkeley, he came to Temple in 2016. His recent work includes "A Solution for Buridan's Ass" (Ethics, January 2016) and "Moore’s Paradox and Akratic Belief" (Philosophy and _Phenomenological Research_, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
 
-![Tania Jenkins]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.responsive-img .img-right}
+![Tania Jenkins]({{site.baseurl}}/media/resized_tania_jenkins.jpg){:.responsive-img .img-right}
 **_Tania Jenkins, Assistant Professor, Sociology_**<br>
 As a CHAT fellow, I will spend the year writing my book, _Doctors' Orders: The Making of Status and Inequality in the American Medical Profession_ (under contract with Columbia University Press). This ethnography examines the construction and implications of status inequalities among internal medicine residents. I explore how American-trained MDs come to enjoy higher status in the profession compared to international or osteopathic graduates, who disproportionately occupy less prestigious positions. I conclude that by relying on informal status distinctions that equate status with merit, and eclipse structural disadvantages, US-trained physicians are able to remain elite despite importing some of the world's best and brightest.
 
-![Noriko Manabe]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **_Noriko Manabe, Associate Professor, Art History_**<br>
 Noriko Manabe is Associate Professor of Music Studies at Temple University. Her monograph, _The Revolution Will Not Be Televised: Protest Music After Fukushima_, won the John Whitney Hall Book Prize from the Association for Asian Studies, the British Forum for Ethnomusicology Book Award, and Honorable Mention for the Alan Merriam Prize from the Society for Ethnomusicology. She is currently writing her second monograph, _Revolution Remixed: Intertextuality in Protest Music_, and co-editing the volumes, the Oxford Handbook of Protest Music (with Eric Drott) and Nuclear Music (with Jessica Schwartz). She has recently analyzed Kendrick Lamar and the sounds of post-Trump protests. She is series editor for 33-1/3 Japan, a book series on Japanese popular music at Bloomsbury Publishing.
 
-![Gary Mucciaroni]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Gary Mucciaroni]({{site.baseurl}}/media/resized_Mucciaroni.jpg){:.responsive-img .img-right}
 **[_Gary Mucciaroni, Professor, Political Science_](https://liberalarts.temple.edu/academics/faculty/mucciaroni-gary)**<br>
 Gary Mucciaroni is a Professor in the Department of Political Science and Director of the Master of Public Policy Program at Temple University. He served as Department Chair from 2005-10 and 2015-16. He is the author of four books and several articles on public policymaking in the United States and specifically on policies related to employment, public assistance, taxes, trade, telecommunications, LGBTQ rights, and abortion.
 
-![Mónica Ricketts]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Mónica Ricketts]({{site.baseurl}}/media/resized_monica_ricketts.png){:.responsive-img .img-right}
 **[_Mónica Ricketts, Associate Professor, History_](https://liberalarts.temple.edu/academics/faculty/ricketts-m-nica)**<br>
 Mónica Ricketts is an associate professor of history at Temple University. Her fields are colonial Latin America, Spanish imperialism, cultural and intellectual history. She is currently working on the political history of the theater in the Spanish world.
 
