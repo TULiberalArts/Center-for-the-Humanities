@@ -49,7 +49,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Subscribe to The Weekly Chatter"
-      content="The Weekly Chatter is the essential way to stay abreast of current events, upcoming lectures and conferences and upcoming deadlines for fellowship and group support applications in the humanities at Temple University."
+      content="The Weekly Chatter is the essential way to stay abreast of current events, upcoming lectures and conferences and upcoming deadlines for fellowship and group support applications."
       image=""
       button-link="https://temple.us1.list-manage.com/subscribe?u=daac6912a370e1cb9d2c3756a&id=49a7937a70"
       button-text="Learn More" %}
