@@ -33,11 +33,10 @@ The Center offers a rich and diverse range of activities, including:
 ___
 
 <div align="center" class="video-container">
-<a class="twitter-timeline" data-width="560" data-height="315" href="https://twitter.com/chatemple?ref_src=twsrc%5Etfw">Tweets by chatemple</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="860" data-height="315" href="https://twitter.com/chatemple?ref_src=twsrc%5Etfw">Tweets by chatemple</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div/>
 
 ___
-
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
