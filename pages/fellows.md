@@ -97,11 +97,10 @@ My idea is to create an art project using physical computing, such as Arduino's,
 
 ___
 
-![Mannah Duah]({{site.baseurl}}/media/resized DuahM.png){:.responsive-img .img-right}
+![Mannah Duah]({{site.baseurl}}/media/resized2 DuahM.png){:.responsive-img .img-right}
 **_Mannah Duah, PhD Candidate, History_**<br>
 
 Manna Duah uses data and network analysis to map eight incidents of mass political mobilizations among African students in US international education programs between 1960 and 1975.
-
 
 ___
 
@@ -112,11 +111,17 @@ Urszula Pruchniewska's project examines the #metoo movement on Twitter, identify
 
 ___
 
-![Vivien Wise]({{site.baseurl}}/media/resized WiseV.jpg){:.responsive-img .img-right}
+![Jessica L. Sitek]({{site.baseurl}}/media/resized SitekJ.jpg){:.responsive-img .img-right}
+**_Jessica L. Sitek, PhD Candidate, Religion_**<br>
+
+As a third year PhD student in the Department of Religion, participation in this year;s Digital Scholars program will serve as part of my dissertation work. The proposed project uses postwar chaplaincy materials (manuals, pamphlets, histories, etc.) to examine how normative definitions of religion are formed, and specifically how official definitions are formed and function in a society that supposedly maintains separation of Church and State. This project is meant to serve as a foundation for broader work that considers the institutionalization of the chaplaincy as a clinical role, and its implications for care delivery. 
+
+___
+
+![Vivien Wise]({{site.baseurl}}/media/resized2 WiseV.jpg){:.responsive-img .img-right}
 **_Vivien Wise, MFA, Fibers and Material Studies_**<br>
 
 Vivien Wise combines mapping, data, and traditional craft, to create topographies that are based on a connection between land and body, relation to care, and connection to personal history.
-
 
 ___
 
