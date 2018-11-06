@@ -46,12 +46,12 @@ Mónica Ricketts is an associate professor of history at Temple University. Her 
 ___
 
 ### College of Liberal Arts Advanced Graduate Students
-![Moonyoung Hwang]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Moonyoung Hwang]({{site.baseurl}}/media/resized Moonyoung Hwang.jpg){:.responsive-img .img-right}
 **_Moonyoung Hwang, PhD Candidate, Philosophy_**<br>
 
 In my project, I argue that values (evaluative properties and terms) are importantly related to emotions. However, I reject the classical non-cognitivism, according to which emotions have nothing to refer to beyond themselves and are merely subjective. I claim that emotions, like belief, detect objective properties in the world. The objective properties tracked by emotions, I argue, are various relational properties between the agent and her environment regarding the agent's well-being.
 
-![Nicole Nathan]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Nicole Nathan]({{site.baseurl}}/media/resized NathanN.png){:.responsive-img .img-right}
 **_Nicole Nathan, PhD Candidate, Anthropology_**<br>
 
 Nicole Nathan is a doctoral candidate in the Department of Anthropology. Rooted in 12 months of ethnographic research, Nicole's dissertation, _"Gifts from God: Religion, Economic Relations, and Gift Giving during Short-Term Missions_", examines the dynamics of philanthropic relations expressed through religious proselytization and economic outreach during contemporary Evangelical youth mission trips in the Dominican Republic. She argues that by exposing youths to a social and cultural experience radically different from their own, mission trips have the potential to powerfully shape youths' worldviews, including how they conceptualize globalization and racial and economic inequality in ways that influence future economic behaviors.
@@ -59,22 +59,22 @@ Nicole Nathan is a doctoral candidate in the Department of Anthropology. Rooted 
 ___
 
 ### Graduate Associate Fellows
-![James Kopaczewski]({{site.baseurl}}/media/c){:.responsive-img .img-right}
+![James Kopaczewski]({{site.baseurl}}/media/resized James Kopaczewski.jpg){:.responsive-img .img-right}
 **_James Kopaczewski, PhD Candidate, History_**<br>
 
 James Kopaczewski is a doctoral candidate in the Department of History at Temple University. A historian of the nineteenth-century United States, his dissertation explores Native American understandings of the American Civil War Era. For most of the nineteenth-century, violence, removal, and incarceration were the primary tools utilized by the federal government to pacify native resistance. His dissertation argues that native peoples viewed the war as an opportunity to potentially undercut this system and secure a greater degree of sovereignty. Similarly, the federal government reexamined its posture towards native peoples as a result of their mutual engagements in the Civil War Era.
 
-![Elizabeth Bergman]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Elizabeth Bergman]({{site.baseurl}}/media/resized Elizabeth Bergman.jpg){:.responsive-img .img-right}
 **_Elizabeth Bergman, PhD Candidate, Dance_**<br>
 
 Elizabeth June Bergman is a doctoral candidate and University Fellow in the Dance Department. Her dissertation, _Behind the Scenes and Across Screens: Michael Jackson and His Dancing Chorus_, focuses on the dancing labor of Jackson, his choreographic collaborators, and backup dancers; how television and video technology affected the transmission and transformation of dances; and Jackson and his chorus's influence on the development of the commercial dance industry in Los Angeles. Her research highlights the cultural histories of "street" and "studio" dance forms featured in music videos, the commercial imperatives of the entertainment industry, and the racial politics of the 1980s.
 
-![Rebecca Croog]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Rebecca Croog]({{site.baseurl}}/media/resized Rebecca Croog.jpg){:.responsive-img .img-right}
 **_Rebecca Croog, PhD Candidate, Geography_**<br>
 
 I became interested in pursuing a graduate degree in geography after conducting my own research as an undergraduate in Bolivia and Cuba. My curiosity about the intersection of agriculture and social change took me to quinoa growing communities in the Andean high plateau and to urban farms in Havana. Motivated by these projects and new questions that emerged out of them, I began participating in and researching urban agriculture back in the United States, first in Baltimore and then in Philadelphia when I joined Temple's GUS program. My doctoral research builds upon these experiences, looking at the historical geography of agriculture in Philadelphia and identifying the historical antecedents to current justice-related initiatives within the contemporary urban agriculture movement.
 
-![Elizabeth White Vidarte]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Elizabeth White Vidarte]({{site.baseurl}}/media/resized Elizabeth White Vidarte.jpg){:.responsive-img .img-right}
 **_Elizabeth White Vidarte, PhD Candidate, English_**<br>
 
 Elizabeth is an English PhD candidate specializing in American literature and disability studies. She focuses on the cultural history of empathy and care for the mentally disabled from the late 19th century through the Great Depression. Investigating dependency relations in reciprocal and oppressive modes, she hopes to show that mind-related disability was often framed as a problem because it threatens to reveal raced and gendered autonomy as fictive fantasies of American identity. Yet despite this, it could also be framed as an imperative for ethical and reciprocal care that offered generative means for valuing difference.
@@ -82,17 +82,22 @@ Elizabeth is an English PhD candidate specializing in American literature and di
 ___
 
 ### Digital Humanities Scholars
-![Mannah Duah]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Yang Shan Chou]({{site.baseurl}}/media/resized ChouY.jpg){:.responsive-img .img-right}
+**_Yang Shan Chou_**<br>
+
+My idea is to create an art project using physical computing, such as Arduino's, to explore the idea of the uncanny valley. The "uncanny valley" is defined as a phenomenon that occurs when a humanoid object resembles a human being, causing an unsettling effect for the viewers. Our experimental process will determine the form that the Uncanny Valley phenomenon will take in our project. This project will be split into three parts: 1) starting the experiment, 2) forming it into a story, and 3) finally, creating an interactive display that will enable us to make modifications based on the audience's feedback.
+
+![Mannah Duah]({{site.baseurl}}/media/resized DuahM.png){:.responsive-img .img-right}
 **_Mannah Duah, PhD Candidate, History_**<br>
 
 Manna Duah uses data and network analysis to map eight incidents of mass political mobilizations among African students in US international education programs between 1960 and 1975.
 
-![Urszula Pruchniewska]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Urszula Pruchniewska]({{site.baseurl}}/media/resized PruchniewskaU.jpg){:.responsive-img .img-right}
 **_Urszula Pruchniewska, PhD Candidate, Media and Communications_**<br>
 
 Urszula Pruchniewska's project examines the #metoo movement on Twitter, identifying and analyzing the tweets in the key moments of the movement using both an automated content analysis and critical discourse analysis.
 
-![Vivien Wise]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Vivien Wise]({{site.baseurl}}/media/resized WiseV.jpg){:.responsive-img .img-right}
 **_Vivien Wise, MFA, Fibers and Material Studies_**<br>
 
 Vivien Wise combines mapping, data, and traditional craft, to create topographies that are based on a connection between land and body, relation to care, and connection to personal history.
