@@ -102,6 +102,7 @@ ___
 
 Manna Duah uses data and network analysis to map eight incidents of mass political mobilizations among African students in US international education programs between 1960 and 1975.
 
+
 ___
 
 ![Urszula Pruchniewska]({{site.baseurl}}/media/resized PruchniewskaU.jpg){:.responsive-img .img-right}
@@ -109,12 +110,14 @@ ___
 
 Urszula Pruchniewska's project examines the #metoo movement on Twitter, identifying and analyzing the tweets in the key moments of the movement using both an automated content analysis and critical discourse analysis.
 
+
 ___
 
 ![Vivien Wise]({{site.baseurl}}/media/resized WiseV.jpg){:.responsive-img .img-right}
 **_Vivien Wise, MFA, Fibers and Material Studies_**<br>
 
 Vivien Wise combines mapping, data, and traditional craft, to create topographies that are based on a connection between land and body, relation to care, and connection to personal history.
+
 
 ___
 
