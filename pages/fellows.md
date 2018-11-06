@@ -105,11 +105,10 @@ Manna Duah uses data and network analysis to map eight incidents of mass politic
 
 ___
 
-![Urszula Pruchniewska]({{site.baseurl}}/media/resized PruchniewskaU.jpg){:.responsive-img .img-right}
+![Urszula Pruchniewska]({{site.baseurl}}/media/resized2 PruchniewskaU.jpg){:.responsive-img .img-right}
 **_Urszula Pruchniewska, PhD Candidate, Media and Communications_**<br>
 
 Urszula Pruchniewska's project examines the #metoo movement on Twitter, identifying and analyzing the tweets in the key moments of the movement using both an automated content analysis and critical discourse analysis.
-
 
 ___
 
