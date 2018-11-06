@@ -57,9 +57,3 @@ ___
         button-text="Learn More" %}
       </div>
 </div>
-
-___
-
-<div align="center" class="video-container">
-<a class="twitter-timeline" data-width="860" data-height="315" href="https://twitter.com/chatemple?ref_src=twsrc%5Etfw">Tweets by chatemple</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div/>
