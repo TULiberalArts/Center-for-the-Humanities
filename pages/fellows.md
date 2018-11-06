@@ -97,7 +97,7 @@ My idea is to create an art project using physical computing, such as Arduino's,
 
 ___
 
-![Mannah Duah]({{site.baseurl}}/media/resized2 DuahM.png){:.responsive-img .img-right}
+![Mannah Duah]({{site.baseurl}}/media/resized2 DuahM.png){:.responsive-img .img-left}
 **_Mannah Duah, PhD Candidate, History_**<br>
 
 Manna Duah uses data and network analysis to map eight incidents of mass political mobilizations among African students in US international education programs between 1960 and 1975.
@@ -119,7 +119,7 @@ As a third year PhD student in the Department of Religion, participation in this
 
 ___
 
-![Vivien Wise]({{site.baseurl}}/media/resized2 WiseV.jpg){:.responsive-img .img-right}
+![Vivien Wise]({{site.baseurl}}/media/resized2 WiseV.jpg){:.responsive-img .img-left}
 **_Vivien Wise, MFA, Fibers and Material Studies_**<br>
 
 Vivien Wise combines mapping, data, and traditional craft, to create topographies that are based on a connection between land and body, relation to care, and connection to personal history.
