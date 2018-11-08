@@ -25,7 +25,7 @@ On the [Campus Map](http://www.temple.edu/maps/documents/TUMain_map.pdf), Gladfe
 - From the airport, take the Airpot line to Temple University Station. [Schedule](http://www.septa.org/schedules/rail/pdf/air.pdf). This will let you off at Berks St, between 9th and 10th Sts. Exit the train from the front and make a right on Berks St. By foot, take Berks Street (west) to 11th Street. Gladfelter is the first tall building on the right. You will see a white security kiosk right outside of Gladfelter (in between Galdfelter and Anderson, the two tall buildings). Continue past the kiosk. You will climb a short set of stairs and pass under a walkway that connects Gladfelter and Anderson Halls. The entrance to Gladfelter is under that walkway, on the right (about 7 minutes at a leisurely stroll).
 SEPTA Subway.
 
-### [SEPTA Subway](http://www.septa.org/service/sub_schedules.html)
+### SEPTA Subway
 From City Hall, take the Broad Street Line Northbound to the Cecil B. Moore/Temple University stop.  You will exit on Broad Street and Cecil B. Moore Avenue. Campus maps will direct you to Gladfelter Hall (about 7 minutes at a leisurely stroll).
 
 ### Taxi
