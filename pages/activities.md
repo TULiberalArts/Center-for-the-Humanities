@@ -10,8 +10,6 @@ keywords: ''
 # custom variables
 sidebar: sidebars/people.html
 ---
-**THIS PAGE NEEDS TO BE ENTERED INTO THE EVENTS CALENDAR SO THEY WILL FEED INTO THE CHAT EVENTS FEED ON THE HOMEPAGE AS WELL AS BEING LISTED HERE.**
-
 ## 2018-2019 CHAT Lectures and Workshops
 
 ### Distinguished Faculty Lecture Series
@@ -42,7 +40,7 @@ An experienced graduate intern, internship supervisor, and faculty will open up 
 
 ___
 
-**_Distinguished Lecture Series_**
+### _Distinguished Lecture Series_**
 
 **Eugene Chislenko, Philosophy**<br>
 **_Believing Against the Evidence_**
@@ -63,7 +61,7 @@ In a government whose legitimacy depends upon the "consent of the governed," civ
 Katherine Henry is Associate Professor of English and department chair. Her first book, _Liberalism and the Culture of Security: The Nineteenth-Century Rhetoric of Reform_, considers the strategies antislavery and women's rights activists employed to challenge the boundaries of U.S. citizenship, and her research continues to engage questions of civic participation and liberal political theory as they are represented in literary texts.
 
 **Tania Jenkins, Sociology**<br>
-_**Doctors' Orders: The Making of Status Hierarchies in the American Medical Profession_**<br>
+**_Doctors' Orders: The Making of Status Hierarchies in the American Medical Profession_**<br>
 Thursday, January 24<br>
 12:30 –1:50 pm, CHAT Lounge<br>
 
@@ -93,7 +91,7 @@ Thursday, April 18<br>
 
 ___
 
-**_Boundaries Lecture Series_**
+### _Boundaries Lecture Series_
 
 **Nasser Al-Jahwari, Archeology Sultan Qaboos University, Oman**<br>
 Wednesday, November 7<br>
@@ -124,7 +122,7 @@ Thursday, March 28<br>
 
 ___
 
-**_Conference_**
+### _Conference_**
 
 **Borders, Boundaries, Walls**<br>
 April 11-12<br> 
