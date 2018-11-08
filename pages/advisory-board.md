@@ -47,7 +47,7 @@ Philadelphia, PA 19182-7651<br>
 **Discuss a contribution**<br>
 Please contact:<br>
 
-Professor Petra Goedde, Director<br>
-Center for the Humanities at Temple<br>
+Professor Petra Goedde<br>
+Director, Center for the Humanities at Temple<br>
 [pgoedde@temple.edu](mailto:pgoedde@temple.edu)<br>
 [215-204-9206](tel:2152049206)<br>
