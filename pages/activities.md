@@ -43,7 +43,7 @@ ___
 ![Claudia Castro Luna]({{site.baseurl}}/media/resized Claudia Castro Luna.png){:.responsive-img .img-right}
 **Claudia Castro Luna, Poet Laureate, Washington State**<br>
 _Boundaries Lecture Series_<br>
-[_**Imagining their Voices: The Murdered Women of Juárez_**](https://develop.cla.temple.edu/center-for-the-humanities/)
+[**_Imagining their Voices: The Murdered Women of Juárez_**](https://develop.cla.temple.edu/center-for-the-humanities/)
 _Co-sponsored with the Global Studies Program_<br>
 Wednesday, November 28<br>
 4:00 - 5:30pm, CHAT Lounge<br>
