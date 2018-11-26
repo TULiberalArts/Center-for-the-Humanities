@@ -40,7 +40,7 @@ An experienced graduate intern, internship supervisor, and faculty will open up 
 
 ___
 
-### _Distinguished Lecture Series_**
+### _Distinguished Lecture Series_
 
 **Eugene Chislenko, Philosophy**<br>
 **_Believing Against the Evidence_**
