@@ -110,6 +110,7 @@ We all do things we believe we shouldn’t do. Do we also believe things we beli
 
 Eugene Chislenko is an Assistant Professor of Philosophy at Temple University, where he teaches courses in moral philosophy and its history. His recent work includes "A Solution for Buridan's Ass" (Ethics, January 2016) and "Moore's Paradox and Akratic Belief" (Philosophy and Phenomenological Research, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
 
+![Katherine Henry]({{site.baseurl}}/media/resized Kate Henry.jpg){:.responsive-img .img-right} 
 **Katherine Henry, English**<br>
 _Distinguished Lecture Series_<br>
 **_Queering "Civil Disobedience"_**<br>
