@@ -12,13 +12,14 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## This Week at CHAT:
-
 ![Jaurez]({{site.baseurl}}/media/resized2 Luna poster.jpg){:.responsive-img .img-right} 
+## This Week at CHAT:
 **Hundreds of young women...**<br>
 have disappeared from the border city of Juárez since the early 1990s, many of them violently murdered. Writer and poet [Claudia Castro Luna](https://temple.us1.list-manage.com/track/click?u=daac6912a370e1cb9d2c3756a&id=4375914e77&e=0669261260) will discuss this phenomenon in the next installment of our Boundaries Lecture Series. Castro Luna is currently serving as the [Poet Laureate](https://temple.us1.list-manage.com/track/click?u=daac6912a370e1cb9d2c3756a&id=1ddbcbf243&e=0669261260) of Washington State (2018–2020). The talk will be based on her most recent book, the Pushcart nominated Killing Marías, a collection of poetry inspired by the missing women of Juárez. 
 
 Join us this Wednesday, November 28th at 4:00PM in the CHAT Lounge for _“Imagining their Voices: The Murdered Women of Juárez.”_ For more details see the [full event](https://events.temple.edu/imagining-their-voices-the-murdered-women-of-ju%C3%A1rez).
+
+___
 
 ## A Forum for Scholarship and Intellectual Inquiry in the Humanities
 Located on the tenth floor of Gladfelter Hall, the comfortable quarters serve as a gathering place for scholars from across the disciplines to meet, enjoy social hours and read the latest humanities-oriented journals and periodicals. The Center for the Humanities at Temple (CHAT) was established in 2003 to create an interdisciplinary forum for scholarship and intellectual inquiry in the humanities at Temple University. We work to bridge the disciplinary divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple scholarly fields.
