@@ -40,27 +40,19 @@ An experienced graduate intern, internship supervisor, and faculty will open up 
 
 ___
 
-### _Distinguished Lecture Series_
+![Claudia Castro Luna]({{site.baseurl}}/media/resized Claudia Castro Luna.png){:.responsive-img .img-right}
+**Claudia Castro Luna, Poet Laureate, Washington State**<br>
+_Boundaries Lecture Series_<br>
+[_**Imagining their Voices: The Murdered Women of Juárez_**](https://develop.cla.temple.edu/center-for-the-humanities/)
+_Co-sponsored with the Global Studies Program_<br>
+Wednesday, November 28<br>
+4:00 - 5:30pm, CHAT Lounge<br>
 
-**Eugene Chislenko, Philosophy**<br>
-**_Believing Against the Evidence_**
-Thursday, October 18<br>
-12:30 - 1:50pm, CHAT Lounge<br>
+Claudia Castro Luna is the Poet Laureate of Washington State (2018-2020) She served as Seattle’s first Civic Poet from 2015-2017 and is the author of Pushcart nominated _Killing Marías_ (Two Sylvia's Press) and _This City_ (Floating Bridge Press). Born in El Salvador she came to the United States in 1981 fleeing civil war. She has an MFA in poetry from Mills College, an MA in Urban Planning from UCLA and a K-12 teaching certificate.  Her poems have appeared in _Poetry Northwest, La Bloga, Diálogo, Psychological Perspectives, and the Taos Journal of International Poetry and Art_ among others. Her non-fiction work can be read in the anthologies_, This Is the Place: Women Writing About Home_ (Seal Press), _The Wandering Song: Central American Writing in the US,_ (Northwestern University Press) and _Vanishing Points: Contemporary Salvadoran Narrative_ (Kalina Eds). Living in English and Spanish, Claudia writes and teaches in Seattle where she gardens and keeps chickens with her husband and their three children.
 
-We all do things we believe we shouldn’t do. Do we also believe things we believe we shouldn’t believe? For many of us, the very idea of ‘akrasia’ in belief is deeply puzzling. If we discover compelling evidence that one of our beliefs is mistaken, don’t we give up the belief? Isn’t that how changing our minds works? This talk argues that a clearer picture of belief can both dissolve and explain that widespread puzzlement, and help us understand a broad range of phenomena, from self-deception to superstition to anorexia.
-
-Eugene Chislenko is an Assistant Professor of Philosophy at Temple University, where he teaches courses in moral philosophy and its history. His recent work includes "A Solution for Buridan's Ass" (Ethics, January 2016) and "Moore's Paradox and Akratic Belief" (Philosophy and Phenomenological Research, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
-
-**Katherine Henry, English**<br>
-**_Queering "Civil Disobedience"_**<br>
-Thursday, November 1<br>
-12:30 –1:50 pm, CHAT Lounge<br>
-
-In a government whose legitimacy depends upon the "consent of the governed," civil disobedience can be understood as withholding one's consent to be governed. Refusing to pay one's taxes, for example, leaves the state with few options other than resorting to force, and exposes the ultimately coercive nature of a government that claims to be free and democratic. Successful acts of civil disobedience cast the protester as the object of the state's aggressive demand for consent-a position that is, despite Henry David Thoreau's insistence on the manliness of civil disobedience, oddly feminized. In addition to Thoreau's essay, I examine Melville's fictional character Bartleby, reading him as a type of the paradoxically defensive, queer version of selfhood that consent theory constructs and the withholding of consent exposes.
-
-Katherine Henry is Associate Professor of English and department chair. Her first book, _Liberalism and the Culture of Security: The Nineteenth-Century Rhetoric of Reform_, considers the strategies antislavery and women's rights activists employed to challenge the boundaries of U.S. citizenship, and her research continues to engage questions of civic participation and liberal political theory as they are represented in literary texts.
-
+![Tania Jenkins]({{site.baseurl}}/media/resized2_tania_jenkins.jpg){:.responsive-img .img-right}
 **Tania Jenkins, Sociology**<br>
+_Distinguished Lecture Series_<br>
 **_Doctors' Orders: The Making of Status Hierarchies in the American Medical Profession_**<br>
 Thursday, January 24<br>
 12:30 –1:50 pm, CHAT Lounge<br>
@@ -70,55 +62,75 @@ Not all doctors, it seems, are created equal. This talk will examine the constru
 Tania Jenkins (Ph.D. Brown University) is a sociologist specializing in the medical profession. Her work examines how and why status hierarchies are (re)produced among physicians and how they impact both doctors and patients. Her research has been funded by the National Science Foundation, the Canadian Institutes of Health Research, and the International Association of Medical Science Educators, among others. She is currently writing her first book entitled _Doctors’ Orders: The Making of Status and Inequality in the American Medical Profession_ (under contract with Columbia University Press).
 
 **Terry Rey, Religion**
+_Distinguished Lecture Series_<br>
 **_Polskayiti: Polish Permutations in Haitian Religious History and Culture_**<br>
 Thursday, February 7<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
+**Sarah Igo, History Department, Vanderbilt University**<br>
+_Boundaries Lecture Series_<br>
+**_The Known Citizen: Exploring the History of Privacy in Modern America?_**<br>
+Wednesday, February 13<br>
+4:00 –5:30 pm, CHAT Lounge<br>
+
 **Mónica Ricketts, History** 
+_Distinguished Lecture Series_<br>
 **_Women and the Spectacle of Politics: The Theater in Lima, 1800-1850_**<br>
 Thursday, February 21<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
 **Geoffrey Baym, Media Studies and Production**
+_Distinguished Lecture Series_<br>
 **_Media and Representation in the Age of Trump_**<br>
 Thursday, March 21<br>
 12:30 –1:50 pm, CHAT Lounge<br>
 
+**Hector Amaya, Media Studies, University of Virginia**<br>
+_Boundaries Lecture Series_<br>
+**_Hate and Border Ephemerality in the Digital Realm_** _Co-Sponsored with the Global Studies Program_<br>
+Thursday, March 28<br>
+4:00 - 5:30pm, CHAT Lounge<br>
+
 **Benjamin Talton, History**<br>
+_Distinguished Lecture Series_<br>
 **_The Afterlife of Radicalism: African Americans and Africa in the Age of Reagan_**<br>
 Thursday, April 18<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
-___
+### Past Lectures
 
-### _Boundaries Lecture Series_
+![Eugene Chislenko]({{site.baseurl}}/media/resized_Chislenko.jpg){:.responsive-img .img-right}
+**Eugene Chislenko, Philosophy**<br>
+_Distinguished Lecture Series_<br>
+**_Believing Against the Evidence_**
+Thursday, October 18<br>
+12:30 - 1:50pm, CHAT Lounge<br>
+
+We all do things we believe we shouldn’t do. Do we also believe things we believe we shouldn’t believe? For many of us, the very idea of ‘akrasia’ in belief is deeply puzzling. If we discover compelling evidence that one of our beliefs is mistaken, don’t we give up the belief? Isn’t that how changing our minds works? This talk argues that a clearer picture of belief can both dissolve and explain that widespread puzzlement, and help us understand a broad range of phenomena, from self-deception to superstition to anorexia.
+
+Eugene Chislenko is an Assistant Professor of Philosophy at Temple University, where he teaches courses in moral philosophy and its history. His recent work includes "A Solution for Buridan's Ass" (Ethics, January 2016) and "Moore's Paradox and Akratic Belief" (Philosophy and Phenomenological Research, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
+
+**Katherine Henry, English**<br>
+_Distinguished Lecture Series_<br>
+**_Queering "Civil Disobedience"_**<br>
+Thursday, November 1<br>
+12:30 –1:50 pm, CHAT Lounge<br>
+
+In a government whose legitimacy depends upon the "consent of the governed," civil disobedience can be understood as withholding one's consent to be governed. Refusing to pay one's taxes, for example, leaves the state with few options other than resorting to force, and exposes the ultimately coercive nature of a government that claims to be free and democratic. Successful acts of civil disobedience cast the protester as the object of the state's aggressive demand for consent-a position that is, despite Henry David Thoreau's insistence on the manliness of civil disobedience, oddly feminized. In addition to Thoreau's essay, I examine Melville's fictional character Bartleby, reading him as a type of the paradoxically defensive, queer version of selfhood that consent theory constructs and the withholding of consent exposes.
+
+Katherine Henry is Associate Professor of English and department chair. Her first book, _Liberalism and the Culture of Security: The Nineteenth-Century Rhetoric of Reform_, considers the strategies antislavery and women's rights activists employed to challenge the boundaries of U.S. citizenship, and her research continues to engage questions of civic participation and liberal political theory as they are represented in literary texts.
 
 **Nasser Al-Jahwari, Archeology Sultan Qaboos University, Oman**<br>
+_Boundaries Lecture Series_<br>
 Wednesday, November 7<br>
 4:00 - 5:30pm, CHAT Lounge<br>
 **_Reimagining the Agency of Borderland Populations: The Bronze Age Indus and Magan Interaction Sphere and Role of the Site of Dahwa as a Regional Redistribution Center for Foreign Goods._** _Co-sponsored with the Department of Anthropology, the Global Studies Program, and the Department of Geography and Urban Studies_<br>
 
 **Hosea Harvey, Law and Political Science**<br>
+_Boundaries Lecture Series_<br>
 Thursday, November 15<br>
 12:30 –1:50 pm, CHAT Lounge<br>
 **_Creating an American Myth: How the U.S. Census Uses Social Science and Stereotype to Define Race in America_**<br>
-
-**Claudia Castro Luna, Poet Laureate, Washington State**<br>
-_**Imagining their Voices: The Murdered Women of Juárez_**- _Co-sponsored with the Global Studies Program_<br>
-Wednesday, November 28<br>
-4:00 - 5:30pm, CHAT Lounge<br>
-
-Claudia Castro Luna is the Poet Laureate of Washington State (2018-2020) She served as Seattle’s first Civic Poet from 2015-2017 and is the author of Pushcart nominated _Killing Marías_ (Two Sylvia's Press) and _This City_ (Floating Bridge Press). Born in El Salvador she came to the United States in 1981 fleeing civil war. She has an MFA in poetry from Mills College, an MA in Urban Planning from UCLA and a K-12 teaching certificate.  Her poems have appeared in _Poetry Northwest, La Bloga, Diálogo, Psychological Perspectives, and the Taos Journal of International Poetry and Art_ among others. Her non-fiction work can be read in the anthologies_, This Is the Place: Women Writing About Home_ (Seal Press), _The Wandering Song: Central American Writing in the US,_ (Northwestern University Press) and _Vanishing Points: Contemporary Salvadoran Narrative_ (Kalina Eds). Living in English and Spanish, Claudia writes and teaches in Seattle where she gardens and keeps chickens with her husband and their three children.
-
-**Sarah Igo, History Department, Vanderbilt University**<br>
-**_The Known Citizen: Exploring the History of Privacy in Modern America?_**<br>
-Wednesday, February 13<br>
-4:00 –5:30 pm, CHAT Lounge<br>
-
-**Hector Amaya, Media Studies, University of Virginia**<br>
-**_Hate and Border Ephemerality in the Digital Realm_** _Co-Sponsored with the Global Studies Program_<br>
-Thursday, March 28<br>
-4:00 - 5:30pm, CHAT Lounge<br>
 
 ___
 
