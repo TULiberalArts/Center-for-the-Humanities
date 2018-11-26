@@ -75,12 +75,12 @@ Thursday, February 7<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
 **Mónica Ricketts, History** 
-**_Women and the Spectacle of Politics: The Theater in Lima, 1800-1850_**
+**_Women and the Spectacle of Politics: The Theater in Lima, 1800-1850_**<br>
 Thursday, February 21<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
 **Geoffrey Baym, Media Studies and Production**
-**_Media and Representation in the Age of Trump_**
+**_Media and Representation in the Age of Trump_**<br>
 Thursday, March 21<br>
 12:30 –1:50 pm, CHAT Lounge<br>
 
@@ -116,7 +116,7 @@ Wednesday, February 13<br>
 4:00 –5:30 pm, CHAT Lounge<br>
 
 **Hector Amaya, Media Studies, University of Virginia**<br>
-**_Hate and Border Ephemerality in the Digital Realm_** - _Co-Sponsored with the Global Studies Program_
+**_Hate and Border Ephemerality in the Digital Realm_** _Co-Sponsored with the Global Studies Program_<br>
 Thursday, March 28<br>
 4:00 - 5:30pm, CHAT Lounge<br>
 
