@@ -14,7 +14,7 @@ feature-image: media/chathero2.png
 ---
 ## This Week at CHAT:
 
-![Jaurez]({{site.baseurl}}/media/resized Luna poster.jpg){:.responsive-img .img-right} 
+![Jaurez]({{site.baseurl}}/media/resized2 Luna poster.jpg){:.responsive-img .img-right} 
 **Hundreds of young women...**<br>
 have disappeared from the border city of Juárez since the early 1990s, many of them violently murdered. Writer and poet [Claudia Castro Luna](https://temple.us1.list-manage.com/track/click?u=daac6912a370e1cb9d2c3756a&id=4375914e77&e=0669261260) will discuss this phenomenon in the next installment of our Boundaries Lecture Series. Castro Luna is currently serving as the [Poet Laureate](https://temple.us1.list-manage.com/track/click?u=daac6912a370e1cb9d2c3756a&id=1ddbcbf243&e=0669261260) of Washington State (2018–2020). The talk will be based on her most recent book, the Pushcart nominated Killing Marías, a collection of poetry inspired by the missing women of Juárez. 
 
