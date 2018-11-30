@@ -61,11 +61,16 @@ Not all doctors, it seems, are created equal. This talk will examine the constru
 
 Tania Jenkins (Ph.D. Brown University) is a sociologist specializing in the medical profession. Her work examines how and why status hierarchies are (re)produced among physicians and how they impact both doctors and patients. Her research has been funded by the National Science Foundation, the Canadian Institutes of Health Research, and the International Association of Medical Science Educators, among others. She is currently writing her first book entitled _Doctors’ Orders: The Making of Status and Inequality in the American Medical Profession_ (under contract with Columbia University Press).
 
+![Terry Rey]({{site.baseurl}}/media/resized2 Terry Rey.png){:.responsive-img .img-right}
 **Terry Rey, Religion**<br>
 _Distinguished Lecture Series_<br>
 **_Polskayiti: Polish Permutations in Haitian Religious History and Culture_**<br>
 Thursday, February 7<br>
 12:30 - 1:50pm, CHAT Lounge<br>
+
+Polish troops fought in the Haitian Revolution, some defecting in support of rebel slaves. With them was Our Lady of Częstochowa, who remains an adored figure in Haitian religion. They have descendants in Haiti today. Furthermore, a Polish American once ruled the Haitian island of La Gonâve, the Polish pope John Paul II momentously visited Haiti in 1983, while a Polish American prelate is the spiritual godfather of Haitian Miami. Each summer, meanwhile, busloads of Haitian pilgrims visit the Shrine of Częstochowa, in Doylestown. PolskAyiti researches all of this.
+
+Terry Rey is Professor of Religion at Temple University. He works primarily in the fields of the anthropology and the history of African and African diasporic religions. 
 
 **Sarah Igo, History Department, Vanderbilt University**<br>
 _Boundaries Lecture Series_<br>
