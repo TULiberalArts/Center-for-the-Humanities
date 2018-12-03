@@ -45,7 +45,7 @@ Polish troops fought in the Haitian Revolution, some defecting in support of reb
 
 Terry Rey is Professor of Religion at Temple University. He works primarily in the fields of the anthropology and the history of African and African diasporic religions. 
 
-![Sarah Igo]({{site.baseurl}}/media/resized Sarah Igo.jpg){:.responsive-img .img-right}
+![Sarah Igo]({{site.baseurl}}/media/resized2 Sarah Igo.jpg){:.responsive-img .img-right}
 **Sarah Igo, History Department, Vanderbilt University**<br>
 _Boundaries Lecture Series_<br>
 **_The Known Citizen: Exploring the History of Privacy in Modern America_**<br>
