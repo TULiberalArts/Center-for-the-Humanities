@@ -45,17 +45,27 @@ Polish troops fought in the Haitian Revolution, some defecting in support of reb
 
 Terry Rey is Professor of Religion at Temple University. He works primarily in the fields of the anthropology and the history of African and African diasporic religions. 
 
+![Sarah Igo]({{site.baseurl}}/media/resized Sarah Igo.jpg){:.responsive-img .img-right}
 **Sarah Igo, History Department, Vanderbilt University**<br>
 _Boundaries Lecture Series_<br>
 **_The Known Citizen: Exploring the History of Privacy in Modern America_**<br>
 Wednesday, February 13<br>
 4:00 –5:30 pm, CHAT Lounge<br>
 
+Every day, Americans make decisions about their privacy: what to share and when, how much to expose and to whom.  Securing the boundary between one’s private affairs and public identity has become a central task of citizenship. Ranging from the era of “instantaneous photography” to our own age of big data, Sarah Igo will explore how privacy became the indispensable language for monitoring the ever-shifting line between our personal and social selves — and the surprising ways that debates over what should be kept out of the public eye transformed U.S. politics and society.
+
+Sarah E. Igo (Ph.D. Princeton University) is an Associate Professor of History and Director of the Program in American Studies at Vanderbilt University. An intellectual and cultural historian of the modern United States, she is the author of _The Averaged American: Surveys, Citizens and the Making of a Mass Public_ (2007) and a new book, _The Known Citizen: A History of Privacy in Modern America_ (2018).
+
+![Mónica Ricketts]({{site.baseurl}}/media/resized2_monica_ricketts.png){:.responsive-img .img-right}
 **Mónica Ricketts, History**<br>
 _Distinguished Lecture Series_<br>
 **_Women and the Spectacle of Politics: The Theater in Lima, 1800-1850_**<br>
 Thursday, February 21<br>
 12:30 - 1:50pm, CHAT Lounge<br>
+
+Modern politics came to being in Peru around the 1800s. Political oratory boomed; struggles for power dominated the early republic. Women did not play a visible role in these manly-dominated spheres. We have to look somewhere else to find them in action. The theater of Lima offered them an arena. Women of the elite and lower groups were regulars. They smoked and raised their voices in protest. Some performed and exercised authority as actresses. A few worked as managers. Women played leading roles in Lima’s theater at a time when this institution was conceived of as the ideal space to build a virtuous republican nation.
+
+Mónica Ricketts is a historian of colonial Latin America and the Iberian Atlantic World. She specializes in the intellectual, political, and cultural history of the Spanish world. She received her B.A. and Licenciate degrees from the Pontificia Universidad Católica del Perú in Lima, Peru, and her Ph.D. from Harvard University. She has taught at Temple University since 2010. In 2017 she published _Who Should Rule? Men of Arms, the Republic of Letters, and the Fall of the Spanish Empire_ (Oxford University Press). She is currently working on the role of the theater in the formation of a common political culture in Spain and Spanish America and on the history of women’s political participation in Peru.
 
 **Geoffrey Baym, Media Studies and Production**<br>
 _Distinguished Lecture Series_<br>
