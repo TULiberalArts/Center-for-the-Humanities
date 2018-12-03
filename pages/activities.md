@@ -22,33 +22,6 @@ Boundaries, borders, and walls demarcate exclusion, difference, transgression, t
 These workshops are designed for graduate students in the humanities and social sciences and will feature academic and professional specialists from inside Temple University and outside institutions. Topics include fellowship applications, job search, career development, and digital humanities.
 
 ## Upcoming Talks
-**_Professional Development Workshop_**
-
-**Humanities Internships for Graduate Students - A Conversation**<br>
-Thurdsay, October 11<br>
-12:30-1:50, CHAT Lounge<br>
-
-Join us for a conversation about internships. Could they be the first step for careers and research in the public humanities?  What kinds of internships exist? What are employers looking for? How do your skills apply in the workplace? How do you get an internship? 
-
-An experienced graduate intern, internship supervisor, and faculty will open up about how they got their internships, what their experiences were, and how they benefited from the experience.
-
-- **Jonathan Burton** is the Executive Director of the Philadelphia Society for the Preservation of Landmarks. In this role, he has overseen interns from a wide variety of backgrounds, who have worked in development, communications, education, curatorial, and other roles at the organization.
-
-- **Joy Feagan** obtained her first internship by cold-calling her local historical society to ask if they'd like some extra help. Thankfully, they did. Since then Joy has interned and worked at historical societies, libraries, and museums including the National Museum of Nuclear Science & History, Mote Marine Aquarium's Arthur Vining Davis Library, and the Tampa Baseball Museum.
-
-- **Hilary Iris Lowe** is an assistant professor in the History Department. She has served as the faculty internship advisor for graduate and undergraduate students at Temple. Her own graduate internship introduced her to the work of public humanities.
-
-___
-
-![Claudia Castro Luna]({{site.baseurl}}/media/resized Claudia Castro Luna.png){:.responsive-img .img-right}
-**Claudia Castro Luna, Poet Laureate, Washington State**<br>
-_Boundaries Lecture Series_<br>
-[**_Imagining their Voices: The Murdered Women of Juárez_**](https://develop.cla.temple.edu/center-for-the-humanities/)
-_Co-sponsored with the Global Studies Program_<br>
-Wednesday, November 28<br>
-4:00 - 5:30pm, CHAT Lounge<br>
-
-Claudia Castro Luna is the Poet Laureate of Washington State (2018-2020) She served as Seattle’s first Civic Poet from 2015-2017 and is the author of Pushcart nominated _Killing Marías_ (Two Sylvia's Press) and _This City_ (Floating Bridge Press). Born in El Salvador she came to the United States in 1981 fleeing civil war. She has an MFA in poetry from Mills College, an MA in Urban Planning from UCLA and a K-12 teaching certificate.  Her poems have appeared in _Poetry Northwest, La Bloga, Diálogo, Psychological Perspectives, and the Taos Journal of International Poetry and Art_ among others. Her non-fiction work can be read in the anthologies_, This Is the Place: Women Writing About Home_ (Seal Press), _The Wandering Song: Central American Writing in the US,_ (Northwestern University Press) and _Vanishing Points: Contemporary Salvadoran Narrative_ (Kalina Eds). Living in English and Spanish, Claudia writes and teaches in Seattle where she gardens and keeps chickens with her husband and their three children.
 
 ![Tania Jenkins]({{site.baseurl}}/media/resized2_tania_jenkins.jpg){:.responsive-img .img-right}
 **Tania Jenkins, Sociology**<br>
@@ -74,7 +47,7 @@ Terry Rey is Professor of Religion at Temple University. He works primarily in t
 
 **Sarah Igo, History Department, Vanderbilt University**<br>
 _Boundaries Lecture Series_<br>
-**_The Known Citizen: Exploring the History of Privacy in Modern America?_**<br>
+**_The Known Citizen: Exploring the History of Privacy in Modern America_**<br>
 Wednesday, February 13<br>
 4:00 –5:30 pm, CHAT Lounge<br>
 
@@ -96,6 +69,12 @@ _Boundaries Lecture Series_<br>
 Thursday, March 28<br>
 4:00 - 5:30pm, CHAT Lounge<br>
 
+**_Conference_**
+**Borders, Boundaries, Walls**<br>
+April 11-12<br> 
+Temple University-Ben Gurion University of the Negev, Israel<br>
+**Check back on our home page events feed for this event for updated times and details.**<br>
+
 **Benjamin Talton, History**<br>
 _Distinguished Lecture Series_<br>
 **_The Afterlife of Radicalism: African Americans and Africa in the Age of Reagan_**<br>
@@ -103,6 +82,22 @@ Thursday, April 18<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
 ### Past Lectures
+
+**_Professional Development Workshop_**
+
+**Humanities Internships for Graduate Students - A Conversation**<br>
+Thurdsay, October 11<br>
+12:30-1:50, CHAT Lounge<br>
+
+Join us for a conversation about internships. Could they be the first step for careers and research in the public humanities?  What kinds of internships exist? What are employers looking for? How do your skills apply in the workplace? How do you get an internship? 
+
+An experienced graduate intern, internship supervisor, and faculty will open up about how they got their internships, what their experiences were, and how they benefited from the experience.
+
+- **Jonathan Burton** is the Executive Director of the Philadelphia Society for the Preservation of Landmarks. In this role, he has overseen interns from a wide variety of backgrounds, who have worked in development, communications, education, curatorial, and other roles at the organization.
+
+- **Joy Feagan** obtained her first internship by cold-calling her local historical society to ask if they'd like some extra help. Thankfully, they did. Since then Joy has interned and worked at historical societies, libraries, and museums including the National Museum of Nuclear Science & History, Mote Marine Aquarium's Arthur Vining Davis Library, and the Tampa Baseball Museum.
+
+- **Hilary Iris Lowe** is an assistant professor in the History Department. She has served as the faculty internship advisor for graduate and undergraduate students at Temple. Her own graduate internship introduced her to the work of public humanities.
 
 ![Eugene Chislenko]({{site.baseurl}}/media/resized_Chislenko.jpg){:.responsive-img .img-right}
 **Eugene Chislenko, Philosophy**<br>
@@ -138,14 +133,17 @@ Thursday, November 15<br>
 12:30 –1:50 pm, CHAT Lounge<br>
 **_Creating an American Myth: How the U.S. Census Uses Social Science and Stereotype to Define Race in America_**<br>
 
+![Claudia Castro Luna]({{site.baseurl}}/media/resized Claudia Castro Luna.png){:.responsive-img .img-right}
+**Claudia Castro Luna, Poet Laureate, Washington State**<br>
+_Boundaries Lecture Series_<br>
+[**_Imagining their Voices: The Murdered Women of Juárez_**](https://develop.cla.temple.edu/center-for-the-humanities/)
+_Co-sponsored with the Global Studies Program_<br>
+Wednesday, November 28<br>
+4:00 - 5:30pm, CHAT Lounge<br>
+
+Claudia Castro Luna is the Poet Laureate of Washington State (2018-2020) She served as Seattle’s first Civic Poet from 2015-2017 and is the author of Pushcart nominated _Killing Marías_ (Two Sylvia's Press) and _This City_ (Floating Bridge Press). Born in El Salvador she came to the United States in 1981 fleeing civil war. She has an MFA in poetry from Mills College, an MA in Urban Planning from UCLA and a K-12 teaching certificate.  Her poems have appeared in _Poetry Northwest, La Bloga, Diálogo, Psychological Perspectives, and the Taos Journal of International Poetry and Art_ among others. Her non-fiction work can be read in the anthologies_, This Is the Place: Women Writing About Home_ (Seal Press), _The Wandering Song: Central American Writing in the US,_ (Northwestern University Press) and _Vanishing Points: Contemporary Salvadoran Narrative_ (Kalina Eds). Living in English and Spanish, Claudia writes and teaches in Seattle where she gardens and keeps chickens with her husband and their three children.
+
 ___
-
-### _Conference_**
-
-**Borders, Boundaries, Walls**<br>
-April 11-12<br> 
-Temple University-Ben Gurion University of the Negev, Israel<br>
-**Check back on our home page events feed for this event for updated times and details.**<br>
 
 ## Archives 
 - [**Recorded Programs**](https://develop.cla.temple.edu/center-for-the-humanities/recorded-programs/)
