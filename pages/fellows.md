@@ -84,7 +84,7 @@ ___
 ![Elizabeth White Vidarte]({{site.baseurl}}/media/resized Elizabeth White Vidarte.jpg){:.responsive-img .img-right}
 **_Elizabeth White Vidarte, PhD Candidate, English_**<br>
 
-Elizabeth is an English PhD candidate specializing in American literature and disability studies. She focuses on the cultural history of empathy and care for the mentally disabled from the late 19th century through the Great Depression. Investigating dependency relations in reciprocal and oppressive modes, she hopes to show that mind-related disability was often framed as a problem because it threatens to reveal raced and gendered autonomy as fictive fantasies of American identity. Yet despite this, it could also be framed as an imperative for ethical and reciprocal care that offered generative means for valuing difference.
+Elizabeth is an English PhD candidate specializing in American literature and disability studies. She focuses on the cultural history of empathy and care for the mentally disabled from the late 19th century through the Great Depression. Investigating dependency relations in reciprocal and oppressive modes, she hopes to show that mind-related disability was often framed as a problem because it threatens to reveal raced and gendered autonomy as fictive fantasies of American identity. Yet despite this, it could also be framed as an imperative for ethical and reciprocal care that offered generative means for valuing difference. Elizabeth is also a currently participating in the Digital Scholars program, with plans to use textual analysis tools on her archival research.
 
 ___
 
