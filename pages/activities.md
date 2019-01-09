@@ -34,6 +34,8 @@ Not all doctors, it seems, are created equal. This talk will examine the constru
 
 Tania Jenkins (Ph.D. Brown University) is a sociologist specializing in the medical profession. Her work examines how and why status hierarchies are (re)produced among physicians and how they impact both doctors and patients. Her research has been funded by the National Science Foundation, the Canadian Institutes of Health Research, and the International Association of Medical Science Educators, among others. She is currently writing her first book entitled _Doctors’ Orders: The Making of Status and Inequality in the American Medical Profession_ (under contract with Columbia University Press).
 
+___
+
 ![Terry Rey]({{site.baseurl}}/media/resized2 Terry Rey.png){:.responsive-img .img-right}
 **Terry Rey, Religion**<br>
 _Distinguished Lecture Series_<br>
@@ -44,6 +46,8 @@ Thursday, February 7<br>
 Polish troops fought in the Haitian Revolution, some defecting in support of rebel slaves. With them was Our Lady of Częstochowa, who remains an adored figure in Haitian religion. They have descendants in Haiti today. Furthermore, a Polish American once ruled the Haitian island of La Gonâve, the Polish pope John Paul II momentously visited Haiti in 1983, while a Polish American prelate is the spiritual godfather of Haitian Miami. Each summer, meanwhile, busloads of Haitian pilgrims visit the Shrine of Częstochowa, in Doylestown. PolskAyiti researches all of this.
 
 Terry Rey is Professor of Religion at Temple University. He works primarily in the fields of the anthropology and the history of African and African diasporic religions. 
+
+___
 
 ![Sarah Igo]({{site.baseurl}}/media/resized2 Sarah Igo.jpg){:.responsive-img .img-right}
 **Sarah Igo, History Department, Vanderbilt University**<br>
@@ -56,6 +60,8 @@ Every day, Americans make decisions about their privacy: what to share and when,
 
 Sarah E. Igo (Ph.D. Princeton University) is an Associate Professor of History and Director of the Program in American Studies at Vanderbilt University. An intellectual and cultural historian of the modern United States, she is the author of _The Averaged American: Surveys, Citizens and the Making of a Mass Public_ (2007) and a new book, _The Known Citizen: A History of Privacy in Modern America_ (2018).
 
+___
+
 ![Mónica Ricketts]({{site.baseurl}}/media/resized2_monica_ricketts.png){:.responsive-img .img-right}
 **Mónica Ricketts, History**<br>
 _Distinguished Lecture Series_<br>
@@ -66,6 +72,8 @@ Thursday, February 21<br>
 Modern politics came to being in Peru around the 1800s. Political oratory boomed; struggles for power dominated the early republic. Women did not play a visible role in these manly-dominated spheres. We have to look somewhere else to find them in action. The theater of Lima offered them an arena. Women of the elite and lower groups were regulars. They smoked and raised their voices in protest. Some performed and exercised authority as actresses. A few worked as managers. Women played leading roles in Lima’s theater at a time when this institution was conceived of as the ideal space to build a virtuous republican nation.
 
 Mónica Ricketts is a historian of colonial Latin America and the Iberian Atlantic World. She specializes in the intellectual, political, and cultural history of the Spanish world. She received her B.A. and Licenciate degrees from the Pontificia Universidad Católica del Perú in Lima, Peru, and her Ph.D. from Harvard University. She has taught at Temple University since 2010. In 2017 she published _Who Should Rule? Men of Arms, the Republic of Letters, and the Fall of the Spanish Empire_ (Oxford University Press). She is currently working on the role of the theater in the formation of a common political culture in Spain and Spanish America and on the history of women’s political participation in Peru.
+
+___
 
 **Geoffrey Baym, Media Studies and Production**<br>
 _Distinguished Lecture Series_<br>
