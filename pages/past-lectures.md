@@ -30,7 +30,7 @@ An experienced graduate intern, internship supervisor, and faculty will open up 
 
 ___
 
-![Gary Mucciaroni]({{site.baseurl}}/media/resized resized Mucciaroni.jpg){:.responsive-img .img-right}
+![Gary Mucciaroni]({{site.baseurl}}/media/resized Mucciaroni.jpg){:.responsive-img .img-right}
 **Gary Mucciaroni, Political Science**<br>
 _Distinguished Lecture Series_<br>
 **_Answers to the Labor Question: The Origins of Industrial Relations Regimes in the Anglophone World, 1880-1945_** 
@@ -41,9 +41,11 @@ Starting in the mid-19th Century, elites and reformers often alluded to “the l
 
 Gary Mucciaroni is a Professor in the Department of Political Science and Director of the Master of Public Policy Program at Temple University. He served as Department Chair from 2005-10 and 2015-16. He is the author of four books and several articles on public policymaking in the United States and specifically on policies related to employment, public assistance, taxes, trade, telecommunications, LGBTQ rights, and abortion.
 
+___
+
 ![Lee McIntyre]({{site.baseurl}}/media/resized Lee McIntyre.jpg){:.responsive-img .img-right}
 **Lee McIntyre, Center for Philosophy and History of Science Boston University**<br>
-_ Boundaries Lecture Series_<br>
+_Boundaries Lecture Series_<br>
 **_What does it mean to be ‘Post Truth’?_** _co-sponsored with the Global Studies Program_
 Wednesday, September 26<br>
 4:00 - 5:30pm, CHAT Lounge<br>
@@ -51,6 +53,8 @@ Wednesday, September 26<br>
 The phenomenon of "post-truth" rocketed to public attention in November 2016, when it was named "word of the year" by the Oxford Dictionaries. But what does it mean? Is post-truth synonymous with lying? Where did post-truth come from? And does saying that we are in a post-truth era mean that no one cares about truth anymore? Some have defined post-truth as the idea that "objective facts are less influential in shaping public opinion than appeals to emotion and personal belief." I'll discuss this and how it fits into the political context of seeing post-truth as a precursor to authoritarian rule.
 
 Lee McIntyre is a Research Fellow at the Center for Philosophy and History of Science at Boston University and a Lecturer in Ethics at Harvard Extension School. He has previously taught philosophy at Colgate University, Boston University, Tufts Experimental College and Simmons College. He is the author of Post-Truth (MIT Press, 2018) and several popular essays that have appeared in _The New York Times, The Chronicle of Higher Education, The New Statesman, and The Times Higher Education Supplement_.
+
+___
 
 ![Noriko Manabe]({{site.baseurl}}/media/resized Noriko Manabe.jpg){:.responsive-img .img-right}
 **Noriko Manabe, Music**<br>
@@ -63,7 +67,9 @@ How does the sound of street protests reflect the kind of democracy that is allo
 
 Noriko Manabe is Associate Professor of Music Studies at Temple University. Her monograph, _The Revolution Will Not Be Televised: Protest Music After Fukushima_, won the John Whitney Hall Book Prize from the Association for Asian Studies, the British Forum for Ethnomusicology Book Award, and Honorable Mention for the Alan Merriam Prize from the Society for Ethnomusicology. She is currently writing her second monograph, _Revolution Remixed: Intertextuality in Protest Music_, and co-editing the volumes, the Oxford Handbook of Protest Music (with Eric Drott) and Nuclear Music (with Jessica Schwartz). She has recently analyzed Kendrick Lamar and the sounds of post-Trump protests. She is series editor for _33-1/3 Japan_, a book series on Japanese popular music at Bloomsbury Publishing.
 
-![Eugene Chislenko]({{site.baseurl}}/media/resized_Chislenko.jpg){:.responsive-img .img-right}
+___
+
+![Eugene Chislenko]({{site.baseurl}}/media/resized Chislenko.jpg){:.responsive-img .img-right}
 **Eugene Chislenko, Philosophy**<br>
 _Distinguished Lecture Series_<br>
 **_Believing Against the Evidence_**
@@ -73,6 +79,8 @@ Thursday, October 18<br>
 We all do things we believe we shouldn’t do. Do we also believe things we believe we shouldn’t believe? For many of us, the very idea of ‘akrasia’ in belief is deeply puzzling. If we discover compelling evidence that one of our beliefs is mistaken, don’t we give up the belief? Isn’t that how changing our minds works? This talk argues that a clearer picture of belief can both dissolve and explain that widespread puzzlement, and help us understand a broad range of phenomena, from self-deception to superstition to anorexia.
 
 Eugene Chislenko is an Assistant Professor of Philosophy at Temple University, where he teaches courses in moral philosophy and its history. His recent work includes _"A Solution for Buridan's Ass"_ (Ethics, January 2016) and _"Moore's Paradox and Akratic Belief"_ (Philosophy and Phenomenological Research, May 2016). He is now working on a book manuscript about moral motivation, entitled _The Guise of the Good_, and a series of essays on the ethics of blame.
+
+___
 
 ![Katherine Henry]({{site.baseurl}}/media/resized Kate Henry.jpg){:.responsive-img .img-right} 
 **Katherine Henry, English**<br>
@@ -85,6 +93,8 @@ In a government whose legitimacy depends upon the "consent of the governed," civ
 
 Katherine Henry is Associate Professor of English and department chair. Her first book, _Liberalism and the Culture of Security: The Nineteenth-Century Rhetoric of Reform_, considers the strategies antislavery and women's rights activists employed to challenge the boundaries of U.S. citizenship, and her research continues to engage questions of civic participation and liberal political theory as they are represented in literary texts.
 
+___
+
 ![Nasser Al-Jahwari]({{site.baseurl}}/media/s200_nasser_said.aljahwari.jpg){:.responsive-img .img-right}
 **Nasser Al-Jahwari, Archeology Sultan Qaboos University, Oman**<br>
 _Boundaries Lecture Series_<br>
@@ -96,6 +106,8 @@ The Arabian Gulf has long been a venue for exchange of goods, ideas, and people.
 
 Dr. Nasser al-Jahwari is a landscape archaeologist who earned his PhD from Durham University, UK. He has extensive archaeological field experience and currently directs the field project at the 3rd millennium BC site at Dahwa area near to Saham, Oman. He is an expert on Umm an-Nar settlement patterns on the Oman Peninsula. Most recently, he has published on the importance of Oman’s coastal seaports, settlements strategies, and the distribution of monuments on the Oman Peninsula. He is currently Associate Professor of Archaeology at Sultan Qaboos University in the Sultanate of Oman. He is also a world heritage expert for some international organizations such as ICOMOS and WMF.
 
+___
+
 ![Hosea Harvey]({{site.baseurl}}/media/resized Hosea Harvey.jpg){:.responsive-img .img-right}
 **Hosea Harvey, Law and Political Science**<br>
 _Distinguished Lecture Series_<br>
@@ -106,6 +118,8 @@ Thursday, November 15<br>
 How and why does the U.S. Census determine what race is - and should mean - in the United States? The first Census Bureau identified three races: "Free white males/females, all other free persons, and slaves." Over time, dozens of newly discovered "races" have entered - and exited - the Census. In 2016, the Bureau proposed adding a new Census 2020 race category - "MENA". Recently, it abruptly reversed course. This talk situates these evolving race definitions against political, cultural, and legal developments over time, and highlights social-science methodologies that shaped the 2020 Census "race" categories - for perhaps the most important Census of our lifetime.
 
 Hosea H. Harvey is Associate Professor of Law and Political Science (by courtesy) at Temple University. His articles have appeared in an array of publications and have been cited by _The New York Times_ and other media sources. Using both qualitative and empirical methods, he specializes in analyzing the design, implementation, and effectiveness of laws, public policies, and regulations that impact vulnerable populations.
+
+___
 
 ![Claudia Castro Luna]({{site.baseurl}}/media/resized Claudia Castro Luna.png){:.responsive-img .img-right}
 **Claudia Castro Luna, Poet Laureate, Washington State**<br>
