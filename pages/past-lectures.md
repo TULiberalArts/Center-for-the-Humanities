@@ -12,8 +12,7 @@ sidebar: sidebars/people.html
 ---
 ## 2018 Lecture Series 
 
-**_Professional Development Workshop_**
-
+**_Professional Development Workshop_**<br>
 **Humanities Internships for Graduate Students - A Conversation**<br>
 Thurdsay, October 11<br>
 12:30-1:50, CHAT Lounge<br>
