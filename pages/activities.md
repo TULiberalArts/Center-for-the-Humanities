@@ -21,6 +21,8 @@ Boundaries, borders, and walls demarcate exclusion, difference, transgression, t
 ### Professional Development Workshops
 These workshops are designed for graduate students in the humanities and social sciences and will feature academic and professional specialists from inside Temple University and outside institutions. Topics include fellowship applications, job search, career development, and digital humanities.
 
+___
+
 ## Upcoming Talks
 
 ![Tania Jenkins]({{site.baseurl}}/media/resized2_tania_jenkins.jpg){:.responsive-img .img-right}
