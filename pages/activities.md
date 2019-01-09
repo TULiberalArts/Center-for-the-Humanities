@@ -79,7 +79,7 @@ _Boundaries Lecture Series_<br>
 Thursday, March 28<br>
 4:00 - 5:30pm, CHAT Lounge<br>
 
-**_Conference_**
+**_Conference_**<br>
 **Borders, Boundaries, Walls**<br>
 April 11-12<br> 
 Temple University-Ben Gurion University of the Negev, Israel<br>
