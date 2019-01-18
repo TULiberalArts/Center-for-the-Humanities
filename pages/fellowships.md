@@ -19,7 +19,7 @@ Faculty Fellowships provide teaching relief and research support for tenured and
 **Eligibility**<br>
 All tenured and tenure-track faculty working on research projects in the humanities or humanistic social sciences are eligible. Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may result in a loss of the award at the discretion of the CHAT Director. Previous applicants are encouraged to reapply. Previous recipients of the Fellowship may reapply four years after the end of the last fellowship year. Simultaneous application to external fellowships is encouraged.
 
-- **[Application Information](https://liberalarts.temple.edu/sites/liberalarts/files/FacultyFellowship18.pdf)**
+- **[Application Information](https://liberalarts.temple.edu/sites/liberalarts/files/Faculty.Fellowship.%20flier.2019.pdf)**
 
 ___
 
@@ -32,7 +32,7 @@ Advanced Graduate Scholar Awards provide financial support to resident doctoral 
 **Eligibility**<br>
 Applicants must be CLA, Klein, or Tyler Ph.D. students in good standing who have completed all course and exam requirements for the degree and will be elevated to candidacy by the start of the fellowship term (see Graduate School Policies and Procedures 02.27.13). Recipients must complete the degree no later than one year following the academic year of the award. Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may result in a loss of the award at the discretion of the CHAT Director. Awards made for Fall continue through the Spring term. Awards for Spring are for that semester only. Previous recipients of the Graduate School Senior Doctoral Fellowship, the Graduate School Doctoral Dissertation Grant, or the CLA Advanced Graduate Scholar Award are ineligible.
 
-- **[Advanced Graduate Scholar Award Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/AdvGradAward19.pdf)**
+- **[Advanced Graduate Scholar Award Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/Advanced.Grad_.Award_.Fall%202019.pdf)**
 
 ___
 
