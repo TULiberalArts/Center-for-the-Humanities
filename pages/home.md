@@ -20,10 +20,8 @@ Wishing you all the best for the holiday season and new year. We hope to see you
 
 ___
 
-## A Forum for Scholarship and Intellectual Inquiry in the Humanities
-Located on the tenth floor of Gladfelter Hall, the comfortable quarters serve as a gathering place for scholars from across the disciplines to meet, enjoy social hours and read the latest humanities-oriented journals and periodicals. The Center for the Humanities at Temple (CHAT) was established in 2003 to create an interdisciplinary forum for scholarship and intellectual inquiry in the humanities at Temple University. We work to bridge the disciplinary divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple scholarly fields.
-
-The Center's Director works in concert with an Advisory Board of faculty from different departments in the humanities and social sciences. Participation is open to faculty and students in all schools and colleges at Temple University. CHAT’s operations are funded by the College of Liberal Arts. Additional support is provided by the [Klein College of Media and Communication](https://klein.temple.edu/), [Tyler School of Art](http://www.temple.edu/tyler/), [Boyer College of Music and Dance](http://www.temple.edu/boyer/), and the [Graduate School](http://www.temple.edu/grad/index.htm). CHAT is a member of the [Consortium of Humanities Centers and Institutes](http://chcinetwork.org/).
+## Center for the Humanities at Temple
+The Center for the Humanities at Temple (CHAT) fosters innovative research and teaching by faculty and students in the humanities and humanistic social sciences at Temple. Located in the middle of a vibrant urban campus, CHAT facilitates interdisciplinary exchange and debate among scholars from different departments and colleges who bring different perspectives to shared intellectual interests. Faculty and students in all schools and colleges at Temple are eligible to participate in the Center's programs. Throughout the year, it offers research grants and fellowships, operates an ongoing research seminar, mounts public lectures and conferences, brings external distinguished scholars to campus, and forges intellectual partnerships with other regional and international universities. CHAT works to bridge the disciplinary divide between departments and colleges by promoting broad, humanities-based conversations that connect scholars from multiple scholarly fields.
 
 The Center offers a rich and diverse range of activities, including:
 
@@ -36,6 +34,11 @@ The Center offers a rich and diverse range of activities, including:
 - Programs to strengthen interdisciplinary graduate and undergraduate studies in the humanities
 - Contributions to planning and development across the humanities in the College of Liberal Arts
 - Cooperation with national and international humanities institutions
+
+## Upcoming Deadlines for Fellowships
+- March 18, 2019 - [Fall 2019 Advanced Graduate Scholars Award](https://www.cla.temple.edu/center-for-the-humanities/fellowships/)
+- April 15, 2019 - [2019-2020 Graduate Associate Fellowships](https://www.cla.temple.edu/center-for-the-humanities/fellowships/)
+- May 6, 2019	- [2019-2020 Interdisciplinary Research Group Funding](https://www.cla.temple.edu/center-for-the-humanities/groups/)
 
 ___
 
