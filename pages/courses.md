@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 sidebar: sidebars/people.html
 ---
-# Spring 2019 Graduate Seminars
+## Spring 2019 Graduate Seminars
 These courses welcome qualified graduate students from other departments. All are taught by members of Temple's graduate faculty.
 
 To list your course, email the following to [chat@temple.edu](mailto:chat@temple.edu):
