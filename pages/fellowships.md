@@ -13,7 +13,7 @@ sidebar: sidebars/people.html
 ## Faculty Fellowship
 Temple faculty are given reduced teaching and a $1,000 research budget for the year.
 
-**Deadline for 2019-20 is November 12, 2018**<br>
+**Deadline for 2019-20 is November 11, 2019**<br>
 Faculty Fellowships provide teaching relief and research support for tenured and tenure-track faculty pursuing research in the humanities or humanistic social sciences. Fellows receive a one-course teaching reduction during the year and $1000 for research expenses. Recipients participate in the bi-weekly Fellows Seminar, where all members present part of their work-in-progress for critique to a lively interdisciplinary group of faculty and doctoral students. Fellows also present their research as a public lecture during the year.  
 
 **Eligibility**<br>
@@ -26,7 +26,7 @@ ___
 ## Advanced Graduate Scholar Award
 Advanced graduate students receive financial support for one semester to work on the dissertation in addition to a $500 research budget.
 
-**Deadline for Spring 2019 is October 15, 2018**<br>
+**Deadline for Spring 2019 is March 18, 2019**<br>
 Advanced Graduate Scholar Awards provide financial support to resident doctoral students pursuing research in the humanities or humanistic social sciences in the College of Liberal Arts, the Klein College of Media and Communication, and the Tyler School of Arts. Awardees receive a stipend to work full-time on the dissertation for one semester. The award also includes health benefits, one tuition credit, and $500 in research funding. Recipients must attend and participate in person in the bi-weekly CHAT Fellows Seminar, where they present part of their dissertation for discussion and critique. 
 
 **Eligibility**<br>
