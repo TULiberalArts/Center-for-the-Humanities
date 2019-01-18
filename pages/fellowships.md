@@ -96,3 +96,13 @@ Please send a three-page statement (1000 words) proposing a digital research or 
 No previous experience or familiarity with digital research tools is needed, but do explain your relevant skills and background.
 
 Send your statement and C.V. as email attachments to [dsc_fellowships@temple.edu](mailto:dsc_fellowships@temple.edu). Direct any questions about the award to Professor Peter Logan, Digital Scholarship Center Academic Director, [peter.logan@temple.edu](mailto:peter.logan@temple.edu), [215 204-8567](tel:2152048567).
+
+___
+
+## Support the Humanities at Temple University
+Since its founding in 2003, the activities of the Center have been supplemented by individual gifts. Your support enables us to enhance our programs and fellowships, directly benefiting the humanities at Temple. We welcome unrestricted gifts as well as those earmarked for specific programs. If you would like to discuss a donation, please contact us at [(215) 204-6386](tel:2152046386) or [chat@temple.edu](mailto:chat@temple.edu). Please mail your contribution to:
+
+The Center for the Humanities at Temple<br>
+10th Floor, Gladfelter Hall (025-45)<br>
+Temple University<br>
+Philadelphia, PA 19122-6089 <br>
