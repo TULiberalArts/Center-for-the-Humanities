@@ -17,9 +17,9 @@ The CHAT Advisory Board helps shape the future of the Center. Board members eval
 - [Dr. Kirsin Gleijsdal](https://liberalarts.temple.edu/academics/faculty/gjesdal-kristin) - Associate Professor of Philosophy
 - [Dr. Cristina Gragnani](https://liberalarts.temple.edu/academics/faculty/gragnani-cristina) - Associate Professor of Italian and Chair of the Department of French, German, Italian, and Slavic Languages
 - [Dr. Katherine Henry](https://liberalarts.temple.edu/academics/faculty/henry-katherine) - Professor of English and chair of the English Department
-- [Dr. Mark Leuchter](https://liberalarts.temple.edu/academics/faculty/leuchter-mark) - Professor of Religion
 - [Dr. Patrick Murphy](https://tyler.temple.edu/faculty/ashley-d-west-phd) - Associate Professor of Media and Production and Associate Dean for Research and Graduate Studies, Klein School of Media and Communication
-- [Dr. Ashley West](https://tyler.temple.edu/faculty/ashley-d-west-phd) - Professor of Art History
+- [Dr. Erin Pauwels](https://tyler.temple.edu/faculty/erin-pauwels) – Assistant Professor of Art History
+- [Dr. Bryant Simon](https://liberalarts.temple.edu/academics/faculty/simon-bryant) – Professor of History
 - [Dr. Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d) - Associate Professor of Anthropology
 - [Dr. Matt Wray](https://liberalarts.temple.edu/academics/faculty/wray-matt) - Associate Professor of Sociology
 - [Dr. Steven Zohn](https://tyler.temple.edu/faculty/ashley-d-west-phd) - Laura H. Carnell Professor of Music Studies and Music History
