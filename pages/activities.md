@@ -56,7 +56,7 @@ ___
 _Boundaries Lecture Series_<br>
 **_The Known Citizen: Exploring the History of Privacy in Modern America_**<br>
 Wednesday, February 13<br>
-4:00 –5:30 pm, CHAT Lounge<br>
+3:00 –5:30 pm, CHAT Lounge<br>
 
 Every day, Americans make decisions about their privacy: what to share and when, how much to expose and to whom.  Securing the boundary between one’s private affairs and public identity has become a central task of citizenship. Ranging from the era of “instantaneous photography” to our own age of big data, Sarah Igo will explore how privacy became the indispensable language for monitoring the ever-shifting line between our personal and social selves — and the surprising ways that debates over what should be kept out of the public eye transformed U.S. politics and society.
 
@@ -77,11 +77,15 @@ Mónica Ricketts is a historian of colonial Latin America and the Iberian Atlant
 
 ___
 
-**Geoffrey Baym, Media Studies and Production**<br>
+**Geoffrey Baym, Department of Media Studies and Production**<br>
 _Distinguished Lecture Series_<br>
-**_Media and Representation in the Age of Trump_**<br>
+**_Tabloid Trump and the Political Imaginary, 1980-1999_**<br>
 Thursday, March 21<br>
 12:30 –1:50 pm, CHAT Lounge<br>
+
+Years before Twitter, Fox News, or reality TV, Donald Trump became a public figure through his presence across a range of tabloid media. Although much of that focused on sex and spectacle, early tabloid coverage of Trump was surprisingly political, with speculation about a possible presidential campaign beginning as early as 1987. Through the theoretical lens of the political imaginary, this talk tracks the early articulation of Trump as political brand, the boundary-crossing media logics that shaped his public persona, and the political work the tabloids performed in building the foundations upon which the actual Trump presidency now stands.
+
+Geoffrey Baym is professor of Media Studies and Production at Temple University. He is the author of _From Cronkite to Colbert: The Evolution of Broadcast News_ (Oxford, 2010) and numerous articles and chapters exploring ongoing transformations in public affairs media, popular discourse, and political culture.
 
 **Hector Amaya, Media Studies, University of Virginia**<br>
 _Boundaries Lecture Series_<br>
