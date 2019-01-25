@@ -129,3 +129,17 @@ Wednesday, November 28<br>
 4:00 - 5:30pm, CHAT Lounge<br>
 
 Claudia Castro Luna is the Poet Laureate of Washington State (2018-2020) She served as Seattle’s first Civic Poet from 2015-2017 and is the author of Pushcart nominated _Killing Marías_ (Two Sylvia's Press) and _This City_ (Floating Bridge Press). Born in El Salvador she came to the United States in 1981 fleeing civil war. She has an MFA in poetry from Mills College, an MA in Urban Planning from UCLA and a K-12 teaching certificate.  Her poems have appeared in _Poetry Northwest, La Bloga, Diálogo, Psychological Perspectives, and the Taos Journal of International Poetry and Art_ among others. Her non-fiction work can be read in the anthologies, _This Is the Place: Women Writing About Home_ (Seal Press), _The Wandering Song: Central American Writing in the US,_ (Northwestern University Press) and _Vanishing Points: Contemporary Salvadoran Narrative_ (Kalina Eds). Living in English and Spanish, Claudia writes and teaches in Seattle where she gardens and keeps chickens with her husband and their three children.
+
+___
+
+![Tania Jenkins]({{site.baseurl}}/media/resized2_tania_jenkins.jpg){:.responsive-img .img-right}
+**Tania Jenkins, Sociology**<br>
+_Distinguished Lecture Series_<br>
+**_Doctors' Orders: The Making of Status Hierarchies in the American Medical Profession_**<br>
+Thursday, January 24<br>
+12:30 –1:50 pm, CHAT Lounge<br>
+
+Not all doctors, it seems, are created equal. This talk will examine the construction and implications of status hierarchies among internal medicine residents along the lines of educational pedigree. I will explore how American-trained MDs come to enjoy higher status in the profession compared to international or osteopathic graduates, who disproportionately occupy less prestigious positions. I will conclude that by relying on informal status distinctions that equate status with merit and eclipse structural disadvantages, US-trained physicians are able to remain elite despite importing some of the world’s best and brightest.
+
+Tania Jenkins (Ph.D. Brown University) is a sociologist specializing in the medical profession. Her work examines how and why status hierarchies are (re)produced among physicians and how they impact both doctors and patients. Her research has been funded by the National Science Foundation, the Canadian Institutes of Health Research, and the International Association of Medical Science Educators, among others. She is currently writing her first book entitled _Doctors’ Orders: The Making of Status and Inequality in the American Medical Profession_ (under contract with Columbia University Press).
+
