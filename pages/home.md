@@ -12,11 +12,11 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## Thank you for a Great Semester!
+## Spring Conference
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-We at CHAT would like to extend our gratitude to all of you who helped make the fall semester a success. We are excited to share our events planned for the spring. The semester kicks off on January 24th with the next installment in our **Distinguished Faculty Lecture Series**, featuring Professor of Sociology and CHAT fellow Tania Jenkins. Subsequent lectures will highlight the research of Temple professors in the departments of Religion, History, and Media Studies and Production. **Our Boundaries Lecture Series** picks up in February with Vanderbilt University professor of history Sara Igo exploring the shifting boundary between our private and public personas, based on her new book The Known Citizen: Exploring the History of Privacy in Modern America (Harvard University Press, 2018). In addition to our annual Graduate Fellows Conference in March, CHAT will co-host a conference on **Borders, Boundaries, and Walls** in collaboration with Ben Gurion University of the Negev, Israel in April. Look for announcements on the conference programs and other events, including our Professional Development workshops, in the new year. 
+In April, our **Borders, Boundaries, and Walls Lecture Series** will be complemented by a conference further exploring the global movement of people, goods, and ideas. The event, co-organized with Ben Gurion University (Negev, Israel) will bring together American, Israeli, and international scholars for a two-day symposium (April 11–12) discussing why borders, boundaries, and walls are built, how they are transgressed, and what the consequences of these crossings are. Topics will range from physical manifestations to the symbolic, and include discussion of new disciplinary and theoretical approaches with the hope of fostering a dialogue across existing political and cultural divides. Stay tuned for more information including the full conference program!
 
-Wishing you all the best for the holiday season and new year. We hope to see you in the spring!
+If you are interested in presenting a paper at the conference or participating in some other capacity, let us know at [chat@temple.edu](mailto:chat@temple.edu).
 
 ___
 
