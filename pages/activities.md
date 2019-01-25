@@ -25,19 +25,6 @@ ___
 
 ## Upcoming Talks
 
-![Tania Jenkins]({{site.baseurl}}/media/resized2_tania_jenkins.jpg){:.responsive-img .img-right}
-**Tania Jenkins, Sociology**<br>
-_Distinguished Lecture Series_<br>
-**_Doctors' Orders: The Making of Status Hierarchies in the American Medical Profession_**<br>
-Thursday, January 24<br>
-12:30 –1:50 pm, CHAT Lounge<br>
-
-Not all doctors, it seems, are created equal. This talk will examine the construction and implications of status hierarchies among internal medicine residents along the lines of educational pedigree. I will explore how American-trained MDs come to enjoy higher status in the profession compared to international or osteopathic graduates, who disproportionately occupy less prestigious positions. I will conclude that by relying on informal status distinctions that equate status with merit and eclipse structural disadvantages, US-trained physicians are able to remain elite despite importing some of the world’s best and brightest.
-
-Tania Jenkins (Ph.D. Brown University) is a sociologist specializing in the medical profession. Her work examines how and why status hierarchies are (re)produced among physicians and how they impact both doctors and patients. Her research has been funded by the National Science Foundation, the Canadian Institutes of Health Research, and the International Association of Medical Science Educators, among others. She is currently writing her first book entitled _Doctors’ Orders: The Making of Status and Inequality in the American Medical Profession_ (under contract with Columbia University Press).
-
-___
-
 ![Terry Rey]({{site.baseurl}}/media/resized2 Terry Rey.png){:.responsive-img .img-right}
 **Terry Rey, Religion**<br>
 _Distinguished Lecture Series_<br>
