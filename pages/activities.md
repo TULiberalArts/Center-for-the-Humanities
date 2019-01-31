@@ -28,6 +28,7 @@ ___
 ![Terry Rey]({{site.baseurl}}/media/resized2 Terry Rey.png){:.responsive-img .img-right}
 **Terry Rey, Religion**<br>
 _Distinguished Lecture Series_<br>
+_Co-sponsored with the Global Studies Program_<br>
 **_Polskayiti: Polish Permutations in Haitian Religious History and Culture_**<br>
 Thursday, February 7<br>
 12:30 - 1:50pm, CHAT Lounge<br>
@@ -54,6 +55,7 @@ ___
 ![Mónica Ricketts]({{site.baseurl}}/media/resized2_monica_ricketts.png){:.responsive-img .img-right}
 **Mónica Ricketts, History**<br>
 _Distinguished Lecture Series_<br>
+_Co-sponsored with the Global Studies Program_<br>
 **_Women and the Spectacle of Politics: The Theater in Lima, 1800-1850_**<br>
 Thursday, February 21<br>
 12:30 - 1:50pm, CHAT Lounge<br>
@@ -97,6 +99,7 @@ Temple University-Ben Gurion University of the Negev, Israel<br>
 
 **Benjamin Talton, History**<br>
 _Distinguished Lecture Series_<br>
+_Co-sponsored with the Global Studies Program_<br>
 **_The Afterlife of Radicalism: African Americans and Africa in the Age of Reagan_**<br>
 Thursday, April 18<br>
 12:30 - 1:50pm, CHAT Lounge<br>
