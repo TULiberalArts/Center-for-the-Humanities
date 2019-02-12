@@ -100,6 +100,7 @@ Temple University-Ben Gurion University of the Negev, Israel<br>
 
 ___
 
+![Benjamin Talton]({{site.baseurl}}/media/resizedbenjamintalton.jpg){:.responsive-img .img-right}
 **Benjamin Talton, History**<br>
 _Distinguished Lecture Series_<br>
 _Co-sponsored with the Global Studies Program_<br>
