@@ -77,6 +77,17 @@ Border walls have been in our minds for the last couple of years thanks to Presi
 
 Dr. Hector Amaya is Professor of Media Studies at the University of Virginia and the Infosys Member of the Institute for Advanced Study at Princeton. He researches globalization, ethnicity, and Latinas/os. His current project, _The Anonymous Condition_, examines new forms of social interaction afforded by digitation and evaluates them against normative ideas of the public sphere. This will be his fourth single authored book.
 
+**_CHAT Graduate Fellow’s Symposium_**<br>
+**"Investigating Borders and Boundaries of the Body"**<br>
+Friday April 5th, 2019<br>
+11:00am-4:00pm<br>
+CHAT Lounge, Gladfelter Hall, 10th Floor<br>
+
+Expanding this year’s CHAT theme of Borders, Boundaries, and Walls, the 2019 symposium aims to explore the experience of the body-as-boundary from a variety of perspectives. Boundaries delimit what is possible and yet simultaneously invite and sometimes even encourage transgression and transcendence. How do bodies shape knowledge and emotion? What possibilities emerge when we consider the social experience of the body as both limit and possibility; closed and porous?
+
+- **Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University
+- Detailed schedule coming soon. 
+
 **_Conference_**<br>
 **Borders, Boundaries, Walls**<br>
 April 11-12<br> 
