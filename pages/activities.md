@@ -100,7 +100,6 @@ Temple University-Ben Gurion University of the Negev, Israel<br>
 
 ___
 
-![Benjamin Talton]({{site.baseurl}}/media/resized2benjamintalton.jpg){:.responsive-img .img-right}
 **Benjamin Talton, History**<br>
 _Distinguished Lecture Series_<br>
 _Co-sponsored with the Global Studies Program_<br>
@@ -108,6 +107,7 @@ _Co-sponsored with the Global Studies Program_<br>
 Thursday, April 18<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
+___
 
 - [**_View all of our 2018-2019 Past Lectures!_**](https://www.cla.temple.edu/center-for-the-humanities/past-lectures/)
 
