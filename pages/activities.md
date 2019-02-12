@@ -107,9 +107,9 @@ _Co-sponsored with the Global Studies Program_<br>
 Thursday, April 18<br>
 12:30 - 1:50pm, CHAT Lounge<br>
 
-- [**_View all of our 2018-2019 Past Lectures!_**](https://www.cla.temple.edu/center-for-the-humanities/past-lectures/)
-
 ___
+
+- [**_View all of our 2018-2019 Past Lectures!_**](https://www.cla.temple.edu/center-for-the-humanities/past-lectures/)
 
 ## Archives 
 - [**Recorded Programs**](https://cla.temple.edu/center-for-the-humanities/recorded-programs/)
