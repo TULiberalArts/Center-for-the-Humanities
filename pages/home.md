@@ -12,9 +12,9 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## The Right to Privacy?
+## “Theatrical Politics and the Politics of Theater”
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-American attitudes about privacy evolved dramatically from the 19th to the 21st century, with the boundary between one’s public and private life shifting in response to a number of technological and political developments. Vanderbilt University professor of history [Sarah Igo](https://as.vanderbilt.edu/history/bio/sarah-igo) explores this evolution, its accompanying anxieties and consequences in the next installment of our **Boundaries Lecture Series**. Based on her new book [_The Known Citizen: Exploring the History of Privacy in Modern America_ ](http://www.hup.harvard.edu/catalog.php?isbn=9780674737501&amp;content=toc) (Harvard University Press, 2018), Igo traces the many ways in which debates over privacy transformed American society. Please join us Wednesday, February 13, for “The Known Citizen: Exploring the History of Privacy in Modern America.” Please note that this lecture is scheduled for **3 pm**, an hour earlier than our customary time.
+Women were granted few opportunities to participate in the male-dominated political culture of 19th century Peru. The theater in Lima, however, offered a notable exception. History professor and CHAT Fellow **Mónica Ricketts** offers a closer look at the opportunities the theater provided Peruvian women in the next installment of our **Distinguished Faculty Lecture Series**. Join us Thursday for “Women and the Spectacle of Politics: The Theater in Lima, 1800–1850.
 
 If you are interested in presenting a paper at the conference or participating in some other capacity, let us know at [chat@temple.edu](mailto:chat@temple.edu).
 
