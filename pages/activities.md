@@ -25,30 +25,24 @@ ___
 
 ## Upcoming Talks
 
-![Sarah Igo]({{site.baseurl}}/media/resized2 Sarah Igo.jpg){:.responsive-img .img-right}
-**Sarah Igo, History Department, Vanderbilt University**<br>
-_Boundaries Lecture Series_<br>
-**_The Known Citizen: Exploring the History of Privacy in Modern America_**<br>
-Wednesday, February 13<br>
-3:00 –5:30 pm, CHAT Lounge<br>
+**_Professional Development Workshop_**<br>
+**CLIR Opportunities: Balancing Academic and Alt-Ac Career Paths for Doctoral Students**<br>
+Tuesday, March 12, 3:30-5:00pm<br>
+CHAT Lounge, 10th Floor, Gladfelter Hall<br>
 
-Every day, Americans make decisions about their privacy: what to share and when, how much to expose and to whom.  Securing the boundary between one’s private affairs and public identity has become a central task of citizenship. Ranging from the era of “instantaneous photography” to our own age of big data, Sarah Igo will explore how privacy became the indispensable language for monitoring the ever-shifting line between our personal and social selves — and the surprising ways that debates over what should be kept out of the public eye transformed U.S. politics and society.
+The panel discussion will be an opportunity to hear from four Council of Library and Information Resources postdoctoral fellows located at research universities and liberal art colleges around the country. Each CLIR fellow will talk about their doctoral research and their postdoctoral career path, before we turn to a discussion followed by Q&A focused on professionalization in academia, the changing nature of doctoral study, and the opportunities available for graduates to find fulfilling and meaningful employment in the current era. 
 
-Sarah E. Igo (Ph.D. Princeton University) is an Associate Professor of History and Director of the Program in American Studies at Vanderbilt University. An intellectual and cultural historian of the modern United States, she is the author of _The Averaged American: Surveys, Citizens and the Making of a Mass Public_ (2007) and a new book, _The Known Citizen: A History of Privacy in Modern America_ (2018).
+**Dr. Lorena Gauthereau** is the CLIR-Mellon Postdoctoral Fellow at the University of Houston’s Recovering the US Hispanic Literary Heritage (also known as “Recovery”) where she works on data curation for Latinx archives, and is helping to create the first digital humanities center focused on US Latinx studies. She teaches courses on Mexican American Studies. Gauthereau received her PhD from Rice University in English literature and her MA in Hispanic Studies. Her research interests include Chicanx literature, affect theory, class analysis, decolonial theory, and the digital humanities. Her current book project is titled _Manos de Obra: Class, Race, Gender, and Colonial Affect-Culture in Mexican American Literature_.
 
-___
+![Jessica C. Linker]({{site.baseurl}}/media/resizedjessicalinker.jpg){:.responsive-img .img-right}
+**Dr. Jessica C. Linker** is the CLIR Humanities and Digital Scholarship Postdoctoral Fellow at Bryn Mawr College, where she also directs the History of Women in Science Project, a collaborative digital work that uses 3D technology to reconstruct spaces where women historically practiced science. She has received numerous awards to support her research, including from New York Public Library, the American Antiquarian Society, the Library Company of Philadelphia, the American Philosophical Society, and the McNeil Center for Early American Studies, among others.
 
-![Mónica Ricketts]({{site.baseurl}}/media/resized2_monica_ricketts.png){:.responsive-img .img-right}
-**Mónica Ricketts, History**<br>
-_Distinguished Lecture Series_<br>
-_Co-sponsored with the Global Studies Program_<br>
-**_Women and the Spectacle of Politics: The Theater in Lima, 1800-1850_**<br>
-Thursday, February 21<br>
-12:30 - 1:50pm, CHAT Lounge<br>
+**Dr. Alex Galarza** is the CLIR Postdoctoral Fellow in Data Curation for Latin American and Caribbean Studies at Haverford College where he leads a project creating a post-custodial archive in Guatemala. He received his Ph.D. from the Department of History at Michigan State University and worked as the Digital Liberal Arts Fellow for the Mellon Scholars Program at Hope College. His research topics include soccer clubs and urban life in Buenos Aires and Cold War violence in Guatemala.
 
-Modern politics came to being in Peru around the 1800s. Political oratory boomed; struggles for power dominated the early republic. Women did not play a visible role in these manly-dominated spheres. We have to look somewhere else to find them in action. The theater of Lima offered them an arena. Women of the elite and lower groups were regulars. They smoked and raised their voices in protest. Some performed and exercised authority as actresses. A few worked as managers. Women played leading roles in Lima’s theater at a time when this institution was conceived of as the ideal space to build a virtuous republican nation.
+**Dr. Crystal A. Felima** is the 2017-2019 CLIR Postdoctoral Fellow in Caribbean Studies Data Curation for the George A. Smathers Libraries at the University of Florida. Her work explores the emerging trends and best practices in digital humanities and critical pedagogies in Caribbean Studies. Dr. Felima’s interdisciplinary background draws from Africana studies and cultural anthropology. Her primary research areas of interest include environmental hazards, development, and governance in Haiti. For her doctoral research, Dr. Felima spent a cumulative 27 months in Haiti to conduct her fieldwork. Her dissertation focuses on disaster narratives from river communities in northern Haiti. For more information about her work, visit her website: [crystalfelima.com](http://crystalfelima.com/) and follow her on Twitter: @phelima.
 
-Mónica Ricketts is a historian of colonial Latin America and the Iberian Atlantic World. She specializes in the intellectual, political, and cultural history of the Spanish world. She received her B.A. and Licenciate degrees from the Pontificia Universidad Católica del Perú in Lima, Peru, and her Ph.D. from Harvard University. She has taught at Temple University since 2010. In 2017 she published _Who Should Rule? Men of Arms, the Republic of Letters, and the Fall of the Spanish Empire_ (Oxford University Press). She is currently working on the role of the theater in the formation of a common political culture in Spain and Spanish America and on the history of women’s political participation in Peru.
+![Elliott Shore]({{site.baseurl}}/media/resizedjessicalinker.jpg){:.responsive-img .img-right}
+**Dr. Elliott Shore** began working with the Council on Library and Information Resources (CLIR) in 2003 and was appointed Senior Presidential Fellow in 2008. He is the founding co-dean of the Postdoctoral Fellowship Program at CLIR that has introduced almost 200 recent Ph.D.s to hybrid career roles in the academy, and a mentor the CLIR/Mellon Dissertation Fellows. He has served as co-dean of the Frye then Leading Change Institute (co-sponsored by CLIR and EDUCAUSE) since 2012, and was instrumental in developing the CLIR/CIOs program. From 2013 through 2017, Elliott took on the role of Executive Director of the Association of Research Libraries, a nonprofit organization of 125 research libraries at comprehensive, research-intensive institutions in the US and Canada, and spent 2018 as a special advisor to its board.
 
 ___
 
