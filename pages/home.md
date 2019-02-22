@@ -12,9 +12,13 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## “Theatrical Politics and the Politics of Theater”
+## 2019-2020 CHAT Graduate Awards
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-Women were granted few opportunities to participate in the male-dominated political culture of 19th century Peru. The theater in Lima, however, offered a notable exception. History professor and CHAT Fellow **Mónica Ricketts** offers a closer look at the opportunities the theater provided Peruvian women in the next installment of our **Distinguished Faculty Lecture Series**. Join us Thursday for “Women and the Spectacle of Politics: The Theater in Lima, 1800–1850.
+Each year CHAT provides financial support to Temple doctoral candidates pursuing research in the humanities or humanistic social sciences. Recipients of the **Advanced Scholar Award** receive financial support to work full-time on the dissertation for one semester, health benefits, one tuition credit, and a $500 research budget. The Associate Scholar Award provides recipients with $1000 in research funding. 
+
+Awardees participate in the bi-weekly **Fellows Seminar** to discuss works-in-progress. Seminar participants benefit from rich, interdisciplinary discussion of pre-circulated papers over lunch. Graduate Fellows are also responsible for organizing an interdisciplinary humanities conference in the Spring.
+
+See more on [eligibility requirements and the application process](https://www.cla.temple.edu/center-for-the-humanities/fellowships/). Questions can be directed to CHAT Director [Petra Goedde](mailto:pgoedde@temple.edu).
 
 If you are interested in presenting a paper at the conference or participating in some other capacity, let us know at [chat@temple.edu](mailto:chat@temple.edu).
 
