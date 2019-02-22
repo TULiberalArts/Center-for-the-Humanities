@@ -159,6 +159,19 @@ Terry Rey is Professor of Religion at Temple University. He works primarily in t
 
 ___
 
+![Sarah Igo]({{site.baseurl}}/media/resized2 Sarah Igo.jpg){:.responsive-img .img-right}
+**Sarah Igo, History Department, Vanderbilt University**<br>
+_Boundaries Lecture Series_<br>
+**_The Known Citizen: Exploring the History of Privacy in Modern America_**<br>
+Wednesday, February 13<br>
+3:00 –5:30 pm, CHAT Lounge<br>
+
+Every day, Americans make decisions about their privacy: what to share and when, how much to expose and to whom.  Securing the boundary between one’s private affairs and public identity has become a central task of citizenship. Ranging from the era of “instantaneous photography” to our own age of big data, Sarah Igo will explore how privacy became the indispensable language for monitoring the ever-shifting line between our personal and social selves — and the surprising ways that debates over what should be kept out of the public eye transformed U.S. politics and society.
+
+Sarah E. Igo (Ph.D. Princeton University) is an Associate Professor of History and Director of the Program in American Studies at Vanderbilt University. An intellectual and cultural historian of the modern United States, she is the author of _The Averaged American: Surveys, Citizens and the Making of a Mass Public_ (2007) and a new book, _The Known Citizen: A History of Privacy in Modern America_ (2018).
+
+___
+
 ![Mónica Ricketts]({{site.baseurl}}/media/resized2_monica_ricketts.png){:.responsive-img .img-right}
 **Mónica Ricketts, History**<br>
 _Distinguished Lecture Series_<br>
