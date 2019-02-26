@@ -74,7 +74,7 @@ ___
 **Hector Amaya, Media Studies, University of Virginia**<br>
 _Boundaries Lecture Series_<br>
 **_Hate and Border Ephemerality in the Digital Realm_**<br> 
-_Co-Sponsored with the Global Studies Program_<br>
+_Co-Sponsored with the Global Studies Program and the Klein College of Media and Communication_<br>
 Thursday, March 28<br>
 4:00 - 5:30pm, CHAT Lounge<br>
 
