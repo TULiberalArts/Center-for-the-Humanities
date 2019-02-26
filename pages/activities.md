@@ -42,7 +42,7 @@ ___
 
 ___
 
-![Alex Galarza]({{site.baseurl}}/media/resized2alexgalarza.jpg){:.responsive-img .img-right}
+![Alex Galarza]({{site.baseurl}}/media/resized3alexgalarza.jpg){:.responsive-img .img-right}
 **Dr. Alex Galarza** is the CLIR Postdoctoral Fellow in Data Curation for Latin American and Caribbean Studies at Haverford College where he leads a project creating a post-custodial archive in Guatemala. He received his Ph.D. from the Department of History at Michigan State University and worked as the Digital Liberal Arts Fellow for the Mellon Scholars Program at Hope College. His research topics include soccer clubs and urban life in Buenos Aires and Cold War violence in Guatemala.
 
 ___
