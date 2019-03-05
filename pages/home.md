@@ -12,15 +12,11 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## 2019-2020 CHAT Graduate Awards
+## The Council of Library and Information Resources
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-Each year CHAT provides financial support to Temple doctoral candidates pursuing research in the humanities or humanistic social sciences. Recipients of the **Advanced Scholar Award** receive financial support to work full-time on the dissertation for one semester, health benefits, one tuition credit, and a $500 research budget. The Associate Scholar Award provides recipients with $1000 in research funding. 
+CHAT awards several postdoctoral fellowships each year to recent Ph.D. graduates in the humanities. These fellowships are designed to foster greater connections between fellows’ research, library collections, and new digital opportunities. Our spring **Professional Development Workshop** brings together four CLIR fellows from research universities and liberal arts colleges across the country, alongside founding co-dean of the Postdoctoral Fellowship Program, **Dr. Elliott Shore**, for a conversation about the opportunities provided by CLIR fellowships. The panel will discuss individual projects as well as the changing nature of the academic market. Please join us Tuesday for “CLIR Opportunities: Balancing Academic and Alt-Ac Career Paths for Doctoral Students.
 
-Awardees participate in the bi-weekly **Fellows Seminar** to discuss works-in-progress. Seminar participants benefit from rich, interdisciplinary discussion of pre-circulated papers over lunch. Graduate Fellows are also responsible for organizing an interdisciplinary humanities conference in the Spring.
-
-See more on [eligibility requirements and the application process](https://www.cla.temple.edu/center-for-the-humanities/fellowships/). Questions can be directed to CHAT Director [Petra Goedde](mailto:pgoedde@temple.edu).
-
-If you are interested in presenting a paper at the conference or participating in some other capacity, let us know at [chat@temple.edu](mailto:chat@temple.edu).
+Read more about the [CLIR Postdoctoral Fellowship Program](https://www.clir.org/fellowships/postdoc/). 
 
 ___
 
