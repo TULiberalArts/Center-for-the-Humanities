@@ -92,7 +92,7 @@ CHAT Lounge, Gladfelter Hall, 10th Floor<br>
 
 Expanding this year’s CHAT theme of Borders, Boundaries, and Walls, the 2019 symposium aims to explore the experience of the body-as-boundary from a variety of perspectives. Boundaries delimit what is possible and yet simultaneously invite and sometimes even encourage transgression and transcendence. How do bodies shape knowledge and emotion? What possibilities emerge when we consider the social experience of the body as both limit and possibility; closed and porous?
 
-- **Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University<br>
+**Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University<br>
 **Epistemologies of Bodyminds: Disability and Modernism**<br>
 - Detailed schedule coming soon. 
 
