@@ -84,7 +84,7 @@ Dr. Hector Amaya is Professor of Media Studies at the University of Virginia and
 
 ___
 
-**_CHAT Graduate Fellow’s Symposium_**<br>
+**_CHAT Graduate Fellows Conference_**<br>
 **"Investigating Borders and Boundaries of the Body"**<br>
 Friday April 5th, 2019<br>
 11:00am-4:00pm<br>
@@ -92,15 +92,28 @@ CHAT Lounge, Gladfelter Hall, 10th Floor<br>
 
 Expanding this year’s CHAT theme of Borders, Boundaries, and Walls, the 2019 symposium aims to explore the experience of the body-as-boundary from a variety of perspectives. Boundaries delimit what is possible and yet simultaneously invite and sometimes even encourage transgression and transcendence. How do bodies shape knowledge and emotion? What possibilities emerge when we consider the social experience of the body as both limit and possibility; closed and porous?
 
-- **Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University
+- **Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University<br>
+**Epistemologies of Bodyminds: Disability and Modernism**<br>
 - Detailed schedule coming soon. 
 
 ___
 
 **_Conference_**<br>
-**Borders, Boundaries, Walls**<br>
-April 11-12<br> 
-Temple University-Ben Gurion University of the Negev, Israel<br>
+**Borders, Boundaries, Walls Symposium**<br>
+_Co-sponsored by Office of International Affairs, Ben Gurion University, College of Liberal Arts, Center for the Humanities at Temple, Feinstein Center for Jewish Studies, Klein College of Media and Communication, Global Studies Program, Center for the Study of Force and Diplomacy, and College of Public Health_<br>
+Thursday, April 11, 2019, 12:30 - 5:45 pm & Friday, April 12, 9-5 pm<br>
+Russell F. Weigley Room, 914 Gladfelter Hall<br>
+
+The theme of borders, boundaries, and walls is fraught with baggage in the current global political climate, yet the discussions about how to keep people and goods in or out have long been a subject of serious academic inquiry. Temple University is partnering with Ben Gurion University to bring together U.S. and Israeli scholars for an academic conference on the subject. The two-day symposium hopes to cut through the current inflammatory rhetoric to discuss how and why borders, boundaries, and walls (symbolic or real) have been established, how they have been transgressed and transcended, and what the consequences of those transgressions and transcendences are.  By closely examining borders and boundaries, the conference organizers hope to build bridges and foster dialogue across cultural and political divides; and ultimately enhance our understanding of global movements of people, goods, and ideas.
+
+**Topics include:**<br>
+- Internal Borders
+- Boundaries of Space and Time
+- Envisioned and Embodied boundaries
+- Gender Boundaries
+- Real and Imagined Walls
+- Cultural Boundaries
+
 **Check back on our home page events feed for this event for updated times and details.**<br>
 
 ___
