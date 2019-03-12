@@ -85,7 +85,7 @@ Dr. Hector Amaya is Professor of Media Studies at the University of Virginia and
 ___
 
 **_CHAT Graduate Fellows Conference_**<br>
-**"Investigating Borders and Boundaries of the Body"**<br>
+**Investigating Borders and Boundaries of the Body**<br>
 Friday April 5th, 2019<br>
 11:00am-4:00pm<br>
 CHAT Lounge, Gladfelter Hall, 10th Floor<br>
