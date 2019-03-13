@@ -54,7 +54,7 @@ Interdisciplinary Research Groups help Temple faculty and graduate students from
 
 Groups will meet regularly throughout the year. Funds can be used to support meeting costs, publicity, books, visiting speakers, and related expenses. Membership is open to all, including students and faculty outside of Temple. Groups must have at least two organizers from different departments and a minimum of four members from within Temple University. Group funding seeds new and vital research activity and helps support ongoing programs. Groups may apply for funding renewal every year. A report of past year's activities is due to the Director of CHAT by **May 15th.**
 
-- **[Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/IRG18-19.pdf)**
+- **[Application Guidelines](https://liberalarts.temple.edu/sites/liberalarts/files/IRG.Application%2BGuidelines%2B19-20.pdf)**
 
 ## Co-Sponsorship Guidelines
 Although CHAT dedicates most of its resources to programs that it initiates, it reserves some funds for proposals it receives from individuals, departments, or colleges within the Temple community. We encourage interdisciplinary proposals and proposals that have pledges of support from more than one department or program, including participation from units outside the College of Liberal Arts. CHAT will consider providing grants of $100 to $200 to supplement other funding for such proposals.
