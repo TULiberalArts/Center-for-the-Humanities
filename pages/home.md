@@ -12,9 +12,9 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## The Council of Library and Information Resources
+## Trump and Political Branding in the Tabloid Media of the 1980s and 90s
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-The CLIR awards several postdoctoral fellowships each year to recent Ph.D. graduates in the humanities. These fellowships are designed to foster greater connections between fellows’ research, library collections, and new digital opportunities. Our spring **Professional Development Workshop** brings together four CLIR fellows from research universities and liberal arts colleges across the country, alongside founding co-dean of the Postdoctoral Fellowship Program, **Dr. Elliott Shore**, for a conversation about the opportunities provided by CLIR fellowships. The panel will discuss individual projects as well as the changing nature of the academic market. Please join us Tuesday for “CLIR Opportunities: Balancing Academic and Alt-Ac Career Paths for Doctoral Students.
+Donald Trump was a prominent media fixture long before he announced his candidacy for the presidency. While the tabloid culture of the 1980s often focused on the spectacle that surrounded him, it also portrayed Trump in a surprisingly political fashion. Professor of Media Studies and Production **Geoffrey Baym** explores how the tabloids helped lay the foundation for Trump’s political persona. Join us Thursday for the next installment of our **Distinguished Faculty Lecture Series:** “Tabloid Trump and the Political Imaginary, 1980-1999.
 
 Read more about the [CLIR Postdoctoral Fellowship Program](https://www.clir.org/fellowships/postdoc/). 
 
