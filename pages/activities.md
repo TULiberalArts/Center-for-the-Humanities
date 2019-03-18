@@ -94,9 +94,6 @@ Expanding this year’s CHAT theme of Borders, Boundaries, and Walls, the 2019 s
 **Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University<br>
 **_Epistemologies of Bodyminds: Disability and Modernism_**<br>
 
-**Keynote Address:** James Loeffler, Jay Berkowitz Professor of Jewish History, University of Virginia<br>
-**_World Without Borders? The Political Geography of Human Rights, 1918-2018_**<br>
-
 The CHAT Fellows Conference is from 12-4:30pm on Friday, April 5, 2019 with the following schedule:<br>
 - 12 - 12:15 PM - Opening Remarks
 - 12:15 - 1 PM - Lunch
