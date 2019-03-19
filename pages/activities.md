@@ -102,6 +102,8 @@ The CHAT Fellows Conference is from 12-4:30pm on Friday, April 5, 2019 with the 
 - 3 - 4:15 PM - Graduate Student Roundtable
 - 4:15 - 4:30 PM - Concluding Remarks
 
+The CHAT Graduate Fellows strive to welcome all attendees and to host an accessible event. If you require specific accommodations, please email [ejwv@temple.edu](mailto:ejwv@temple.edu) by Monday, April 1.
+
 ___
 
 **_Conference_**<br>
