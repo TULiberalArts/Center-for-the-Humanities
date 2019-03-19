@@ -70,7 +70,7 @@ Geoffrey Baym is professor of Media Studies and Production at Temple University.
 
 ___
 
-![Hector Amaya]({{site.baseurl}}/media/hectoramaya.jpg){:.responsive-img .img-right}
+![Hector Amaya]({{site.baseurl}}/media/resizedhectoramaya2.jpg){:.responsive-img .img-right}
 **Hector Amaya, Media Studies, University of Virginia**<br>
 _Boundaries Lecture Series_<br>
 **_Hate and Border Ephemerality in the Digital Realm_**<br> 
