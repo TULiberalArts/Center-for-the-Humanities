@@ -12,9 +12,9 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## Trump and Political Branding in the Tabloid Media of the 1980s and 90s
+## Borders and Displays of Hate on the Internet
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-Donald Trump was a prominent media fixture long before he announced his candidacy for the presidency. While the tabloid culture of the 1980s often focused on the spectacle that surrounded him, it also portrayed Trump in a surprisingly political fashion. Professor of Media Studies and Production **Geoffrey Baym** explores how the tabloids helped lay the foundation for Trump’s political persona. Join us Thursday for the next installment of our **Distinguished Faculty Lecture Series:** “Tabloid Trump and the Political Imaginary, 1980-1999.
+Questions over immigration policy and borders, both real and symbolic, have assumed a sense of urgency in recent years. Much of the conversation has centered on physical barriers of exclusion, including President Trump’s proposed border wall. Professor of Media Studies [Hector Amaya](http://mediastudies.virginia.edu/people/ha5h) (University of Virginia) offers an alternative approach, studying the digital architecture of the internet as it constitutes new forms of intersubjectivity and perplexing displays of ethnic and nationalistic hate. Join us Thursday afternoon for the next installment of our **Boundaries Lecture Series**.
  
 ___
 
@@ -34,7 +34,6 @@ The Center offers a rich and diverse range of activities, including:
 - Cooperation with national and international humanities institutions
 
 ## Upcoming Deadlines for Fellowships
-- March 18, 2019 - [Fall 2019 Advanced Graduate Scholars Award](https://www.cla.temple.edu/center-for-the-humanities/fellowships/)
 - April 15, 2019 - [2019-2020 Graduate Associate Fellowships](https://www.cla.temple.edu/center-for-the-humanities/fellowships/)
 - May 6, 2019	- [2019-2020 Interdisciplinary Research Group Funding](https://www.cla.temple.edu/center-for-the-humanities/groups/)
 
