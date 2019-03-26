@@ -63,7 +63,7 @@ ___
 
 **_Conference_**<br>
 **Borders, Boundaries, Walls Symposium**<br>
-_Co-sponsored by Office of International Affairs, Ben Gurion University, College of Liberal Arts, Center for the Humanities at Temple, Feinstein Center for Jewish Studies, Klein College of Media and Communication, Global Studies Program, Center for the Study of Force and Diplomacy, and College of Public Health_<br>
+_Co-sponsored by Office of International Affairs, Ben Gurion University, College of Liberal Arts, Center for the Humanities at Temple, Feinstein Center for Jewish Studies, Klein College of Media and Communication, Global Studies Program, School of Social Work and Center for the Study of Force and Diplomacy_<br>
 Thursday, April 11, 2019, 12:30 - 5:45 pm & Friday, April 12, 9-5 pm<br>
 Russell F. Weigley Room, 914 Gladfelter Hall<br>
 
