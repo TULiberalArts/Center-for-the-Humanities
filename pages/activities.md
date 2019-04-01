@@ -25,20 +25,6 @@ ___
 
 ## Upcoming Talks
 
-![Hector Amaya]({{site.baseurl}}/media/resizedhectoramaya3.jpg){:.responsive-img .img-right}
-**Hector Amaya, Media Studies, University of Virginia**<br>
-_Boundaries Lecture Series_<br>
-**_Hate and Border Ephemerality in the Digital Realm_**<br> 
-_Co-Sponsored with the Global Studies Program and the Klein College of Media and Communication_<br>
-Thursday, March 28<br>
-4:00 - 5:30pm, CHAT Lounge<br>
-
-Border walls have been in our minds for the last couple of years thanks to President Trump’s promise that he would build one and that Mexico would pay for it. But there are other walls, which in their ephemerality and inconsistency are also at play in the contemporary experience of ethnicity and immigration in the United States. In this talk, Dr. Amaya explores the digital architecture of the internet as it constitutes new forms of intersubjectivity and perplexing displays of ethnic and nationalistic hate that often rely on different gradations of anonymity.
-
-Dr. Hector Amaya is Professor of Media Studies at the University of Virginia and the Infosys Member of the Institute for Advanced Study at Princeton. He researches globalization, ethnicity, and Latinas/os. His current project, _The Anonymous Condition_, examines new forms of social interaction afforded by digitation and evaluates them against normative ideas of the public sphere. This will be his fourth single authored book.
-
-___
-
 **_CHAT Graduate Fellows Conference_**<br>
 **Investigating Borders and Boundaries of the Body**<br>
 Friday, April 5<br>
