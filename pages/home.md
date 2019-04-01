@@ -12,9 +12,9 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## Borders and Displays of Hate on the Internet
+## Borders and Boundaries of the Body
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-Questions over immigration policy and borders, both real and symbolic, have assumed a sense of urgency in recent years. Much of the conversation has centered on physical barriers of exclusion, including President Trump’s proposed border wall. Professor of Media Studies [Hector Amaya](http://mediastudies.virginia.edu/people/ha5h) (University of Virginia) offers an alternative approach, studying the digital architecture of the internet as it constitutes new forms of intersubjectivity and perplexing displays of ethnic and nationalistic hate. Join us Thursday afternoon for the next installment of our **Boundaries Lecture Series**.
+Join us this Friday for this year’s CHAT Graduate Fellows Symposium, which builds upon CHAT’s **Borders, Boundaries, Walls** theme to explore the body-as-boundary. [Dr. Janet Lyon](http://english.la.psu.edu/faculty-staff/jwl12) (English Department, Penn State University) will deliver the keynote address: “Epistemologies of Bodyminds: Disability and Modernism.” The symposium will conclude with a graduate student roundtable exploring the social experience of the body as both limit and possibility.
  
 ___
 
