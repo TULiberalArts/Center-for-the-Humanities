@@ -45,6 +45,7 @@ Mónica Ricketts is an associate professor of history at Temple University. Her 
 ___
 
 ### College of Liberal Arts Advanced Graduate Students
+
 ![Paige Gibson]({{site.baseurl}}/media/resizedGibsonP.jpg){:.responsive-img .img-right}
 **_Paige Gibson, PhD Candidate, Klein College of Media and Communication_**<br>
 
