@@ -12,9 +12,9 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## Borders and Boundaries of the Body
+## Borders, Boundaries, Walls
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-Join us this Friday for this year’s CHAT Graduate Fellows Symposium, which builds upon CHAT’s **Borders, Boundaries, Walls** theme to explore the body-as-boundary. [Dr. Janet Lyon](http://english.la.psu.edu/faculty-staff/jwl12) (English Department, Penn State University) will deliver the keynote address: “Epistemologies of Bodyminds: Disability and Modernism.” The symposium will conclude with a graduate student roundtable exploring the social experience of the body as both limit and possibility.
+Join us this Friday…both limit and possibility” with “Join us this week for a two-day symposium that builds upon our Boundaries Lecture Series to explore constructions, transgressions, and transcendences of borders, boundaries, and walls. The event, co-organized with Ben Gurion University, will bring together American, Israeli, and international scholars to examine the global movement of people, goods, and ideas. On Thursday, [James Loeffler](http://history.virginia.edu/people/profile/jbl6w), Jay Berkowitz Professor of Jewish History at the University of Virginia, will deliver the keynote address: World Without Borders? The Political Geography of Human Rights, 1918–2018. We hope you can join us!
  
 ___
 
