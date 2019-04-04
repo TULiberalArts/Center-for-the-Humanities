@@ -45,6 +45,13 @@ Mónica Ricketts is an associate professor of history at Temple University. Her 
 ___
 
 ### College of Liberal Arts Advanced Graduate Students
+![Paige Gibson]({{site.baseurl}}/media/resizedGibsonP.jpg){:.responsive-img .img-right}
+**_Paige Gibson, PhD Candidate, Klein College of Media and Communication_**<br>
+
+Paige Gibson is a doctoral candidate in the Klein College of Media and Communication working at the intersection of social memory, technology, identity, and space/place. How does a city remember itself? And with what politics? Funded by the German Academic Exchange Service (DAAD), Paige conducted ten months of fieldwork in Berlin, Munich, and Dresden to carry out a multi-sited analysis of German memory cultures. Uniting memory studies and science, technology and society studies, her dissertation examines place-based memory technologies used by institutional and vernacular actors to construct urban memoryscapes. Through this examination, she illustrates how different forms shape memory construction.
+
+___
+
 ![Moonyoung Hwang]({{site.baseurl}}/media/resized Moonyoung Hwang.jpg){:.responsive-img .img-right}
 **_Moonyoung Hwang, PhD Candidate, Philosophy_**<br>
 
@@ -56,6 +63,13 @@ ___
 **_Nicole Nathan, PhD Candidate, Anthropology_**<br>
 
 Nicole Nathan is a doctoral candidate in the Department of Anthropology. Rooted in 12 months of ethnographic research, Nicole's dissertation, _"Gifts from God: Religion, Economic Relations, and Gift Giving during Short-Term Missions_", examines the dynamics of philanthropic relations expressed through religious proselytization and economic outreach during contemporary Evangelical youth mission trips in the Dominican Republic. She argues that by exposing youths to a social and cultural experience radically different from their own, mission trips have the potential to powerfully shape youths' worldviews, including how they conceptualize globalization and racial and economic inequality in ways that influence future economic behaviors.
+
+___
+
+![Elizabeth White Vidarte]({{site.baseurl}}/media/resized Elizabeth White Vidarte.jpg){:.responsive-img .img-right}
+**_Elizabeth White Vidarte, PhD Candidate, English_**<br>
+
+Elizabeth is an English PhD candidate specializing in American literature and disability studies. She focuses on the cultural history of empathy and care for the mentally disabled from the late 19th century through the Great Depression. Investigating dependency relations in reciprocal and oppressive modes, she hopes to show that mind-related disability was often framed as a problem because it threatens to reveal raced and gendered autonomy as fictive fantasies of American identity. Yet despite this, it could also be framed as an imperative for ethical and reciprocal care that offered generative means for valuing difference. Elizabeth is also a currently participating in the Digital Scholars program, with plans to use textual analysis tools on her archival research.
 
 ___
 
@@ -81,13 +95,6 @@ I became interested in pursuing a graduate degree in geography after conducting 
 
 ___
 
-![Elizabeth White Vidarte]({{site.baseurl}}/media/resized Elizabeth White Vidarte.jpg){:.responsive-img .img-right}
-**_Elizabeth White Vidarte, PhD Candidate, English_**<br>
-
-Elizabeth is an English PhD candidate specializing in American literature and disability studies. She focuses on the cultural history of empathy and care for the mentally disabled from the late 19th century through the Great Depression. Investigating dependency relations in reciprocal and oppressive modes, she hopes to show that mind-related disability was often framed as a problem because it threatens to reveal raced and gendered autonomy as fictive fantasies of American identity. Yet despite this, it could also be framed as an imperative for ethical and reciprocal care that offered generative means for valuing difference. Elizabeth is also a currently participating in the Digital Scholars program, with plans to use textual analysis tools on her archival research.
-
-___
-
 ### Digital Humanities Scholars
 ![Yang Shan Chou]({{site.baseurl}}/media/resized ChouY.jpg){:.responsive-img .img-right}
 **_Yang Shan Chou_**<br>
@@ -100,7 +107,6 @@ ___
 **_Mannah Duah, PhD Candidate, History_**<br>
 
 Manna Duah uses data and network analysis to map eight incidents of mass political mobilizations among African students in US international education programs between 1960 and 1975.
-
 
 ___
 
