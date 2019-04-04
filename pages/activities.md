@@ -66,7 +66,7 @@ The theme of borders, boundaries, and walls is fraught with baggage in the curre
 - Real and Imagined Walls
 - Cultural Boundaries
 
-**Check back on our home page events feed for this event for updated times and details.**<br>
+**View the [full conference program](https://drive.google.com/file/d/19JtaS92le7khsu9imGbIbvNhVRNoXen1/view?usp=sharing).**<br>
 
 ___
 
