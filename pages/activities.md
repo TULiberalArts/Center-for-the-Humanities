@@ -58,14 +58,6 @@ Russell F. Weigley Room, 914 Gladfelter Hall<br>
 
 The theme of borders, boundaries, and walls is fraught with baggage in the current global political climate, yet the discussions about how to keep people and goods in or out have long been a subject of serious academic inquiry. Temple University is partnering with Ben Gurion University to bring together U.S. and Israeli scholars for an academic conference on the subject. The two-day symposium hopes to cut through the current inflammatory rhetoric to discuss how and why borders, boundaries, and walls (symbolic or real) have been established, how they have been transgressed and transcended, and what the consequences of those transgressions and transcendences are.  By closely examining borders and boundaries, the conference organizers hope to build bridges and foster dialogue across cultural and political divides; and ultimately enhance our understanding of global movements of people, goods, and ideas.
 
-**Topics include:**<br>
-- Internal Borders
-- Boundaries of Space and Time
-- Envisioned and Embodied boundaries
-- Gender Boundaries
-- Real and Imagined Walls
-- Cultural Boundaries
-
 **View the [full conference program](https://drive.google.com/file/d/19JtaS92le7khsu9imGbIbvNhVRNoXen1/view?usp=sharing).**<br>
 
 ___
