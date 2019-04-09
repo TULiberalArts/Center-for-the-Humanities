@@ -242,3 +242,25 @@ Thursday, March 28<br>
 Border walls have been in our minds for the last couple of years thanks to President Trump’s promise that he would build one and that Mexico would pay for it. But there are other walls, which in their ephemerality and inconsistency are also at play in the contemporary experience of ethnicity and immigration in the United States. In this talk, Dr. Amaya explores the digital architecture of the internet as it constitutes new forms of intersubjectivity and perplexing displays of ethnic and nationalistic hate that often rely on different gradations of anonymity.
 
 Dr. Hector Amaya is Professor of Media Studies at the University of Virginia and the Infosys Member of the Institute for Advanced Study at Princeton. He researches globalization, ethnicity, and Latinas/os. His current project, _The Anonymous Condition_, examines new forms of social interaction afforded by digitation and evaluates them against normative ideas of the public sphere. This will be his fourth single authored book.
+
+___
+
+**_CHAT Graduate Fellows Conference_**<br>
+**Investigating Borders and Boundaries of the Body**<br>
+Friday, April 5<br>
+12-4:30pm, CHAT Lounge, Gladfelter Hall, 10th Floor<br>
+
+Expanding this year’s CHAT theme of Borders, Boundaries, and Walls, the 2019 symposium aims to explore the experience of the body-as-boundary from a variety of perspectives. Boundaries delimit what is possible and yet simultaneously invite and sometimes even encourage transgression and transcendence. How do bodies shape knowledge and emotion? What possibilities emerge when we consider the social experience of the body as both limit and possibility; closed and porous?
+
+**Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University<br>
+**_Epistemologies of Bodyminds: Disability and Modernism_**<br>
+
+The CHAT Fellows Conference is from 12-4:30pm on Friday, April 5, 2019 with the following schedule:<br>
+- 12 - 12:15 PM - Opening Remarks
+- 12:15 - 1 PM - Lunch
+- 1 - 2:30 PM - Keynote Address: Dr. Janet Lyon, English Department, Penn State University, Epistemologies of Bodyminds: Disability and Modernism
+- 2:30 - 3 PM - Coffee Break
+- 3 - 4:15 PM - Graduate Student Roundtable
+- 4:15 - 4:30 PM - Concluding Remarks
+
+The CHAT Graduate Fellows strive to welcome all attendees and to host an accessible event. If you require specific accommodations, please email [ejwv@temple.edu](mailto:ejwv@temple.edu) by Monday, April 1.
