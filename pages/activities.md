@@ -25,28 +25,6 @@ ___
 
 ## Upcoming Talks
 
-**_CHAT Graduate Fellows Conference_**<br>
-**Investigating Borders and Boundaries of the Body**<br>
-Friday, April 5<br>
-12-4:30pm, CHAT Lounge, Gladfelter Hall, 10th Floor<br>
-
-Expanding this year’s CHAT theme of Borders, Boundaries, and Walls, the 2019 symposium aims to explore the experience of the body-as-boundary from a variety of perspectives. Boundaries delimit what is possible and yet simultaneously invite and sometimes even encourage transgression and transcendence. How do bodies shape knowledge and emotion? What possibilities emerge when we consider the social experience of the body as both limit and possibility; closed and porous?
-
-**Keynote Speaker:** Dr. Janet Lyon, Associate Professor of English, Penn State University<br>
-**_Epistemologies of Bodyminds: Disability and Modernism_**<br>
-
-The CHAT Fellows Conference is from 12-4:30pm on Friday, April 5, 2019 with the following schedule:<br>
-- 12 - 12:15 PM - Opening Remarks
-- 12:15 - 1 PM - Lunch
-- 1 - 2:30 PM - Keynote Address: Dr. Janet Lyon, English Department, Penn State University, Epistemologies of Bodyminds: Disability and Modernism
-- 2:30 - 3 PM - Coffee Break
-- 3 - 4:15 PM - Graduate Student Roundtable
-- 4:15 - 4:30 PM - Concluding Remarks
-
-The CHAT Graduate Fellows strive to welcome all attendees and to host an accessible event. If you require specific accommodations, please email [ejwv@temple.edu](mailto:ejwv@temple.edu) by Monday, April 1.
-
-___
-
 **_Conference_**<br>
 **Borders, Boundaries, Walls Symposium**<br>
 _Co-sponsored by Office of International Affairs, Ben Gurion University, College of Liberal Arts, Center for the Humanities at Temple, Feinstein Center for Jewish Studies, Klein College of Media and Communication, Global Studies Program, School of Social Work and Center for the Study of Force and Diplomacy_<br>
@@ -58,7 +36,7 @@ Russell F. Weigley Room, 914 Gladfelter Hall<br>
 
 The theme of borders, boundaries, and walls is fraught with baggage in the current global political climate, yet the discussions about how to keep people and goods in or out have long been a subject of serious academic inquiry. Temple University is partnering with Ben Gurion University to bring together U.S. and Israeli scholars for an academic conference on the subject. The two-day symposium hopes to cut through the current inflammatory rhetoric to discuss how and why borders, boundaries, and walls (symbolic or real) have been established, how they have been transgressed and transcended, and what the consequences of those transgressions and transcendences are.  By closely examining borders and boundaries, the conference organizers hope to build bridges and foster dialogue across cultural and political divides; and ultimately enhance our understanding of global movements of people, goods, and ideas.
 
-**View the [full conference program](https://drive.google.com/file/d/19JtaS92le7khsu9imGbIbvNhVRNoXen1/view?usp=sharing).**<br>
+**View the [full conference program](https://drive.google.com/file/d/1b9vst1pQzGlpTTawJJzQg8O9al9ZtfcY/view?usp=sharing).**<br>
 
 ___
 
