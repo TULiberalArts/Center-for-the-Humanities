@@ -12,12 +12,10 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## Borders, Boundaries, Walls
+## The African Diaspora in the Age of Reagan
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-Join us this week for a two-day symposium that builds upon our Boundaries Lecture Series to explore constructions, transgressions, and transcendences of borders, boundaries, and walls. The event, co-organized with Ben Gurion University, will bring together American, Israeli, and international scholars to examine the global movement of people, goods, and ideas. On Thursday, [James Loeffler](http://history.virginia.edu/people/profile/jbl6w), Jay Berkowitz Professor of Jewish History at the University of Virginia, will deliver the keynote address: World Without Borders? The Political Geography of Human Rights, 1918–2018.
+This Thursday, Temple University professor of history [Benjamin Talton](https://liberalarts.temple.edu/academics/faculty/talton-benjamin) presents the final Distinguished Faculty Lecture of the semester. Drawing from his forthcoming book with Penn Press, Talton explores how and why African American politicians were drawn to African affairs in the 1980s. Join us in the CHAT Lounge for “The Afterlife of Radicalism: African Americans and Africa in the Age of Reagan.
 
-- View the [full conference program](https://drive.google.com/file/d/1b9vst1pQzGlpTTawJJzQg8O9al9ZtfcY/view?usp=sharing).
- 
 ___
 
 ## Center for the Humanities at Temple
