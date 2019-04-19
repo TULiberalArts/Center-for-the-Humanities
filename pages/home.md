@@ -12,9 +12,9 @@ promotion-table: true
 feature: true
 feature-image: media/chathero2.png
 ---
-## The African Diaspora in the Age of Reagan
+## o	Working across disciplines…
 ![CHAT]({{site.baseurl}}/media/resized CHAT.png){:.responsive-img .img-right}
-This Thursday, Temple University professor of history [Benjamin Talton](https://liberalarts.temple.edu/academics/faculty/talton-benjamin) presents the final Distinguished Faculty Lecture of the semester. Drawing from his forthcoming book with Penn Press, Talton explores how and why African American politicians were drawn to African affairs in the 1980s. Join us in the CHAT Lounge for “The Afterlife of Radicalism: African Americans and Africa in the Age of Reagan.
+is something many support in theory but few put into practice. This week marks the last CHAT Fellows Seminar, where for the past nine months we engaged in interdisciplinary work. We have much to celebrate, including completed book chapters, finished dissertations, submitted journal articles, and more. The Fellows Seminar brings together faculty and graduate students from the **CLA, the Tyler School of Art, the Boyer School of Music and Dance**, and the **Klein College of Media and Communication**. CHAT’s core mission is to make it easier for faculty and graduate students to forge connections and collaborations across various disciplines within the humanities and humanistic social sciences. Much of the work in the seminar is one of transcending boundaries: making research methods and terminology of our own discipline accessible to our colleagues from other disciplines and learning from others how to think about our own project in new ways. 
 
 ___
 
