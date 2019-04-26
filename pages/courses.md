@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 sidebar: sidebars/people.html
 ---
-## Spring 2019 Graduate Seminars
+## Fall 2019 Graduate Seminars
 These courses welcome qualified graduate students from other departments. All are taught by members of Temple's graduate faculty.
 
 To list your course, email the following to [chat@temple.edu](mailto:chat@temple.edu):
@@ -21,102 +21,138 @@ To list your course, email the following to [chat@temple.edu](mailto:chat@temple
 
 ___
 
-### Art History
+### Anthropology
 
 **Uneasy Pieces: Censorship and Controversy in Modern Art**<br>
-**ARTH 8460, [Professor Gerald Silk](https://tyler.temple.edu/faculty/gerald-silk-phd), W 3:00-5:30 pm**<br>
-The course focuses on works, subjects, and artists related to censorship and controversy. We investigate what makes artists/pieces problematic, examining concepts such as iconoclasm, obscenity, "publicness," cultural appropriation, and pornography, and address issues of religion, race, sexuality, identity, nationalism, politics, animal rights, ethics, consent, and chronicling and intervention. The class combines lecture, discussion, readings, presentations, and papers. We screen films, invite outside speakers, and culminate in a trip to the Philadelphia Museum of Art to discuss provocative art first-hand. The class generates passionate and robust discussion as we work together probing the balance between offensive expression and freedom of speech.
-- [gsilk@temple.edu ](mailto:gsilk@temple.edu )
+**ANTH 8006, [Professor Paul Farnsworth](https://liberalarts.temple.edu/academics/faculty/farnsworth-paul), T 5:30 pm – 8:00 pm**<br>
+This seminar examines the methods and theories used in archaeological research and provides examples of human history that have been revealed by archaeological research. Topics covered include the historical development of archaeology, the nature of archaeological evidence, measuring and organizing time, analyzing spatial relationships, interpreting material culture, explanations in archaeology, hunter-gatherers in prehistory, agricultural origins, origins of complex societies, historical archaeology, and current trends in archaeology.
 
-### Religion
+### Criminal Justice
 
-**Foundations in Judaism**<br>
-**REL 5401, [Professor Mark Leuchter](https://liberalarts.temple.edu/academics/faculty/leuchter-mark), TR 2:00 pm - 3:20 pm**<br>
-This course provides a survey of the social, political, religious and ideological history of the emergence of Judaism in antiquity, spanning roughly a 1000 year period (from 500 BCE to 500 CE). Students will become familiar with the primary texts that bear witness to these developments and the lasting effects of these events and ideas on the formation of Judaism and Christianity in subsequent periods. The course will further identify the process by which myths of cultural and religious origins that still function within contemporary Judaisms and Christianities derive from a selective arrangement and prioritizing of earlier experiences, and how this process is consistent with similar practices in antiquity.
-- [mleuchte@temple.edu](mailto:mleuchte@temple.edu)
+**Crime Mapping**<br>
+**CJ 8232, [Professor Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), M 4:45 pm – 7:15 pm**<br>
+This course offers an introduction to the spatial analysis of criminal justice data using geographic information systems software (GIS). Each week features classroom and computer lab time. The **class time** gets you up to speed on the theory and ideas. The **lab time** involves making a new map each week, giving you practical experience from the first class. We will cover use of GIS, data handling, creating maps from raw data in Excel, cartography and map design, some spatial statistics to understand what’s going on, and hotspot mapping.
 
-**Foundations in Islam**<br>
-**REL 5601, [Professor Khalid Blankinship](https://liberalarts.temple.edu/academics/faculty/blankinship-khalid-y), M 9:00 pm - 11:30 pm**<br>
-Provides a basic survey of Islam for non-specialists. Includes a historical overview focusing on the relationship of Islam to the world and to other religions and ideologies of ancient, medieval, and modern times. Also considers the major modalities of Islam as a religion, including the legal, spiritual, philosophical, and social aspects. Finally, current issues in Islam will be considered, including modern changes in social organization and present-day politics. No prerequisites or language requirements.
-- [blankinship@temple.edu](mailto:blankinship@temple.edu)
+**Seminar in Criminal Justice Policy: Comparative Criminal Justice Around the World**<br>
+**CJ 8320, [Professor Rely Vicica](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely), R 3:00 pm – 5:30 pm**<br>
+The United States is known for its “exceptionalism” in crime and justice policy. This course adopts a global, comparative approach to the understanding of key critical issues of crime and justice around the world. We will begin by discussing cross-national variation in crime and global trends, and theories that may explain them. We will then examine the world’s major philosophies of law and justice—i.e., legal traditions. The course will then analyze critical aspects in the operation of major criminal justice institutions (law enforcement/policing; courts/adjudication; and correctional system/penalization). Lastly, we will address issues of international human rights and the role of international criminal tribunals (courts).
 
-**Foundations in Digital Humanities**<br>
-**REL 5801, [Professor Marcus Bingenheimer](https://liberalarts.temple.edu/academics/faculty/bingenheimer-marcus), T 5:00 pm - 8:30 pm**<br>
-Foundations in Digital Humanities for the Study of Religion will familiarize graduate students with methods and applications from the emerging field of DH. This course alerts students to the digital difference in three fields: text, space, and networks. It focuses on examples from the domain of religious studies, but the methods are applicable in other fields as well.
-- [bingenheimer@temple.edu](mailto:bingenheimer@temple.edu)
+### Economics
 
-**Religions in African Diaspora**<br>
-**REL 8702, [Professor Terry Rey](https://liberalarts.temple.edu/academics/faculty/rey-terry), W 2:00 pm – 4:30 pm**<br>
-This course explores the historical development and the social, cultural, and political contours of African-derived or African inspired religions of the Americas. Particular emphasis will be placed on the Candomble in Brazil, Lukumii (Santeria) and Palo in Cuba, Rastafari in Jamaica, Vodou in Haiti. The course also carefully considers communities practicing these and related religious traditions in the United States and the African influences on American religious and artistic cultures.
-- [trey@temple.edu](mailto:trey@temple.edu)
+**Special Topics in Economics**<br>
+**ECON 5190, [Professor John Sorrentino](https://liberalarts.temple.edu/academics/faculty/sorrentino-john), T 5:30 pm – 8:00 pm**<br>
+This course will concentrate on applying the tools of economics to the natural environment. The economics tools revolve around the functioning of markets, externalities, public goods, ecosystem goods and services valuation (market and non-market) and benefit-cost analysis. The applications involve non-renewable versus renewable energy and other resources, pollution and environmental degradation, and “sustainable” scenarios for the future. Examples of particular problems addressed are sustainable food supply, fresh water availability, urbanization of the global population, greenhouse gasses/global warming, and environmental/social justice. Math/Stat tools will be used when appropriate. Assessment will be in the form of class participation, short (open book) quizzes, a research paper and a final exam.
 
-### Music Studies
+### Gender, Sexuality and Women's Studies
 
-**Seminar in Stylistic Analysis: Surrealism**<br>
-**CJ 8202, [Professor Matthew Greenbaum](https://www.temple.edu/boyer/about/people/matthewgreenbaum.asp), T 5:00 pm – 7:20 pm**<br>
-Surrealism is more than the painting of strange images: works like Satie's Parade (1916) are characteristic of a little-known musical Surrealism found in the works of Stravinsky, Poulenc, Milhaud, and many others. Curiously, 17th-century Mannerism works featured all the characteristics of Surrealism in both art and music, especially in the daring and uncanny works of Gesualdo; much of the semester will be a comparison of these two very different musical epochs. Besides looking at works of Stravinsky and other well-known figures in a new way, you'll explore many little-known, and provocative, and even weird art works and personalities. No musical background is necessary.
-- [matthew.greenbaum@temple.edu](mailto:matthew.greenbaum@temple.edu)
+**Introduction to Feminist and LGBTQ Studies**<br>
+**GSWS 8001, [Professor Laura Levitt](https://liberalarts.temple.edu/academics/faculty/levitt-laura), T 5:30 pm – 8:00 pm**<br>
+This course offers an advanced introduction to students interested in the interdisciplinary field of Gender, Sexuality and Women's Studies as well as in applying feminist and queer methods of research, analysis and practice in their own disciplines. This is a rigorous graduate course designed for PhD and MA students especially geared to those pursuing the graduate certificate in Gender, Sexuality and Women’s Studies.
 
-### English
+### Geography and Urban Studies
 
-**Literacy and Composition Theory**<br>
-**ENG 8304**<br>
-This course introduces students to primary texts in literacy and writing studies. We will work through articles and books that consider both the history of written language and the social/economic factors that make literacy such a fascinating area of research. In the last weeks, we'll apply what we've learned to a question that should appeal to any intellectual interested in the future of the humanities: How can literacy studies lead to a multidisciplinary concept of "English" or "Communications"? Assignments will include on-line posts, a literacy narrative of 5-8 pages, and a final paper developed out of each student's disciplinary concerns.
-
-### Sociology
-
-**Sociology of Education**<br>
-**SOC 8311, [Professor Kimberly Ann Goyette](https://liberalarts.temple.edu/academics/faculty/goyette-kimberly), M 5:00 – 7:30 pm**<br>
-The main focus of this course is on the ways educational systems both maintain and challenge social inequality. Students discuss the ways education differentially allocates resources based on race, class, gender and other ascriptive characteristics. The class explores issues in both "classical readings" in the Sociology of Education, and also in recent books by those working in the field. This course advances students' own research projects through frequent discussions and evaluations of students' work by the instructor and their peers.
-- [kgoyette@temple.edu](mailto:kgoyette@temple.edu)
-
-**Contemporary Sociological Theory**<br>
-**SOC 9111, [Professor Dustin Kidd](https://liberalarts.temple.edu/academics/faculty/kidd-dustin), Tr 2:00 pm – 4:30 pm**<br>
-This course surveys a broad range of theoretical perspectives from the 20th and 21st centuries. The course compares these theories in terms of how they contribute to on-going sociological research around a number of social problems.
-- [dkidd@temple.edu](mailto:dkidd@temple.edu)
-
-**Qualitative Data Analysis**<br>
-**SOC 9241, [Michelle Byng](https://liberalarts.temple.edu/academics/faculty/byng-michelle), T 2:00 pm – 4:30 pm**<br>
-The central goal of this course is to have students complete a qualitative research project. It focuses on how to collect data, how to organize data for analysis, and how to use the data to answer a research question and/or develop concepts that might inform future research. Toward this end, the course begins with readings about the qualitative research process. The readings detail the agenda(s), logic, and epistemological foundation of qualitative research.
-- [mbyng@temple.edu](mailto:mbyng@temple.edu)
-
-### Philosophy
-
-**Feminist Epistemology and Philosophy of Science**<br>
-**PHIL 5217, [Professor Miriam Solomon](https://liberalarts.temple.edu/academics/faculty/solomon-miriam), Tr 4:30 pm – 8:00 pm**<br>
-This course explores the effects of gender on knowledge in general and science in particular. Feminist critiques since the 1970s challenge traditional claims that knowledge and science are completely objective and unbiased. Unlike relativist approaches, feminist critiques often provide new, more nuanced accounts of objectivity (sometimes called "strong objectivity"). We will examine a range of feminist accounts (e.g. feminist standpoint, feminist postmodern and feminist empiricist) and look at cases from a wide range of sciences. The complex relations between gender, race, class and nationality will also be discussed in relation to these issues.
-- [msolomon@temple.edu](mailto:msolomon@temple.edu)
-
-### Art Education & Community Arts Practices
-
-**Contemporary Issues in Art Education**<br>
-**AE 8001, [Professor Renee Jackson](https://tyler.temple.edu/faculty/renee-jackson), M 4:30 pm – 7:00 pm**<br>
-This course offers an in-depth exploration of the issues affecting the field of art education. The course examines the efficacy of art education in a complex society (race, class, ethnicity, religion, gender, mass media, special needs, etc.) and seeks to further our understanding of relationships between how/why we teach art and what students learn about art, themselves and the social context. We use simple technological tools to reflect and express ideas and opinions related to the issues, and apply arts based processes to explore issues in depth.
-- [renee.jackson@temple.edu](mailto:renee.jackson@temple.edu)
-
-**Interdisciplinary Seminar in Community Arts Practices**<br>
-**AE 8011, [Professor Pepon Osorio](https://tyler.temple.edu/faculty/pepon-osorio), MW 4:30 pm – 7:00 pm/TR 11:00 am – 12:20 pm**<br>
-Community Arts Practices brings together artists and urban strategists from a range of disciplines with people of a community of location, origin, or tradition, to create arts projects based in the life of that community. The course engages students in practices including: Collaborative Artmaking as a means of community organizing; Arts projects addressing underlying dynamics of equity, self-determination and cultural histories. Come join us as we create site-specific installations, civic dialogue and public history processes with Philadelphia communities. Bring your passions for social justice, urban histories and futures, and your own arts and liberal arts interests.
-- [pepono@temple.edu](mailto:pepono@temple.edu)
+**Special Topic Seminar: Black Geographies**<br>
+**GUS 5000, [Professor Celeste Winston](mailto:celeste.winston@temple.edu), M 5:30 PM – 8:00 pm**<br>
+This course explores the theoretical and methodological advances made by the interdisciplinary field of Black Geographies. Texts and discussions will highlight how erasures, exclusions, and exploitations of Black people have structured historical and current world conditions. The course will draw lessons from Black knowledges, radical struggles, and everyday life practices as a guide for scholarship and action aimed toward reshaping a new, more just world.
 
 ### History
 
-**Digital History**<br>
-**HIST 5152, [Professor Deborah Jean Boyer](mailto:tuf08705@temple.edu), Tr 5:30 pm – 8:00 pm**<br>
-The definition of digital history is amorphous, broad, and often debated. Digital history projects may refer to everything from an online exhibition to a podcast to mapping and geographic information systems. This class will explore digital history in terms of the questions of narrative, shared authority, access, and historical analysis that arise when using digital tools for working with history. We will discuss the major issues involved in digital history initiatives and gain familiarity with various technologies often used in such projects.
-- [tuf08705@temple.edu](mailto:tuf08705@temple.edu)
+**Introduction to American History I (to 1865) **<br>
+**HIST 8101, [Professor Jessica Roney](https://liberalarts.temple.edu/academics/faculty/roney-jessica), T 2:00 pm – 4:30 pm**<br>
+This is the first segment of the Introduction to American History readings seminar required of all M.A. and Ph.D. students in U.S. History. Doctoral students are required to take both courses in this sequence. M.A. students must take one of the two segments. This segment covers the colonial era through the Civil War.
 
-**Studies in American Material Culture**<br>
-**HIST 8151, [Professor Hilary Lowe](https://liberalarts.temple.edu/academics/faculty/iris-lowe-hilary), M 2:00 pm – 4:30 pm**<br>
-Introduction to literature from several fields that use artifacts to understand culture. Exploration of various theoretical approaches. Topics include architecture, folk art, photography, decorative arts, landscape design, historic preservation, and the use of interior space.
-- [hilowe@temple.edu](mailto:hilowe@temple.edu)
+**Studies in American Diplomatic History**<br>
+**HIST 8103, [Professor Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan), T 5:00 pm – 7:30 pm**<br>
+Readings in and discussion of the principal schools of interpretation and conceptual frameworks in the history of U.S. foreign relations as a means to introduce students to the subfield. A complement to Studies in the Cold War (HIST 8209), the chronological parameters extend from the Revolutionary era through the conclusion of World War II. In addition to completing weekly reading and writing assignments, and as a final assignment a comparative review essay, students will participate actively in class conversations about history and historians.
 
-**Studies in Recent American Urban History**<br>
-**HIST 8206, [Professor Bryant Simon](https://liberalarts.temple.edu/academics/faculty/simon-bryant), , M 5:00 pm – 7:30 pm**<br>
-This course is broadly interdisciplinary, concerned with major developments in Ameria's large cities from the mid-nineteenth century to the present. Basic issues include: the changing spatial structure of the city, social and geographical mobility, the nature of ethnicity and the Black experience, the development of crime and rioting, the structure of local politics, and the movements for urban reform.
-- [brysimon@temple.edu](mailto:brysimon@temple.edu)
+**Managing History**<br>
+**HIST 8152, [Professor Seth Bruggeman](https://liberalarts.temple.edu/academics/faculty/bruggeman-seth), W 2:00 pm – 4:30 pm**<br>
+This course explores the practical considerations and theoretical issues concerning the management/ownership of the interpretation, preservation, and presentation of history for public consumption. Emphasis is placed on public management policies and methods of private ownership of critical historical issues, including, but not limited to, museum exhibits, historical preservation policies and practices, governance of historical societies and museums, publication practices, historical documentaries (aural and visual), and other elements related to the dissemination of historical interpretations, common historical knowledge, and public memory. 
 
-**United States Foreign Policy in the Cold War**<br>
-**HIST 8209, [Professor Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan), M 5:00 pm – 7:30 pm**<br>
-Few if any "moments" within America's historical experience have generated the intensely competitive and emotionally-charged debates as has the "moment" called the "Cold War." The purpose of this course is to identify the questions that have bedeviled historians of the Cold War, and by reading competing interpretations, evaluate the strategies by which they have been addressed. Sample topics: U.S.-Russian (Soviet) relations, the nuclear arms competition and arms control, regional rivalries, summitry, alliance politics, cultural instruments of influence, crisis management, intelligence agencies, and critical personalities. Students will read widely, write frequently, and speak extensively.
-- [alan.mcpherson@temple.edu](mailto:alan.mcpherson@temple.edu)
+**Archives and Manuscripts**<br>
+**HIST 8153, [Professor Margery Sly](https://library.temple.edu/about/staff/margery-n-sly), W 5:00 pm – 7:20 pm**<br>
+An introduction to the theoretical and applied aspects of historical records management. Taught in cooperation with local archives and historical societies.
+
+**Historical Methods**<br>
+**HIST 8714, [Professor Eileen Ryan](https://liberalarts.temple.edu/academics/faculty/ryan-eileen), R 2:00 pm – 4:30 pm**<br>
+This seminar is an introduction to the practice of professional history and to historical methodologies. One of the main purposes of the seminar is to familiarize its participants with the methodological and historiographical evolution of professional history. How has the approach of historians to their craft changed in the last century? What assumptions informed the decisions they have been made about how to study the past? In short, we study methodology because it is a way of approaching the questions that are central to historical scholarship: How do we know what has happened? How do we decide what matters? How do we best study the past? Whose version of history is authoritative?
+
+**Topics in History I**<br>
+**HIST 8800, [Professor Katherina Motyl](https://liberalarts.temple.edu/academics/faculty/motyl-katya), M 5:00 pm – 7:30 pm**<br>
+Introduction to a variety of historical and normally comparative topics and themes in, such as environmental or psychological history.
+
+**Seminar in International History**<br>
+**HIST 9208, [Professor Harvey Neptune](https://liberalarts.temple.edu/academics/faculty/neptune-harvey-r), R 5:00 pm – 7:30 pm**<br>
+This research seminar explores a range of subjects in international history, with particular emphasis on 20th century diplomatic and military history. Research topics are not restricted to any geographic area. Students prepare an oral presentation and research paper on a specific subject of his/her choosing but approved by the instructor. The research utilizes some secondary but principally primary sources.
+
+### Music Studies
+
+**Hip Hop in Global Perspective: Aesthetics, Culture, and Politics of Genre**<br>
+**MUST 9702, [Professor Noriko Manabe](https://www.temple.edu/boyer/about/people/Manabe.asp), W 5:00 pm – 7:20pm**<br>
+As a genre that grew out of practices from Jamaican toasting and dance clubs, developed through unexpected use of technologies, and spread throughout the world, hip hop offers an interesting case study in the formation and adaptation of genres. Moreover, hip hop is highly referential, making for an excellent case study in intertextuality, cultural memory, and canonization processes. It has also been highly politicized (and often not). This course explores these and other aspects of hip hop: its cultural sources, histories, interaction with language and music, intertextuality, the aesthetics of rap and track-making, globalization, role in social movements, and identity construction in terms of race, class, and nation. In addition to discussing an interdisciplinary array of literature, we will be engaging in close analyses of rap and hip hop tracks.
+
+### Philosophy
+
+**Philosophy of the Mind**<br>
+**PHIL 5244, [Professor Gerald Vision](https://liberalarts.temple.edu/academics/faculty/vision-gerald), TR 2:00 pm – 3:20 pm**<br>
+The course covers topics in the Philosophy of Mind and Cognitive Science, such as the nature of mental states and minds, mental content and meaning, consciousness, conceptions of  self, mental causation, the status of mental properties such as belief and desire, the relation of mental to brain states and to computers and artificial intelligence, mentality in a predominately physical world, and free will. The main text will be an anthology, _Readings in the Philosophy of Mind_ by David Chalmers. In addition to various exams, students will be expected to write a term paper on a topic chosen from our study.
+
+### Political Science
+
+**Political Statistics I**<br>
+**POLS 8001, [Professor Ryan Vander Wielen](https://liberalarts.temple.edu/academics/faculty/vander-wielen-ryan-j), T 5:40 pm – 8:10 pm**<br>
+Introductory applied social statistics. Topics covered include descriptive measures, elementary probability theory, hypothesis testing, and correlation and regression analysis. This course explores inductive statistics including: probability and sampling, multivariate contingency tables, analysis of variance, correlation and regression analysis.
+
+**Qualitative Research Methods**<br>
+**POLS 8002, [Professor Sean Yom](https://liberalarts.temple.edu/academics/faculty/yom-sean-l), W 5:40 pm – 8:10 pm**<br>
+This graduate seminar imparts a general overview of qualitative research methods used in the empirical subfields of political science.  By “qualitative,” this course means methodological techniques that are neither primarily quantitative nor experimental in nature, including case studies, process-tracing, cross-case comparisons, thick description, ethnography, interpretivist critiques, and other strategies of inference.
+
+**Public Opinion & Propaganda**<br>
+**POLS 8124, [Professor Kevin Arceneaux](https://liberalarts.temple.edu/academics/faculty/arceneaux-kevin), T 3:00 pm – 5:30 pm**<br>
+Survey of the broad field of public opinion research. Topics include: political sophistication, citizen competence, democratic responsiveness, political socialization, attitude formation, and the effects of mass media and political rhetoric. 
+
+**The State in Comparative Politics**<br>
+**POLS 8216, [Professor Hillel Soifer](https://liberalarts.temple.edu/academics/faculty/soifer-hillel), W 3:00 pm – 5:30 pm**<br>
+This course offers an in-depth assessment of the state. It begins with the definitional question and explores different approaches to the state. We will then proceed to historical analysis of the rise of states in Europe and other world regions. The third component of the course explores the relationship between states and societies, focusing on cases from both Europe and other world regions. Finally, the course explores the extent of variation in state capacity around the world, and its implications for other areas of investigation in comparative politics. Readings range from theoretical social science to empirical work on a variety of specific cases, and from classics in the field to new work and non-academic accounts of particular countries and regions. The course will build toward the production of a significant research paper.
+
+**International Politics**<br>
+**POLS 8301, [Professor Mark Pollack](https://liberalarts.temple.edu/academics/faculty/pollack-mark), R 3:30 pm – 6:00 pm**<br>
+A graduate-level introduction to theories of international politics, ranging from classical realism and liberalism through contemporary neorealist, institutionalist, constructivist and other approaches.
+
+### Religion
+
+**Philosophy of Religion**<br>
+**REL 5001, [Professor Aryeh Botwinick](https://liberalarts.temple.edu/academics/faculty/botwinick-aryeh), TBA**<br>
+This course adopts a novel approach for making sense of the texts of Western monotheism and uncovering new patterns of relationship to Eastern religion. Within monotheism itself, it focuses upon the relationship between monotheism and skepticism considered both as structures of argument and as ethical contents. Aside from canonical passages in the monotheistic scriptures and in Eastern religion, we will delve into arguments by the following theologians and philosophers:  Plato, St. Augustine, St. Anselm of Canterbury, Moses Maimonides, St. Thomas Aquinas, Nicholas of Cusa, Ibn Senna, Nietzsche, and Wittgenstein.
+
+**Islam in Global Perspective**<br>
+**REL 8603, [Professor Zain Abdullah](https://liberalarts.temple.edu/academics/faculty/abdullah-zain), R 3:00 pm – 5:30 pm**<br>
+This course examines contemporary Islam in global context. It covers worldwide Islamic networks and transnational Muslim identities, linking Africa with Asia and the Middle East or Europe with the Americas and Canada. As 21st century realities challenge age-old traditions, Islam and Muslims will be discussed for how they shape and are shaped by local and wide-ranging political, economic, and cultural processes. We will explore Muslims in western contexts with special attention on the United States, examining issues such as the Muslim ban, sharia laws, mosque construction, veiling, racial profiling, Islamophobia and social justice struggles.
+
+**Special Topics in Religion: Death and Dying in Early Christianity**<br>
+**REL 8800, [Professor Vasiliki Limberis](https://liberalarts.temple.edu/academics/faculty/limberis-vasiliki-m), M 9:00 am – 11:30 am**<br>
+Through abundant literary, visual, and archeological evidence, this class will explore what death and dying meant in Early Christianity, 100-500 CE, in the context of Roman culture. We shall include examples of Greco-Roman religions and Jewish evidence as well.
+
+### Sociology
+
+**Logic of Inquiry**<br>
+**SOC 8011, [Professor James Bachmeier](https://liberalarts.temple.edu/academics/faculty/bachmeier-james), M 5:00 pm – 7:30 pm**<br>
+This course is an introduction to the logic and methods of social research. We will examine the issues that arise in doing and evaluating both quantitative and qualitative research by reading the sociological literature. We will spend some time on the simple tools, e.g. tables and graphs, needed to summarize research results. However, the focus will be on larger issues, namely, how researchers draw conclusions from empirical data, and how we can assess the validity of the conclusions they reach. 
+
+**Social Inequality**<br>
+**SOC 8381, [Professor Judith Levine](https://liberalarts.temple.edu/academics/faculty/levine-judith), M 2:00 pm – 4:30 pm**<br>
+This course reviews theories and research regarding the dimensions of inequality and the processes which create, increase, and decrease inequality. It also examines the issues of the relationships between the dimensions of inequality and the processes of cumulative advantage and disadvantage. Individuals, groups, areas, and other social contexts are typically organized hierarchically, and the course explores the ways in which these different social levels shape and are shaped by social inequality over the life course. Examples of these processes include social multiplier effects, "winner take all" theories, the "Matthew Effect" in science, and the "Peter Principle." 
+
+**Medical Sociology**<br>
+**SOC 8391, [Professor TBA](https://liberalarts.temple.edu/academics/faculty/byng-michelle), T 5:00 pm – 7:30 pm**<br>
+This course examines the historical changes in the ideas of health and disease and in society's response to illness. An important component of the course will be to examine the influences of social/political environment on morbidity and mortality in the United States and how population sub-groups experience illness in the medical system. 
+
+**Gender & Body**<br>
+**SOC 8411, [Professor Tom Waidzunas](https://liberalarts.temple.edu/academics/faculty/waidzunas-tom), R 5:00 pm – 7:30 pm**<br>
+This course examines various discourses of the human body including medical, cultural, scientific, and legal discourses. Through a gendered lens the course examines the meaning of human embodiment and its impact on individual and group identities. 
+
+### Spanish
+
+**(Un)Bordering Latinx Studies**<br>
+**SPAN 8147, [Professor Rebeca L. Hey-Colón](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l), W 5:30 pm – 8:00 pm**<br>
+This graduate seminar will discuss the various ways in which borders and bordering (understood by García-Peña as the way in which borders affect human beings) manifest and have evolved in the realm of Latinx Studies. Through a discussion of key literary, cultural, and theoretical texts that will touch on notions of history, migration, gender, race, and more, students will gain an appreciation of the ways in which “the border” has evolved from a tangible, physical space/line into a place of contention, confusion, and possibility.
