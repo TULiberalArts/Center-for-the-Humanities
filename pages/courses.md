@@ -43,6 +43,12 @@ The United States is known for its “exceptionalism” in crime and justice pol
 **ECON 5190, [Professor John Sorrentino](https://liberalarts.temple.edu/academics/faculty/sorrentino-john), T 5:30 pm – 8:00 pm**<br>
 This course will concentrate on applying the tools of economics to the natural environment. The economics tools revolve around the functioning of markets, externalities, public goods, ecosystem goods and services valuation (market and non-market) and benefit-cost analysis. The applications involve non-renewable versus renewable energy and other resources, pollution and environmental degradation, and “sustainable” scenarios for the future. Examples of particular problems addressed are sustainable food supply, fresh water availability, urbanization of the global population, greenhouse gasses/global warming, and environmental/social justice. Math/Stat tools will be used when appropriate. Assessment will be in the form of class participation, short (open book) quizzes, a research paper and a final exam.
 
+### English
+
+**Advanced Study in Genre: Hybrid Texts and Visual Storytelling**<br>
+**ENGL 8304, [Professor Miles Orvell](https://liberalarts.temple.edu/academics/faculty/orvell-miles), W 3:00 - 5:30 pm**<br>
+o	The word and the image are usually thought of in terms of their separate and differing modes of communication, but the tradition of hybrid texts--combining pictures and language--has attracted increasing theoretical interest in the last 25 years, based on the work of W.J.T. Mitchell and others. Mitchell's concept of the "imagetext" opens up an understanding not only of hybrid forms but of forms we might have imagined to be purely textual or simply visual. The hybridity of mixed forms and the testing of generic boundaries can be found in countless examples. This course will focus on developing a typology of hybrid texts and visual storytelling, with readings in Mitchell, Barthes, James Elkins, Jonathan Crary and others. We will begin by establishing a common set of primary examples along with a core understanding of "picture theory," with brief student presentations in class and written responses; in the last third of the course, students will be able to focus on their own research across a variety of periods, genres, and traditions, culminating in a research paper.
+
 ### Gender, Sexuality and Women's Studies
 
 **Introduction to Feminist and LGBTQ Studies**<br>
