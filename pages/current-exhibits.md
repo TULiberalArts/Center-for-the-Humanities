@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_page
+layout: tla_page_test
 permalink: /current-exhibits/
 published: true
 # meta-data variables
