@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page_test
 permalink: /courses/
-published: true
+published: false
 # meta-data variables
 title: Courses
 description: >-
