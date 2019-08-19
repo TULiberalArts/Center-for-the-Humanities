@@ -17,15 +17,15 @@ ___
 
 ## Upcoming Talks
 
-**October 10, 2019**<br>  
+**October 10, 2019**  
 **Travis Glasson** (Department of History) CHAT Faculty Fellow 2019-2020<br> 
 "_Sunshine Patriots: Family and Divided Loyalties in the American Revolution_”
 
-**November 7, 2019**<br>    
+**November 7, 2019** 
 **Mariola Alvarez** (Department of Art History) CHAT Faculty Fellow 2019-2020<br> 
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
-**November 21, 2019**<br>  
+**November 21, 2019**
 **Rebeca Hey-Colon** (Department of Spanish)<br> 
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
