@@ -29,7 +29,7 @@ ___
 **Rebeca Hey-Colon** (Department of Spanish)<br> 
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
-**December 5, 2019**<br>  
+**December 5, 2019**
 **Lee-Ann Chae** (Department of Philosophy)<br>
 
 **January 23, 2020**<br> 
