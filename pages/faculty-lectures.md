@@ -26,14 +26,14 @@ ___
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
 **November 21, 2019**<br>  
-Rebeca Hey-Colon (Department of Spanish)<br> 
+**Rebeca Hey-Colon** (Department of Spanish)<br> 
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
 **December 5, 2019**<br>  
 "_Lee-Ann Chae_" (Department of Philosophy)
 
 **January 23, 2020**<br> 
-Jess Newman (Department of Anthropology)<br> 
+**Jess Newman** (Department of Anthropology)<br> 
 "_Territorializing Rumors, Dangerous Sex_"
 
 **March 12, 2020**<br> 
