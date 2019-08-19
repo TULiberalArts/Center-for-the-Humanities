@@ -1,4 +1,4 @@
---
+---
 layout: doc
 ---
 <header class="tla-header">
@@ -6,45 +6,58 @@ layout: doc
 </header>
 <!-- tla-faculty -->
 <main>
+  {% if page.title %}
+  <div class="page-header">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+  {% endif %}
   <div class="page-content">
-    <div class="hz-bg-band">
-      <div id="content-container" class="container z-depth-4">
-        <div class="row">
-          {% if page.title %}
-          <h1>{{ page.title }}</h1>
-          {% endif %}
-          {{ content }}
-          <!-- there is persons -->
-          {% if page.faculty %}
-          {% include {{ page.faculty }} %}
-          {% endif %}
-          <!-- if there are fellows -->
-          {% if page.fellows %}
-          {% include {{ page.fellows }} %}
-          {% endif %}
-          <!-- if there are affiliated -->
-          {% if page.affiliated %}
-          {% include {{ page.affiliated }} %}
-          {% endif %}
-          <!-- if there are emeritus -->
-          {% if page.emeritus %}
-          {% include {{ page.emeritus }} %}
-          {% endif %}
-          <!-- if there are postdoctoral -->
-          {% if page.postdoctoral_fellows %}
-          {% include {{ page.postdoctoral_fellows }} %}
-          {% endif %}
-          <!-- if there is a staff list -->
-          {% if page.staff %}
-          {% include {{ page.staff }} %}
-          {% endif %}
-        </div>
-      </div>
+    <div class="container">
+      {{ content }}
+      <!-- there is persons -->
+      {% if page.faculty %}
+      {% include {{ page.faculty }} %}
+      {% endif %}
+      <!-- if there are fellows -->
+      {% if page.fellows %}
+      {% include {{ page.fellows }} %}
+      {% endif %}
+      <!-- if there are affiliated -->
+      {% if page.affiliated %}
+      {% include {{ page.affiliated }} %}
+      {% endif %}
+      <!-- if there are emeritus -->
+      {% if page.emeritus %}
+      {% include {{ page.emeritus }} %}
+      {% endif %}
+      <!-- if there are postdoctoral -->
+      {% if page.postdoctoral_fellows %}
+      {% include {{ page.postdoctoral_fellows }} %}
+      {% endif %}
+      <!-- if there is a staff list -->
+      {% if page.staff %}
+      {% include {{ page.staff }} %}
+      {% endif %}
     </div>
   </div>
 </main>
-
 {% include footer.html %}
 
-<!-- @note that we can taget elements by using the selectors .dark, .ppv-header, .ppv-main, and ppv-footer
-  this file is part of the TUTheme theme https://github.com/TULiberalArts/TUtheme -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
