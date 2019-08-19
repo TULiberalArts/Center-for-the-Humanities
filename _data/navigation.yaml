@@ -3,14 +3,8 @@
 - text: Groups
   url : /groups/
 - text: Activities
-  url: /activities/
-- text: Courses
-  url: /courses/  
+  url: /activities/ 
 - text: Advisory Board
   url: /advisory-board/
 - text: Fellowships
   url: /fellowships/
-- text: Current Exhibits
-  url: /current-exhibits/
-- text: Directions
-  url: /directions/
