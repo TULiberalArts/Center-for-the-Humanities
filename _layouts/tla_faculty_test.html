@@ -23,6 +23,10 @@ layout: doc
           {% if page.faculty %}
           {% include {{ page.faculty }} %}
           {% endif %}
+          <!-- if there are fellows -->
+          {% if page.fellows %}
+          {% include {{ page.fellows }} %}
+          {% endif %}
           <!-- if there are affiliated -->
           {% if page.affiliated %}
           {% include {{ page.affiliated }} %}
