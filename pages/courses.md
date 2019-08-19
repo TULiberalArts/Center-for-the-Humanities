@@ -76,7 +76,7 @@ Readings in and discussion of the principal schools of interpretation and concep
 This course explores the practical considerations and theoretical issues concerning the management/ownership of the interpretation, preservation, and presentation of history for public consumption. Emphasis is placed on public management policies and methods of private ownership of critical historical issues, including, but not limited to, museum exhibits, historical preservation policies and practices, governance of historical societies and museums, publication practices, historical documentaries (aural and visual), and other elements related to the dissemination of historical interpretations, common historical knowledge, and public memory. 
 
 **Archives and Manuscripts**<br>
-**HIST 8153, [Professor Margery Sly](https://library.temple.edu/about/staff/margery-n-sly), W 5:00 pm – 7:20 pm**<br>
+**HIST 8153, [Professor Margery Sly](mailto:msly@temple.edu), W 5:00 pm – 7:20 pm**<br>
 An introduction to the theoretical and applied aspects of historical records management. Taught in cooperation with local archives and historical societies.
 
 **Historical Methods**<br>
