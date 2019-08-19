@@ -4,7 +4,7 @@ layout: tla_page_test
 permalink: /faculty-lectures/
 published: true
 # meta-data variables
-title: faculty Lectures
+title: Faculty Lectures
 description: >-
 keywords: ''
 # custom variables
@@ -30,7 +30,7 @@ ___
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
 **December 5, 2019**<br>  
-"_Lee-Ann Chae_" (Department of Philosophy)
+**Lee-Ann Chae** (Department of Philosophy)<br>
 
 **January 23, 2020**<br> 
 **Jess Newman** (Department of Anthropology)<br> 
@@ -48,7 +48,7 @@ ___
 **April 23, 2020**<br> 
 **Patricia Melzer** (Department of German & Department of Gender, Sexuality and Women’s Studies) CHAT Faculty Fellow 2019-2020
 
-__
+___
 
 - [**_View all of our 2018-2019 Past Lectures!_**](https://www.cla.temple.edu/center-for-the-humanities/past-lectures/)
 
