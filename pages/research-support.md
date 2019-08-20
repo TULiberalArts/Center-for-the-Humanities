@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /fellowships/
+permalink: /research-support/
 published: true
 # meta-data variables
 title: Research Support
