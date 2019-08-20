@@ -8,7 +8,6 @@ title: Faculty Lectures
 description: >-
 keywords: ''
 # custom variables
-sidebar: sidebars/people.html
 ---
 ## Distinguished Faculty Lectures 
 The Distinguished Faculty Lectures showcase new research by Temple faculty followed by open discussion. All lectures take place in the 10th floor lounge in Gladfelter Hall. CHAT is honored to welcome the following faculty in the 2019-2020 lecture series.
