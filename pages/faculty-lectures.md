@@ -53,9 +53,9 @@ CHAT Faculty Fellow 2019-2020<br>
 [**Patricia Melzer**](https://liberalarts.temple.edu/academics/faculty/melzer-patricia) (Department of German & Department of Gender, Sexuality and Women’s Studies)<br> 
 CHAT Faculty Fellow 2019-2020
 
-___
-
 - [**_View all of our 2018-2019 Past Lectures!_**](https://www.cla.temple.edu/center-for-the-humanities/past-lectures/)
+
+___
 
 ## Archives 
 - [**Recorded Programs**](https://cla.temple.edu/center-for-the-humanities/recorded-programs/)
