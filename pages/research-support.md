@@ -17,7 +17,7 @@ The Center for the Humanities at Temple (CHAT) offers academic year Faculty Fell
 All tenured and tenure-track faculty working on research projects in the humanities or humanistic social sciences are eligible. Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may result in a loss of the award at the discretion of the CHAT Director. Previous applicants are encouraged to reapply. Previous recipients of the Fellowship may reapply four years after the end of the last fellowship year. Simultaneous application to external fellowships is encouraged.
 
 - **Deadline for 2019-20 Faculty Fellowships is November 11, 2019**<br>
-- [**Application Information](https://drive.google.com/file/d/1PVs8vWrx8Z-6OTmOJDGBb_o9doHdM1t2/view?usp=sharing)**
+- **[Application Information](https://drive.google.com/file/d/1PVs8vWrx8Z-6OTmOJDGBb_o9doHdM1t2/view?usp=sharing)**
 
 ## Advanced Graduate Scholar Award
 Advanced Graduate Scholar Awards provide financial support to resident doctoral students pursuing research in the humanities or humanistic social sciences in the College of Liberal Arts, the Klein College of Media and Communication, and the Tyler School of Arts. Awardees receive a stipend to work full-time on the dissertation for one semester. The award also includes health benefits, one tuition credit, and $500 in research funding. Recipients must attend and participate in person in the bi-weekly CHAT Fellows Seminar, where they present part of their dissertation for discussion and critique.
