@@ -17,21 +17,21 @@ ___
 
 ## Upcoming Talks
 
-**October 10, 2019**  
+**October 10, 2019**<br>   
 [**Travis Glasson**](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (Department of History)<br> 
 CHAT Faculty Fellow 2019-2020<br> 
 "_Sunshine Patriots: Family and Divided Loyalties in the American Revolution_”
 
-**November 7, 2019** 
+**November 7, 2019**<br>  
 **Mariola Alvarez** (Department of Art History)<br> 
 CHAT Faculty Fellow 2019-2020<br> 
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
-**November 21, 2019**
+**November 21, 2019**<br> 
 [**Rebeca Hey-Colon**](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Department of Spanish)<br> 
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
-**December 5, 2019**
+**December 5, 2019**<br> 
 [**Lee-Ann Chae**](https://liberalarts.temple.edu/academics/faculty/chae-lee-ann) (Department of Philosophy)<br>
 
 **January 23, 2020**<br> 
