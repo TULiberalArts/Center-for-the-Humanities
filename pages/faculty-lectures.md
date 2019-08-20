@@ -23,7 +23,7 @@ CHAT Faculty Fellow 2019-2020<br>
 "_Sunshine Patriots: Family and Divided Loyalties in the American Revolution_”
 
 **November 7, 2019**<br>  
-**Mariola Alvarez** (Department of Art History)<br> 
+[**Mariola Alvarez**](https://tyler.temple.edu/faculty/mariola-alvarez-phd) (Department of Art History)<br> 
 CHAT Faculty Fellow 2019-2020<br> 
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
