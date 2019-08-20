@@ -18,11 +18,13 @@ ___
 ## Upcoming Talks
 
 **October 10, 2019**  
-[**Travis Glasson**](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (Department of History) CHAT Faculty Fellow 2019-2020<br> 
+[**Travis Glasson**](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (Department of History)<br> 
+CHAT Faculty Fellow 2019-2020<br> 
 "_Sunshine Patriots: Family and Divided Loyalties in the American Revolution_”
 
 **November 7, 2019** 
-**Mariola Alvarez** (Department of Art History) CHAT Faculty Fellow 2019-2020<br> 
+**Mariola Alvarez** (Department of Art History)<br> 
+CHAT Faculty Fellow 2019-2020<br> 
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
 **November 21, 2019**
@@ -37,16 +39,19 @@ ___
 "_Territorializing Rumors, Dangerous Sex_"
 
 **March 12, 2020**<br> 
-[**James Salazar**](https://liberalarts.temple.edu/academics/faculty/salazar-james) (Department of English) CHAT Faculty Fellow 2019-2020<br>
+[**James Salazar**](https://liberalarts.temple.edu/academics/faculty/salazar-james) (Department of English)<br> 
+CHAT Faculty Fellow 2019-2020<br>
 
 **March 26, 2020**<br> 
-**Brian Creech** (Department of Journalism) CHAT Faculty Fellow 2019-2020<br>
+**Brian Creech** (Department of Journalism)<br> 
+CHAT Faculty Fellow 2019-2020<br>
 
 **April 9, 2020**<br> 
 [**Katya Moytl**](https://liberalarts.temple.edu/academics/faculty/motyl-katya) (Department of History)
 
 **April 23, 2020**<br> 
-[**Patricia Melzer**](https://liberalarts.temple.edu/academics/faculty/melzer-patricia) (Department of German & Department of Gender, Sexuality and Women’s Studies) CHAT Faculty Fellow 2019-2020
+[**Patricia Melzer**](https://liberalarts.temple.edu/academics/faculty/melzer-patricia) (Department of German & Department of Gender, Sexuality and Women’s Studies)<br> 
+CHAT Faculty Fellow 2019-2020
 
 ___
 
