@@ -18,7 +18,7 @@ ___
 ## Upcoming Talks
 
 **October 10, 2019**  
-**Travis Glasson** (Department of History) CHAT Faculty Fellow 2019-2020<br> 
+[**Travis Glasson**](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (Department of History) CHAT Faculty Fellow 2019-2020<br> 
 "_Sunshine Patriots: Family and Divided Loyalties in the American Revolution_”
 
 **November 7, 2019** 
@@ -26,27 +26,27 @@ ___
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
 **November 21, 2019**
-**Rebeca Hey-Colon** (Department of Spanish)<br> 
+[**Rebeca Hey-Colon**](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Department of Spanish)<br> 
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
 **December 5, 2019**
-**Lee-Ann Chae** (Department of Philosophy)<br>
+[**Lee-Ann Chae**](https://liberalarts.temple.edu/academics/faculty/chae-lee-ann) (Department of Philosophy)<br>
 
 **January 23, 2020**<br> 
-**Jess Newman** (Department of Anthropology)<br> 
+[**Jess Newman**](https://liberalarts.temple.edu/academics/faculty/newman-jess-marie) (Department of Anthropology)<br> 
 "_Territorializing Rumors, Dangerous Sex_"
 
 **March 12, 2020**<br> 
-**James Salazar** (Department of English) CHAT Faculty Fellow 2019-2020<br>
+[**James Salazar**](https://liberalarts.temple.edu/academics/faculty/salazar-james) (Department of English) CHAT Faculty Fellow 2019-2020<br>
 
 **March 26, 2020**<br> 
 **Brian Creech** (Department of Journalism) CHAT Faculty Fellow 2019-2020<br>
 
 **April 9, 2020**<br> 
-**Katya Moytl** (Department of History)
+[**Katya Moytl**](https://liberalarts.temple.edu/academics/faculty/motyl-katya) (Department of History)
 
 **April 23, 2020**<br> 
-**Patricia Melzer** (Department of German & Department of Gender, Sexuality and Women’s Studies) CHAT Faculty Fellow 2019-2020
+[**Patricia Melzer**](https://liberalarts.temple.edu/academics/faculty/melzer-patricia) (Department of German & Department of Gender, Sexuality and Women’s Studies) CHAT Faculty Fellow 2019-2020
 
 ___
 
