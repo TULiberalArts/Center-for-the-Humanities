@@ -12,7 +12,7 @@ faculty: profiles/faculty.html
 fellows: profiles/fellows.html
 ---
 
-## Inter-Disciplinary Research Groups
+## Interdisciplinary Research Groups
 
 **Diversity and Inclusion of Caring Professionals in the Arts**<br>
 _Organized by_: Elizabeth Cassidy Parker (Music Education Program, Boyer College of Music and Dance), Cheryl Hyde (School of Social Work, College of Public Health), Lisa Kay (Department of Art Education and Community Arts Practices, Tyler School of Art), Greg McKinney (Librarian, Reference and Instructional Services),  Wendy Magee (Music Therapy Program, Boyer College of Music and Dance), & Helen Shoemark (Music Therapy Program, Boyer College of Music and Dance).
