@@ -43,7 +43,7 @@ CHAT Faculty Fellow 2019-2020<br>
 CHAT Faculty Fellow 2019-2020<br>
 
 **March 26, 2020**<br> 
-**Brian Creech** (Department of Journalism)<br> 
+[**Brian Creech**](https://klein.temple.edu/faculty/brian-creech) (Department of Journalism)<br> 
 CHAT Faculty Fellow 2019-2020<br>
 
 **April 9, 2020**<br> 
