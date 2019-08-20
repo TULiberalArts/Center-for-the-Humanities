@@ -8,7 +8,7 @@ title: Fellowships
 description: >-
 keywords: ''
 # custom variables
-sidebar: sidebars/people.html
+
 ---
 ## Faculty Fellowship
 Temple faculty are given reduced teaching and a $1,000 research budget for the year.
