@@ -16,12 +16,12 @@ ___
 
 ## Upcoming Talks
 
-**October 10, 2019**<br>   
+**October 10, 2019**  
 [**Travis Glasson**](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (Department of History)<br> 
 CHAT Faculty Fellow 2019-2020<br> 
 "_Sunshine Patriots: Family and Divided Loyalties in the American Revolution_”
 
-**November 7, 2019**<br>  
+**November 7, 2019**
 [**Mariola Alvarez**](https://tyler.temple.edu/faculty/mariola-alvarez-phd) (Department of Art History)<br> 
 CHAT Faculty Fellow 2019-2020<br> 
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
