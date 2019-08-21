@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /faculty-lectures/
+permalink: /distinguished-faculty-lectures/
 published: true
 # meta-data variables
-title: Faculty Lectures
+title: Distinguished Faculty Lectures
 description: >-
 keywords: ''
 # custom variables
