@@ -20,16 +20,16 @@ Contributions are tax-deductible as charitable gifts and are formally acknowledg
 Visit Temple's secure [Giving page](https://securelb.imodules.com/s/705/giving/2col.aspx?sid=705&gid=1&pgid=3813&cid=5100&appealcode=WEBG_HeaderButton&utm_source=header_givnowbutton&utm_medium=givingform&utm_campaign=givingsite_template) and select "School/College/Center/Center" as your Designation. In the box that opens, select "Center for the Humanities" under "Centers and Institutions" toward the end of the list.
 
 ### Donate by Mail
-Complete the CHAT Gift Form and return to:
 
+**Complete the CHAT Gift Form and return to:**<br>
 Temple University<br>
 Institutional Advancement<br>
 P.O. Box 827651<br>
 Philadelphia, PA 19182-7651<br>
 
 ### Discuss a contribution
-Please contact:br>
 
+**Please contact:**<br>
 Professor Kimberly D. Williams, Director<br>
 Center for the Humanities at Temple<br>
 [kimberwilliams@temple.edu](mailto:kimberwilliams@temple.edu)
