@@ -27,7 +27,7 @@ CHAT Faculty Fellow 2019-2020<br>
 "_Becoming Modern, Becoming Brazilian: Japanese Brazilian Abstract Artists_"
 
 **November 21, 2019**<br> 
-[**Rebeca Hey-Colon**](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Department of Spanish)<br> 
+[**Rebeca Hey-Colón**](https://liberalarts.temple.edu/academics/faculty/hey-col-n-rebeca-l) (Department of Spanish)<br> 
 "_Spectral Waters: Diasporic Women’s Writing from Hispaniola_”
 
 **December 5, 2019**<br> 
