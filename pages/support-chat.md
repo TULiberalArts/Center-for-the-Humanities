@@ -4,7 +4,7 @@ layout: tla_page_test
 permalink: /support-chat/
 published: true
 # meta-data variables
-title: Support-Chat
+title: Support Chat
 description: >-
 keywords: ''
 # custom variables
