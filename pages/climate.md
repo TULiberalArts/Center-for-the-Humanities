@@ -9,6 +9,8 @@ description: >-
 keywords: ''
 # custom variables
 ---
+![CHAT]({{site.baseurl}}/media/cropped2heroclimate.png){:.responsive-img .img-center}
+
 ## CHAT 2019-2020 Theme: Climate
 CHAT is pleased to welcome leading humanities scholars to Temple University in the 2019-2020 to present their work on Climate. 
 
