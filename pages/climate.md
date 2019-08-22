@@ -14,11 +14,11 @@ keywords: ''
 CHAT is pleased to welcome leading humanities scholars to Temple University in the 2019-2020 to present their work on Climate. 
 
 **Friday Sept 27, 4:00pm**<br>
-Karen Pinkus (Professor of Italian and Comparative Literature, Department of Romance Studies, Cornell University)<br>
+[Karen Pinkus](https://events.temple.edu/chat-climate-talk-series-karen-pinkus) (Professor of Italian and Comparative Literature, Department of Romance Studies, Cornell University)<br>
 CHAT Climate Speaker Series: _“Thinking Decarbonization with Literature”_
 
 **Friday Nov 1, 4:00pm**<br>
-Ben Mendelsohn (Mellon Postdoctoral Fellow, Penn Program in Environmental Humanities, University of Pennsylvania)<br>
+[Ben Mendelsohn](https://events.temple.edu/chat-climate-speaker-series-ben-mendelsohn) (Mellon Postdoctoral Fellow, Penn Program in Environmental Humanities, University of Pennsylvania)<br>
 CHAT Climate Speaker Series: _“Documentary Experiments in Urban and Environmental Research”_
 
 **Friday Jan 31, 4:00pm**<br>
