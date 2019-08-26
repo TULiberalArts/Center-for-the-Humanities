@@ -8,7 +8,6 @@ title: Past Lectures
 description: >-
 keywords: ''
 # custom variables
-sidebar: sidebars/people.html
 ---
 ## 2018-2019 Lecture Series 
 
