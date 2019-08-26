@@ -31,6 +31,7 @@ CHAT Faculty Fellow 2019-2020<br>
 
 **December 5, 2019**<br> 
 [**Lee-Ann Chae**](https://liberalarts.temple.edu/academics/faculty/chae-lee-ann) (Department of Philosophy)<br>
+"_Trust and Contingency Plans_"
 
 **January 23, 2020**<br> 
 [**Jess Newman**](https://liberalarts.temple.edu/academics/faculty/newman-jess-marie) (Department of Anthropology)<br> 
