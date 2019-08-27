@@ -16,9 +16,17 @@ CHAT is pleased to welcome leading humanities scholars to Temple University in t
 [Karen Pinkus](https://events.temple.edu/chat-climate-talk-series-karen-pinkus) (Professor of Italian and Comparative Literature, Department of Romance Studies, Cornell University)<br>
 CHAT Climate Speaker Series: _“Thinking Decarbonization with Literature”_
 
+**Tuesday Oct 15, 4:00pm**<br>
+[Jacob Shell](https://liberalarts.temple.edu/academics/faculty/shell-jacob) (Department of Geography and Urban Studies, Temple University)<br>
+CHAT Climate Speaker Series: _"Giants of the Monsoon Forest: Climate, Forest Cover, and Elephant Culture in Myanmar (Burma) and Northeast India"_
+
 **Friday Nov 1, 4:00pm**<br>
 [Ben Mendelsohn](https://events.temple.edu/chat-climate-speaker-series-ben-mendelsohn) (Mellon Postdoctoral Fellow, Penn Program in Environmental Humanities, University of Pennsylvania)<br>
 CHAT Climate Speaker Series: _“Documentary Experiments in Urban and Environmental Research”_
+
+**Friday Nov 14, 4:00pm**<br>
+[Kimberley Thomas ](https://liberalarts.temple.edu/academics/faculty/thomas-kimberley) (Department of Geography and Urban Studies, Temple University)<br>
+CHAT Climate Speaker Series: _TBA_
 
 **Friday Jan 31, 4:00pm**<br>
 [Deborah Coen](https://history.yale.edu/people/deborah-coen) (Department of History, Yale University)<br> 
