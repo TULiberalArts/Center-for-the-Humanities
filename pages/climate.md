@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 ---
 ## CHAT 2019-2020 Theme: Climate
-CHAT is pleased to welcome leading humanities scholars to Temple University in the 2019-2020 to present their work on Climate. 
+CHAT is pleased to welcome leading humanities scholars to Temple University in the 2019-2020 academic year to present their work on Climate. 
 
 **Friday Sept 27, 4:00pm**<br>
 [Karen Pinkus](https://events.temple.edu/chat-climate-talk-series-karen-pinkus) (Professor of Italian and Comparative Literature, Department of Romance Studies, Cornell University)<br>
