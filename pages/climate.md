@@ -30,7 +30,7 @@ CHAT Climate Speaker Series: _TBA_
 
 **Friday Jan 31, 4:00pm**<br>
 [Deborah Coen](https://history.yale.edu/people/deborah-coen) (Department of History, Yale University)<br> 
-CHAT Climate Speaker Series: TBA
+CHAT Climate Speaker Series: _"The Floral Archive: Climate Change, History, and the Problem of Scale"_
 
 **Thursday Feb 6, 4:00pm**<br>
 Gwen Robbins Schug (Department of Anthropology, Appalachian State University)<br> 
