@@ -24,8 +24,10 @@ The Center for the Humanities at Temple (CHAT) fosters innovative research by fa
     font: 14px Helvetica, Arial, sans-serif;
     width: 100%;
   }
-<p>/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.<br>
-We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br>
+  
+    <p>/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.<br>
+    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */<br>
+    
 </style></p>
 <div id="mc_embed_signup">
   <form action="https://temple.us1.list-manage.com/subscribe/post?u=daac6912a370e1cb9d2c3756a&amp;id=49a7937a70" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
