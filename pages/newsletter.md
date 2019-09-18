@@ -1,3 +1,13 @@
+---
+# global predefined variables
+layout: tla_page_test
+permalink: /newsletter/
+published: true
+# meta-data variables
+title: Newsletter
+keywords: 'newsletter, CHAT'
+# custom variables
+---
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
