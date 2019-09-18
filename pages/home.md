@@ -11,6 +11,7 @@ keywords: ''
 promotion-table: true
 feature: true
 feature-image: 
+newsletter: components/newsletter.html
 ---
 ![CHAT]({{site.baseurl}}/media/resizedclimateposter.jpg){:.responsive-img .img-left}
 ## Center for the Humanities at Temple
