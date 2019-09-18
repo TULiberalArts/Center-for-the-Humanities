@@ -19,35 +19,24 @@ keywords: 'newsletter, CHAT'
 <form action="https://temple.us1.list-manage.com/subscribe/post?u=daac6912a370e1cb9d2c3756a&amp;id=49a7937a70" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to our newsletter</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
-</label>
+	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
-</label>
+	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group input-group">
-    <strong>Status  <span class="asterisk">*</span>
-</strong>
+    <strong>Status </strong>
     <ul><li><input type="radio" value="Faculty" name="MMERGE3" id="mce-MMERGE3-0"><label for="mce-MMERGE3-0">Faculty</label></li>
 <li><input type="radio" value="Student" name="MMERGE3" id="mce-MMERGE3-1"><label for="mce-MMERGE3-1">Student</label></li>
 <li><input type="radio" value="Alumni" name="MMERGE3" id="mce-MMERGE3-2"><label for="mce-MMERGE3-2">Alumni</label></li>
 <li><input type="radio" value="Other" name="MMERGE3" id="mce-MMERGE3-3"><label for="mce-MMERGE3-3">Other</label></li>
-</ul>
-</div>
-<div class="mc-field-group input-group">
-    <strong>Email Format </strong>
-    <ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">html</label></li>
-<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">text</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
