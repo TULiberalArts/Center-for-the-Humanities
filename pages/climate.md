@@ -26,7 +26,7 @@ CHAT Climate Speaker Series: _“Documentary Experiments in Urban and Environmen
 
 **Friday Nov 14, 4:00pm**<br>
 [Kimberley Thomas ](https://liberalarts.temple.edu/academics/faculty/thomas-kimberley) (Department of Geography and Urban Studies, Temple University)<br>
-CHAT Climate Speaker Series: _TBA_
+CHAT Climate Speaker Series: _"Weaponizing Vulnerability to Climate Change"_
 
 **Friday Jan 31, 4:00pm**<br>
 [Deborah Coen](https://history.yale.edu/people/deborah-coen) (Department of History, Yale University)<br> 
@@ -35,6 +35,10 @@ CHAT Climate Speaker Series: _"The Floral Archive: Climate Change, History, and 
 **Thursday Feb 6, 4:00pm**<br>
 Gwen Robbins Schug (Department of Anthropology, Appalachian State University)<br> 
 CHAT Climate Speaker Series: _"Climate Change, Human Biocultural Diversity, and Resilience: What Can Studies of the Past Tell Us About the Future?"_
+
+**Monday Feb 10, 4:00pm**<br>
+Alissa Jordan (Center for Experimental Ethnography, University of Pennsylvania)<br> 
+CHAT Climate Speaker Series: _“Anti-Fatalist Futures: Haitian Vodou Lessons on Living Well in Global End Times"_
 
 **Thursday Feb 20, 4:00pm**<br>
 Lowell Duckert (Department of English, University of Delaware)<br> 
