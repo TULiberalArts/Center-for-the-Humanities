@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page_test
 permalink: /newsletter/
-published: false
+published: true
 # meta-data variables
 title: Newsletter
 keywords: 'newsletter, CHAT'
