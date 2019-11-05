@@ -24,7 +24,7 @@ CHAT Climate Speaker Series: _"Giants of the Monsoon Forest: Climate, Forest Cov
 [Ben Mendelsohn](https://events.temple.edu/chat-climate-speaker-series-ben-mendelsohn) (Mellon Postdoctoral Fellow, Penn Program in Environmental Humanities, University of Pennsylvania)<br>
 CHAT Climate Speaker Series: _“Documentary Experiments in Urban and Environmental Research”_
 
-**Friday Nov 14, 4:00pm**<br>
+**Thursday Nov 14, 4:00pm**<br>
 [Kimberley Thomas ](https://liberalarts.temple.edu/academics/faculty/thomas-kimberley) (Department of Geography and Urban Studies, Temple University)<br>
 CHAT Climate Speaker Series: _"Weaponizing Vulnerability to Climate Change"_
 
