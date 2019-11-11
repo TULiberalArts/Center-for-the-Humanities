@@ -51,7 +51,7 @@ The CHAT Advisory Board helps shape the future of the Center. Board members eval
 - [Paul Garrett](https://liberalarts.temple.edu/academics/faculty/garrett-paul-b) - Associate Professor of Anthropology, College of Liberal Arts, 2019-2022
 - [Cristina Gragnani](https://liberalarts.temple.edu/academics/faculty/gragnani-cristina) - Associate Professor of Italian and Chair of the Department of French, German, Italian, and Slavic Languages, College of Liberal Arts, 2017-2020
 - [Patrick Murphy](https://tyler.temple.edu/faculty/ashley-d-west-phd) - Associate Professor of Media and Production and Associate Dean for Research and Graduate Studies, Klein School of Media and Communication, 2017-2020
-- [Lara Ostaric](https://liberalarts.temple.edu/academics/faculty/ostaric-lara) - Assistant Professor of Philosophy, College of Liberal Arts, 2019-2022
+- [Lara Ostaric](https://liberalarts.temple.edu/academics/faculty/ostaric-lara) - Associate Professor of Philosophy, College of Liberal Arts, 2019-2022
 - [Erin Pauwels](https://tyler.temple.edu/faculty/erin-pauwels) - Assistant Professor of American Art, Tyler School of Art, 2018-2021 
 - [Víctor Pueyo Zoco](https://liberalarts.temple.edu/academics/faculty/pueyo-zoco-v-ctor) - Associate Professor and Associate Chair for Graduate Studies, Department of Spanish and Portuguese, College of Liberal Arts, 2019-2022
 - [Mónica Ricketts](https://liberalarts.temple.edu/academics/faculty/ricketts-m-nica) - Associate Professor of History, College of Liberal Arts, 2019-2022
