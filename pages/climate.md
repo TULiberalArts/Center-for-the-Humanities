@@ -45,12 +45,12 @@ Lowell Duckert (Department of English, University of Delaware)<br>
 CHAT Climate Speaker Series: _"Cold Doings"_
 
 **Monday March 16, 4:00pm**<br>
-Richard Watts (Department of French and Italian Studies, University of Washington)<br>
-CHAT Climate Speaker Series: _“Climate, Water, and the Humanities: Narratives of Reclamation in a Context of Catastrophe”_
-
-**Friday March 27, 4:00pm**<br>
 Dale Jamieson (Departments of Environmental Studies & Philosophy Director of Center for Environmental and Animal Protection, New York University)<br>
 CHAT Climate Speaker Series: _“The Misunderstood Risks of Climate Change”_
+
+**Friday March 27, 4:00pm**<br>
+Richard Watts (Department of French and Italian Studies, University of Washington)<br>
+CHAT Climate Speaker Series: _“Climate, Water, and the Humanities: Narratives of Reclamation in a Context of Catastrophe”_
 
 **Friday April 3, 4:00pm**<br>
 Nadia Chana (Department of Ethnomusicology, University of Wisconsin, Madison)<br> 
