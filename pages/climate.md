@@ -45,11 +45,11 @@ CHAT Climate Speaker Series: _"Cold Doings"_
 CHAT Climate Speaker Series: _“The Misunderstood Risks of Climate Change”_
 
 **Friday March 27, 4:00pm**<br>
-[Richard Watts](https://frenchitalian.washington.edu/people/richard-watts)(Department of French and Italian Studies, University of Washington)<br>
+[Richard Watts](https://frenchitalian.washington.edu/people/richard-watts) (Department of French and Italian Studies, University of Washington)<br>
 CHAT Climate Speaker Series: _“Climate, Water, and the Humanities: Narratives of Reclamation in a Context of Catastrophe”_
 
 **Friday April 3, 4:00pm**<br>
-[Nadia Chana](https://www.music.wisc.edu/faculty/nadia-chana/)(Department of Ethnomusicology, University of Wisconsin, Madison)<br> 
+[Nadia Chana](https://www.music.wisc.edu/faculty/nadia-chana/) (Department of Ethnomusicology, University of Wisconsin, Madison)<br> 
 CHAT Climate Speaker Series: _“Song, Settlers, Salmon”_
 
 **Friday April 10, 4:00pm**<br>
