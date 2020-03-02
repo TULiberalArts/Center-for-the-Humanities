@@ -32,26 +32,26 @@ CHAT Climate Speaker Series: _"Weaponizing Vulnerability to Climate Change"_
 [Deborah Coen](https://history.yale.edu/people/deborah-coen) (Department of History, Yale University)<br> 
 CHAT Climate Speaker Series: _"The Floral Archive: Climate Change, History, and the Problem of Scale"_
 
-**Thursday Feb 6, 4:00pm**<br>
-Gwen Robbins Schug (Department of Anthropology, Appalachian State University)<br> 
-CHAT Climate Speaker Series: _"Climate Change, Human Biocultural Diversity, and Resilience: What Can Studies of the Past Tell Us About the Future?"_
-
 **Monday Feb 10, 4:00pm**<br>
-Alissa Jordan (Center for Experimental Ethnography, University of Pennsylvania)<br> 
+[Alissa Jordan](https://alissajordan.org) (Center for Experimental Ethnography, University of Pennsylvania)<br> 
 CHAT Climate Speaker Series: _“Anti-Fatalist Futures: Haitian Vodou Lessons on Living Well in Global End Times"_
 
 **Thursday Feb 20, 4:00pm**<br>
-Lowell Duckert (Department of English, University of Delaware)<br> 
+[Lowell Duckert](https://www.english.udel.edu/people/lduckert) (Department of English, University of Delaware)<br> 
 CHAT Climate Speaker Series: _"Cold Doings"_
 
 **Monday March 16, 4:00pm**<br>
-Dale Jamieson (Departments of Environmental Studies & Philosophy Director of Center for Environmental and Animal Protection, New York University)<br>
+[Dale Jamieson](https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=25471) (Departments of Environmental Studies & Philosophy Director of Center for Environmental and Animal Protection, New York University)<br>
 CHAT Climate Speaker Series: _“The Misunderstood Risks of Climate Change”_
 
 **Friday March 27, 4:00pm**<br>
-Richard Watts (Department of French and Italian Studies, University of Washington)<br>
+[Richard Watts](https://frenchitalian.washington.edu/people/richard-watts)(Department of French and Italian Studies, University of Washington)<br>
 CHAT Climate Speaker Series: _“Climate, Water, and the Humanities: Narratives of Reclamation in a Context of Catastrophe”_
 
 **Friday April 3, 4:00pm**<br>
-Nadia Chana (Department of Ethnomusicology, University of Wisconsin, Madison)<br> 
+[Nadia Chana](https://www.music.wisc.edu/faculty/nadia-chana/)(Department of Ethnomusicology, University of Wisconsin, Madison)<br> 
 CHAT Climate Speaker Series: _“Song, Settlers, Salmon”_
+
+**Friday April 10, 4:00pm**<br>
+[Gwen Robbins Schug](https://anthro.appstate.edu/directory/dr-gwen-m-robbins-schug) (Department of Anthropology, Appalachian State University)<br> 
+CHAT Climate Speaker Series: _"Climate Change, Human Biocultural Diversity, and Resilience: What Can Studies of the Past Tell Us About the Future?"_
