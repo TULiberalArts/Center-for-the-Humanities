@@ -53,7 +53,7 @@ CHAT Faculty Fellow 2019-2020<br>
 "_Private Platforms, Public Demands: Tech CEOs as Locus of Popular Critique_"
 
 **April 9, 2020**<br> 
-[**Katya Moytl**](https://liberalarts.temple.edu/academics/faculty/motyl-katya) (Department of History)
+[**Katya Moytl**](https://liberalarts.temple.edu/academics/faculty/motyl-katya) (Department of History)<br>
 "_The Mysterious and Endangered Reality of Femininity: New Womanhood in Vienna,1890-1930_"
 
 CHAT Faculty Fellow 2019-2020
