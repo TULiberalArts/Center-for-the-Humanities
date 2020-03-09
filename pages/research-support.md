@@ -41,7 +41,7 @@ Proposals that engage emerging fields of inquiry and/or are linked to an interdi
 
 Groups must have at least two faculty organizers from different departments (at least one of these must be from the College of Liberal Arts) and a minimum of four faculty members from within Temple University. Groups may apply for funding renewal every year. A report of past year’s activities is due to the Director of CHAT by May 1, 2021 or at the time of application for funds for the next academic year.
 
-- **Deadline for 2020-2021 Fellowships is April 1, 2020**
+- **Deadline for 2020-2021 Proposals is April 1, 2020**
 - [**Application Information**](https://docs.google.com/forms/d/e/1FAIpQLSdUZgvFETf7vf3wZJCyNx5KL-m9oF3fhcbRdYPOTsMF6dGWOg/viewform?mc_cid=5a6f8829e8&mc_eid=bf6a5bf0ce)
 
 ___
