@@ -37,22 +37,22 @@ CHAT Faculty Fellow 2019-2020<br>
 [**Jess Newman**](https://liberalarts.temple.edu/academics/faculty/newman-jess-marie) (Department of Anthropology)<br> 
 "_Territorializing Rumors, Dangerous Sex_"
 
-**March 12, 2020**<br> 
+**Postponed**<br> 
 [**James Salazar**](https://liberalarts.temple.edu/academics/faculty/salazar-james) (Department of English)<br> 
 CHAT Faculty Fellow 2019-2020<br>
 "_Embodying Time: Pedagogies of Rhythm in 19th Century American Culture_"
 
-**March 19, 2020**<br> 
+**Postponed**<br> 
 [**Patricia Melzer**](https://liberalarts.temple.edu/academics/faculty/melzer-patricia) (Department of German & Department of Gender, Sexuality and Women’s Studies)<br> 
 CHAT Faculty Fellow 2019-2020<br>
 "_Militante Mannsbilder: Alternative Masculinities in Men’s Groups of the Autonomen_"
 
-**March 26, 2020**<br> 
+**Postponed**<br> 
 [**Brian Creech**](https://klein.temple.edu/faculty/brian-creech) (Department of Journalism)<br> 
 CHAT Faculty Fellow 2019-2020<br>
 "_Private Platforms, Public Demands: Tech CEOs as Locus of Popular Critique_"
 
-**April 9, 2020**<br> 
+**Postponed**<br> 
 [**Katya Moytl**](https://liberalarts.temple.edu/academics/faculty/motyl-katya) (Department of History)<br>
 "_The Mysterious and Endangered Reality of Femininity: New Womanhood in Vienna,1890-1930_"
 
