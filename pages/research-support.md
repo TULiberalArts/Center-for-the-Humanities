@@ -28,13 +28,6 @@ Applicants must be CLA, Klein, or Tyler Ph.D. students in good standing who have
 - **Deadline for 2020-2021 Fellowships is April 1, 2020**
 - [**Application Information**](https://docs.google.com/forms/d/e/1FAIpQLSfZ_nR6RMtr9uNNM-JUEt7UWs2HMO8LR0EUOWt3vN2P19aaMw/viewform?mc_cid=5a6f8829e8&mc_eid=bf6a5bf0ce)
 
-## Associate Graduate Scholar Award
-The Associate Graduate Scholar Award provides research money to graduate students who have finished coursework or are in their third year. Graduate Associate Fellows join the bi-weekly CHAT Fellows Seminar and receive $1000 in research funding. Seminar participants enjoy a research-focused interdisciplinary forum when everyone presents part of their dissertation for critique over lunch by the full interdisciplinary group of graduate and faculty fellows. Discussions are lively and focus on methodological issues. The research
-award funds standard research expenses, including travel to conferences or archives, membership fees in professional associations, and book and equipment purchases.
-
-**Eligibility**
-This fellowship is available to Temple Ph.D. students in good standing who have completed all course and exam requirements for the degree and will be elevated to candidacy by the start of the fellowship term (see Graduate School Policies and Procedures 02.27.13). Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may result in a loss of the award at the discretion of the CHAT Director. Associates remain eligible for all other CHAT Fellowships during the award year and may apply for them at any time. Students may only receive the Graduate Associate Fellowship once.
-
 ## Interdisciplinary Research Groups
 The Center for the Humanities at Temple supports Interdisciplinary Research Groups. These groups may be awarded funding to organize conferences, lectures, and other activities. These groups help Temple faculty from different departments, schools, and colleges to pursue shared research interests as well as participate in consortia with faculty from other universities. 
 Proposals that engage emerging fields of inquiry and/or are linked to an interdisciplinary agenda are encouraged. Successful proposals are awarded between $500 and $1500 for use during the academic year of the award, depending on the size of the group and the research agenda. Unused funds will revert back to CHAT by June 30th. Groups receive priority access to CHAT facilities for meetings and lectures.
