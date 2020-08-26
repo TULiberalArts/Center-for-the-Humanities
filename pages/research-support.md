@@ -47,6 +47,7 @@ The CHAT Advisory Board helps shape the future of the Center. Board members eval
 - [Brian Creech](https://klein.temple.edu/faculty/brian-creech) - Associate Professor of Journalism and Media and Communication, Klein School of Media and Communication, 2020-2023
 - [Orfeo Fioretis](https://liberalarts.temple.edu/academics/faculty/fioretos-k-orfeo) - Associate Professor of Political Science, College of Liberal Arts, 2017-2020
 - [Paul Garrett](https://liberalarts.temple.edu/academics/faculty/garrett-paul-b) - Associate Professor of Anthropology, College of Liberal Arts, 2019-2022
+- [Shana Goldin-Perschbacher](https://www.temple.edu/boyer/about/people/Goldin-Perschbacher.asp) - Assistant Professor of Music History, Boyer School of Music and Dance, 2020-2023
 - [Cristina Gragnani](https://liberalarts.temple.edu/academics/faculty/gragnani-cristina) - Associate Professor of Italian and Chair of the Department of French, German, Italian, and Slavic Languages, College of Liberal Arts, 2020-2023
 - [Lara Ostaric](https://liberalarts.temple.edu/academics/faculty/ostaric-lara) - Associate Professor of Philosophy, College of Liberal Arts, 2019-2022
 - [Erin Pauwels](https://tyler.temple.edu/faculty/erin-pauwels) - Assistant Professor of American Art, Tyler School of Art, 2018-2021 
