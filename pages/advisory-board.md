@@ -20,6 +20,7 @@ The CHAT Advisory Board helps shape the future of the Center. Board members eval
 - [Dr. Patrick Murphy](https://tyler.temple.edu/faculty/ashley-d-west-phd) - Associate Professor of Media and Production and Associate Dean for Research and Graduate Studies, Klein School of Media and Communication
 - [Dr. Erin Pauwels](https://tyler.temple.edu/faculty/erin-pauwels) – Assistant Professor of Art History
 - [Dr. Bryant Simon](https://liberalarts.temple.edu/academics/faculty/simon-bryant) – Professor of History
+- [Dr. Ashley D. West](https://tyler.temple.edu/faculty/ashley-d-west-phd) -  Associate Professor of Northern Renaissance and Baroque Art, 1400-1700 and Graduate Director in Art History, Tyler School of Art and Architecture, 2020-2023
 - [Dr. Kimberly Williams](https://liberalarts.temple.edu/academics/faculty/williams-kimberly-d) - Associate Professor of Anthropology
 - [Dr. Matt Wray](https://liberalarts.temple.edu/academics/faculty/wray-matt) - Associate Professor of Sociology
 - [Dr. Steven Zohn](https://tyler.temple.edu/faculty/ashley-d-west-phd) - Laura H. Carnell Professor of Music Studies and Music History
