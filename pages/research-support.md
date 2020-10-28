@@ -13,7 +13,7 @@ keywords: ''
 ## Faculty Fellowships
 Faculty fellowships provide teaching relief and research support for tenured and tenure-track faculty pursuing research in the humanities or humanistic social sciences. Fellows receive a one-course teaching reduction during the year and $1,000 for research expenses. Recipients participate in the bi-weekly Fellows Seminar, where all members present part of their work-in-progress for critique to a lively interdisciplinary group of faculty and doctoral students. Fellows also present their research as a public lecture during the year.
 
-**Eligibility**
+**Eligibility**<br>
 Tenured and tenure-track faculty working on research projects in the humanities or humanistic social sciences are eligible. Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may
 result in a loss of the award at the discretion of the CHAT Director. Previous applicants are encouraged to reapply. Previous recipients of the Fellowship may reapply four years after the end of the last fellowship year. Simultaneous application to external fellowships is encouraged.
 
