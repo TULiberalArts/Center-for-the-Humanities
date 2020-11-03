@@ -55,3 +55,4 @@ The CHAT Advisory Board helps shape the future of the Center. Board members eval
 - [Víctor Pueyo Zoco](https://liberalarts.temple.edu/academics/faculty/pueyo-zoco-v-ctor) - Associate Professor and Associate Chair for Graduate Studies, Department of Spanish and Portuguese, College of Liberal Arts, 2019-2022
 - [Mónica Ricketts](https://liberalarts.temple.edu/academics/faculty/ricketts-m-nica) - Associate Professor of History, College of Liberal Arts, 2019-2022
 - [Bryant Simon](https://liberalarts.temple.edu/academics/faculty/simon-bryant) - Professor of History, College of Liberal Arts, 2018-2021
+- [Dr. Ashley D. West](https://tyler.temple.edu/faculty/ashley-d-west-phd) -  Associate Professor of Northern Renaissance and Baroque Art, 1400-1700 and Graduate Director in Art History, Tyler School of Art, 2020-2023
