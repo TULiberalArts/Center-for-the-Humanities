@@ -13,7 +13,7 @@ The Distinguished Faculty Lectures showcase new research by Temple faculty follo
 
 ___
 
-## Upcoming Talks
+## 2019-20 Lecture Series
 
 **October 10, 2019**  
 [**Travis Glasson**](https://liberalarts.temple.edu/academics/faculty/glasson-travis) (Department of History)<br> 
