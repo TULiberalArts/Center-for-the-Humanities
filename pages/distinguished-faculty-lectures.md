@@ -54,9 +54,9 @@ CHAT Faculty Fellow 2019-2020<br>
 
 **Postponed**<br> 
 [**Katya Moytl**](https://liberalarts.temple.edu/academics/faculty/motyl-katya) (Department of History)<br>
+CHAT Faculty Fellow 2019-2020<br>
 "_The Mysterious and Endangered Reality of Femininity: New Womanhood in Vienna,1890-1930_"
 
-CHAT Faculty Fellow 2019-2020
 - [**_View all of our 2018-2019 Past Lectures!_**](https://www.cla.temple.edu/center-for-the-humanities/past-lectures/)
 
 ___
