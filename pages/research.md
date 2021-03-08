@@ -27,3 +27,4 @@ Organized by: Talissa Ford (Department of English, College of Liberal Arts) & Er
 
 **[Interdisciplinary Science Studies Group](https://sites.temple.edu/stsnetwork/)**  
 _Organized by_: Allison Hayes-Conroy (Department of Environmental Studies & Department of Geography and Urban Studies, College of Liberal Arts) & Tom Waidzunas (Department of Sociology, College of Liberal Arts)
+
