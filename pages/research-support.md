@@ -26,8 +26,8 @@ Advanced Graduate Scholar Awards provide financial support to resident doctoral 
 **Eligibility**
 Applicants must be CLA, Klein, or Tyler Ph.D. students in good standing who have completed all course and exam requirements for the degree and will be elevated to candidacy by the start of the fellowship term (see Graduate School Policies and Procedures 02.27.13). Recipients must complete the degree no later than one year following the academic year of the award. Recipients must be able to attend and participate in person in the bi-weekly CHAT Fellows Seminar in order to remain eligible for the award. Failure to attend the Seminars in person may result in a loss of the award at the discretion of the CHAT Director. Previous recipients of the Graduate School Senior Doctoral Fellowship, the Graduate School Doctoral Dissertation Grant, or the CLA Advanced Graduate Scholar Award are ineligible.
 
-- **Deadline for 2020-2021 Fellowships is April 1, 2020**
-- [**Application Information**](https://docs.google.com/forms/d/e/1FAIpQLSfZ_nR6RMtr9uNNM-JUEt7UWs2HMO8LR0EUOWt3vN2P19aaMw/viewform?mc_cid=5a6f8829e8&mc_eid=bf6a5bf0ce)
+- **Deadline for 2021-2022 Fellowships is April 1, 2021**
+- [**Application Information**](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25ZkH2pyK5tFHup3wsh1vHttUNFBCVkJOQTZJV01QU0FFTFJVQTYwUlpXRS4u)
 
 ## Interdisciplinary Research Groups
 The Center for the Humanities at Temple supports Interdisciplinary Research Groups. These groups may be awarded funding to organize conferences, lectures, and other activities. These groups help Temple faculty from different departments, schools, and colleges to pursue shared research interests as well as participate in consortia with faculty from other universities. 
@@ -35,8 +35,8 @@ Proposals that engage emerging fields of inquiry and/or are linked to an interdi
 
 Groups must have at least two faculty organizers from different departments (at least one of these must be from the College of Liberal Arts) and a minimum of four faculty members from within Temple University. Groups may apply for funding renewal every year. A report of past year’s activities is due to the Director of CHAT by May 1, 2021 or at the time of application for funds for the next academic year.
 
-- **Deadline for 2020-2021 Proposals is April 1, 2020**
-- [**Application Information**](https://docs.google.com/forms/d/e/1FAIpQLSdUZgvFETf7vf3wZJCyNx5KL-m9oF3fhcbRdYPOTsMF6dGWOg/viewform?mc_cid=5a6f8829e8&mc_eid=bf6a5bf0ce)
+- **Deadline for 2021-2022 Proposals is May 15, 2021**
+- [**Application Information**](https://forms.office.com/Pages/ResponsePage.aspx?id=74FucSK1c0SOMRC9Asz25ZkH2pyK5tFHup3wsh1vHttUMEZORlQyWkNPSlZEOU5ZVUJXOFhVUTEwSS4u)
 
 ___
 
